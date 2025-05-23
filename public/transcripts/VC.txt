@@ -1,0 +1,3825 @@
+# tactiq.io free youtube transcript
+# Ep #9 | WTF is Venture Capital? Ft. Nikhil, Nithin, Rajan A., Prashanth P. & Karthik R.
+# https://www.youtube.com/watch/zCTm1wHcfkI
+
+00:00:00.260 my aspiration for this particular
+00:00:02.820 session is anybody who's starting a
+00:00:04.740 company in the next few years
+00:00:06.720 if they were to watch this they will
+00:00:08.280 learn something
+00:00:10.460 an entrepreneur should go build a
+00:00:13.380 business solving a problem which he
+00:00:15.719 cares most about look the excitement in
+00:00:18.420 India is higher than it's ever been we
+00:00:20.820 were trying to establish how much VC
+00:00:22.920 money has come into India it's roughly
+00:00:24.779 around 60 60 billion are they really
+00:00:26.880 investing in you the fund manager are
+00:00:29.519 they investing in India I'm looking 10
+00:00:31.560 years out I want to see what's a billion
+00:00:33.840 dollar opportunity 10 years from now and
+00:00:35.640 what are the typical days when you start
+00:00:37.559 off at a VC 60 70 lakh what are you
+00:00:40.920 saying really
+00:00:49.980 hi guys thank you everyone for coming
+00:00:53.219 here uh first thing I want to say is
+00:00:56.399 this is not me interviewing you or
+00:00:59.399 moderating a conversation this is more
+00:01:02.280 five friends trying to have a
+00:01:04.019 conversation I think uh all of you have
+00:01:07.439 a lot of experience in the Venture world
+00:01:09.720 and in the investing world
+00:01:13.500 a lot of people want to create
+00:01:15.540 businesses startup entrepreneurship in
+00:01:18.479 India and they will do so in the next
+00:01:20.340 decade
+00:01:21.479 so we want to cover all things startup
+00:01:24.900 what sector to focus on where it would
+00:01:27.780 it would be easiest to raise funding
+00:01:29.820 which sectors are growing fast what you
+00:01:33.240 guys think are
+00:01:35.100 sectors with Tailwinds which one have
+00:01:37.920 headwinds and we will also kind of talk
+00:01:40.920 about the problems of the Venture
+00:01:42.720 Capital World compare Venture Capital to
+00:01:45.479 PE and Angel talk about what happened in
+00:01:48.900 the last decade what went wrong and what
+00:01:52.140 can we fix to make sure the next decade
+00:01:54.720 is better not just for us here but every
+00:01:58.259 single guy who's looking to start a
+00:02:00.420 company tomorrow
+00:02:01.740 so maybe start off with introductions uh
+00:02:05.460 I'll come to Prashant last Mimi Nathan
+00:02:07.920 can start
+00:02:09.440 okay I'm Nathan his brother
+00:02:12.680 what is nitin doing here
+00:02:16.640 yeah so we were chatting with each other
+00:02:20.459 genuine authentic story and I was like
+00:02:23.160 you diss we see so much on Twitter like
+00:02:26.520 tell me like give me some questions to
+00:02:28.319 ask
+00:02:30.620 we chatted for 20 minutes and then I'm
+00:02:33.060 like why didn't you just come join yeah
+00:02:35.580 I'm I'm zero prepared you know I'm
+00:02:37.560 actually wearing his shirt right now so
+00:02:40.080 now from 2016 we started this thing
+00:02:42.959 called as rain matter
+00:02:45.000 um which is which started off as a fund
+00:02:48.239 incubator I don't know what you can call
+00:02:49.860 it but we said we can't solve for all
+00:02:52.800 capital Market problems and we need to
+00:02:54.540 associate partner Etc and when startups
+00:02:57.120 came so we had built a bunch of apis for
+00:02:58.920 startups to build on top of us so small
+00:03:01.500 quiz was the first startup that came out
+00:03:02.940 of the you know the of the rain matter
+00:03:04.620 initiative so the rain matter of intake
+00:03:07.260 kind of extended into rain matter Health
+00:03:09.480 which I am very passionate about and
+00:03:11.519 then rain matter climate uh you know
+00:03:13.500 which we are supporting through our
+00:03:14.640 foundation so we've now invested in 8085
+00:03:18.900 startups I'm going to ask this question
+00:03:20.879 to everybody right in the 85 startups
+00:03:23.700 that we have invested in how many have
+00:03:26.940 survived how many have thrived and how
+00:03:29.580 many have shut down I think so for us I
+00:03:32.340 think
+00:03:33.780 to have shut up
+00:03:36.239 because we are very early writers and we
+00:03:38.099 are still like five four five years and
+00:03:39.900 so we're still quite early in the game
+00:03:41.459 probably they'll have better answers to
+00:03:42.900 this Karthik would you like to go next
+00:03:44.280 sure
+00:03:45.840 so
+00:03:46.980 um
+00:03:47.640 I went to the US in 99
+00:03:50.400 after working here for about three years
+00:03:52.080 for my business school and then essay
+00:03:55.019 said I want to be on Wall Street Etc and
+00:03:57.720 when there it was the absolute peak of
+00:03:59.280 the.com Boom so
+00:04:01.799 so 99 you land up there and then
+00:04:03.840 everything shifted so I spent my winter
+00:04:06.540 break my summer break everything in
+00:04:08.640 Silicon Valley
+00:04:09.959 so got enamored with this idea of how
+00:04:12.480 technology can be applied to everything
+00:04:13.680 and so I try to break through
+00:04:15.000 desperately but everything came crashing
+00:04:16.380 by April 2000. that was the.com bust
+00:04:19.320 and so all jobs evaporated and if you
+00:04:21.660 had a Visa issue then there was nothing
+00:04:23.520 at all and so there was this urge like
+00:04:27.240 this pain to like try and get into these
+00:04:29.699 sectors when nothing happened so about
+00:04:31.259 five years I spent working there it was
+00:04:33.660 a little directionless so I moved back
+00:04:35.040 so 2006 I came back to Bombay actually
+00:04:38.280 interviewed with rajan's current firm
+00:04:40.740 despite its new name it's uh I think I
+00:04:43.979 met some of his colleagues back in was
+00:04:45.660 six or seven so
+00:04:47.759 I think most people don't as fresh off
+00:04:49.560 the boat don't know what the hell is
+00:04:51.540 going on in India why should I hire this
+00:04:53.040 guy and Venture was very new 2006 so I
+00:04:55.800 recounted the real Venture story from
+00:04:57.960 06. there was a little bit before 06 but
+00:05:00.259 and so I reconsidered the fact that no
+00:05:02.699 one's going to give me a job and became
+00:05:05.220 a banker briefly and then somehow
+00:05:07.440 curiously went to the times of India
+00:05:08.940 group why Times of India I was a media
+00:05:11.340 at Telecom banker and like people
+00:05:14.400 thought like I knew a lot of stuff about
+00:05:15.960 the industry what is it it's not getting
+00:05:17.880 industry jobs what is a media Telecom
+00:05:19.740 Banker serving those sectors so TMT as
+00:05:22.979 it's called in the west it's called TMT
+00:05:24.660 Telecom media
+00:05:26.400 technology and so essentially you
+00:05:29.400 service the sectors because they're all
+00:05:30.600 interconnected and in the 90s all of
+00:05:33.240 these became intertwined and then the
+00:05:34.740 Lehman crisis happened and then whatever
+00:05:36.600 little sort of entrepreneurial hooks
+00:05:38.940 that the Jane Brothers at times were
+00:05:40.560 giving me they all got pulled back
+00:05:41.820 because they became very conservative on
+00:05:43.979 the capital
+00:05:45.000 and ironically I was actually their
+00:05:47.460 corporate rep on Mumbai angels and
+00:05:49.500 Indian Angel Network
+00:05:51.060 so I knew of like Prashant Etc remotely
+00:05:53.880 because we used to cut like on small
+00:05:56.100 file action check and axel would be a
+00:05:58.020 co-investor back then Rajan of course is
+00:06:00.660 doing his own thing but through Indian
+00:06:01.680 Angel Network
+00:06:03.000 so
+00:06:04.259 one thing led to another and I said if
+00:06:06.000 I'm doing I'm so passionate about this
+00:06:07.560 over weekends and they didn't give me
+00:06:10.199 any money so I ended up taking all my
+00:06:11.880 savings and putting 5-10 lakhs ran out
+00:06:14.460 of it in like six seven checks uh I
+00:06:17.160 would salaried employee and then I'd
+00:06:19.560 actually help sell a guy uh one guy's
+00:06:22.020 business so he's become like a brother
+00:06:23.880 to me so he trusted me blindly so I made
+00:06:27.240 him a few tens of crows he said you can
+00:06:29.460 take four five
+00:06:30.960 said I started using that as a balance
+00:06:33.360 sheet and uh investing for him so I said
+00:06:36.960 if I can do this on a weekend uh once a
+00:06:39.180 week once a month then what if I can do
+00:06:41.699 this full time
+00:06:42.840 so that yearning from 2000 came back in
+00:06:46.139 a big way and interestingly I don't know
+00:06:48.900 if prashan knows the story you have to
+00:06:50.220 tell it someday but shekhar kirani works
+00:06:52.440 there and me and Sanjay Swami and all of
+00:06:55.139 us were pieced together by the gentleman
+00:06:57.600 called Rajesh Jain
+00:06:59.100 who runs netcore and we became a think
+00:07:02.580 tank to think about what early stage
+00:07:04.319 investing should be like in India
+00:07:06.479 and it lasted about six months and
+00:07:08.100 momentum spluttered uh and I was one of
+00:07:10.620 the few guys who actually built a deck
+00:07:11.759 out of it
+00:07:13.139 and it was called project Factory
+00:07:15.780 and uh there were two models basically I
+00:07:18.539 think Sanjay Swami and Prime became he
+00:07:21.000 went to uid but after that he became
+00:07:22.560 more of a curated
+00:07:24.780 10 companies and I became the Other
+00:07:26.940 Extreme made it 67 70 companies in our
+00:07:30.300 first fund right so we have total
+00:07:32.639 Silicon Valley Super Angel fund model we
+00:07:34.800 adopted that and we did our key work in
+00:07:37.139 the US and we saw that micro VC was
+00:07:38.940 erupting
+00:07:39.960 so we pick and chose this model and
+00:07:41.940 that's how Bloom started so it's been 12
+00:07:43.500 years
+00:07:44.460 a little over 12 years how big is Bloom
+00:07:46.620 now and how many companies have you done
+00:07:48.060 in a fourth fund so um we've had like a
+00:07:51.599 little bit of a Quantum Leap in the last
+00:07:53.220 year and a half we were tiny 100 crores
+00:07:57.360 60 million when the rupee was 66 or but
+00:08:00.360 400 crores then 700 crores
+00:08:03.180 and now we're like 290 million dollars
+00:08:05.699 which is about 200 2 300 crores in one
+00:08:08.220 single fund this is 2023 21 late 21. so
+00:08:12.360 we're halfway into that one side
+00:08:14.520 and then we've been Hustlers so where
+00:08:17.819 we've had our best companies breakout
+00:08:19.560 we've not been willing to let go so I
+00:08:21.960 can never be a Perpetual fund as easily
+00:08:24.419 as you could be with your own capital I
+00:08:26.400 still have to meet our investors
+00:08:28.560 requirements of returning money every 10
+00:08:30.360 12 years
+00:08:31.379 but as a
+00:08:33.240 as a hack we basically raised what are
+00:08:35.520 called opportunity funds so we can keep
+00:08:37.620 playing into our best companies
+00:08:39.419 so while I have primary capital in these
+00:08:42.120 four funds of almost 475 million I have
+00:08:46.500 another 150 through what I call
+00:08:48.360 continuity Vehicles what is the return
+00:08:50.700 say somebody coming into bloom should
+00:08:53.160 ideally expect
+00:08:55.140 so International investors won't touch
+00:08:58.019 uh early stage India we see if they
+00:09:00.540 don't
+00:09:01.740 can't imagine a world where you can
+00:09:04.140 deliver 25 compounded
+00:09:07.680 you might fail miserably at it but if
+00:09:10.019 that's not that hope they won't touch
+00:09:11.459 you
+00:09:12.300 so it's a it's a tall ask see it's also
+00:09:15.420 currency adjusted for them right back to
+00:09:17.580 right so so basically if you are just
+00:09:20.339 currency for Indians it's taxes there's
+00:09:22.680 carry which we take a share of profit so
+00:09:25.140 we don't shoot for that much then why
+00:09:27.300 like I tell my colleagues as well why
+00:09:29.279 bother coming to work okay so that's it
+00:09:31.140 is we are taking long-term illiquid uh
+00:09:34.260 early stage risk it's crazy risk so if
+00:09:36.720 you draw the classic conventional
+00:09:38.100 Financial Risk return curve the highest
+00:09:41.100 end of the risk curve so you better
+00:09:42.839 shoot for the highest returns there's no
+00:09:44.880 there's no escaping that
+00:09:46.680 so in the little bit of research that we
+00:09:48.720 did we categorized you as IIT IIM what
+00:09:53.760 in bungee jumping snorkeling uh
+00:09:58.920 South Indian boy in Andhra Pradesh
+00:10:01.200 married to a girl who is in the creative
+00:10:04.380 industry a lot of research is that how
+00:10:07.440 you would paint Karthik so how would you
+00:10:09.420 represent who Karthik truly is
+00:10:11.760 also by all of what he characterized I'm
+00:10:13.800 not
+00:10:14.660 satisfied with
+00:10:17.480 lack of Adventure so therefore the
+00:10:21.839 double MBA it was desperate to get out
+00:10:23.580 of the country I think we're trying to
+00:10:24.899 make a case for people who are going to
+00:10:26.459 college yeah from somebody who has been
+00:10:29.100 to a college here and there both top of
+00:10:31.860 the line I think your experience would
+00:10:33.839 be very yeah but like so as a double MBA
+00:10:35.820 though it's a it's not a Apple's travels
+00:10:37.860 comparison because I hacked my second
+00:10:39.300 one in the sense that I finished almost
+00:10:40.980 finished my finance major in the first
+00:10:42.420 year
+00:10:43.200 and started experimenting in the second
+00:10:44.820 year and I met my wife at UPenn so when
+00:10:47.579 people ask it it was written in the
+00:10:49.380 stars it had nothing to do with me
+00:10:50.519 getting to Wharton and so and then you
+00:10:53.700 you do a lot of experimental stuff and
+00:10:56.040 all of this experimenting in the west
+00:10:58.140 coast doing internships through your
+00:11:00.000 third semester almost finished by the
+00:11:02.880 third semester all of that hacks were
+00:11:04.920 possible because I've done one so mine
+00:11:07.079 was not the conventional conventional
+00:11:08.579 MBA but yes Apples to Apples I would say
+00:11:10.680 please work and go you can't relate to
+00:11:12.660 the MBA otherwise
+00:11:14.399 ideas to seek adventure and I think
+00:11:17.640 venture capital for me was always a tool
+00:11:20.399 of
+00:11:21.120 massive scalable impact and ventures in
+00:11:25.140 my it's a beautiful craft because you
+00:11:26.940 can actually get a shot at doing both
+00:11:28.320 right that's the motivation uh Rajan
+00:11:31.620 would you like to go next yeah so um
+00:11:34.620 some Sri Lankan born and raised in
+00:11:37.500 Colombo Sri Lankan Tamil
+00:11:40.320 I left the country because uh most Sri
+00:11:42.899 Lankan tamils left when was this 87 how
+00:11:46.320 old are you I'm over 50.
+00:11:50.399 um my story so I left in the late 80s
+00:11:53.040 went to school in the US University
+00:11:55.260 undergrad grad school I worked at
+00:11:57.360 McKinsey
+00:11:58.800 Chicago for a long time
+00:12:00.440 I worked at McKinsey because I couldn't
+00:12:02.760 get a job at photo General Motors I was
+00:12:05.100 a mechanical engineer manufacturing
+00:12:06.779 system so I really wanted to be before
+00:12:08.459 that college uh uscr MIT and Stanford
+00:12:11.579 engineering before that before that Sri
+00:12:13.740 Lanka so I grew up in Sri Lanka 100 one
+00:12:16.019 thing I really wanted to ask you before
+00:12:17.640 we move to the next phase of your life
+00:12:19.380 is you grew up in a country filled with
+00:12:22.980 conflict
+00:12:24.240 and I read stories like you saw people
+00:12:27.000 getting dragged out of their car and
+00:12:28.680 killed and you lost your father early in
+00:12:31.920 life
+00:12:33.660 two facets
+00:12:35.100 two directions
+00:12:36.600 one do you think there is a correlation
+00:12:39.779 between
+00:12:41.180 trauma insecurity in turmoil in
+00:12:44.700 childhood which kinda
+00:12:47.339 makes the odds of being successful later
+00:12:50.040 in life higher because you're over
+00:12:52.380 compensating for something or making up
+00:12:55.860 for feeling vulnerable at some point
+00:12:57.540 when you were really young questioning
+00:13:00.060 and B if you could throw some light on
+00:13:02.040 the Sri Lankan conflict because we've
+00:13:04.620 had like a bird's eyes view because
+00:13:06.120 we're next to them but I don't truly
+00:13:08.100 know where the conflict started
+00:13:10.680 and what is happening right now let's
+00:13:13.139 see when you go through a period like
+00:13:16.200 that right where
+00:13:17.940 I mean it was one day actually that tens
+00:13:19.980 of thousands of camels were killed
+00:13:22.680 so you know
+00:13:24.959 imagine driving back home from school
+00:13:28.680 and in front of you and behind you
+00:13:30.360 people are being pulled out of their
+00:13:31.620 cars and burnt okay
+00:13:33.480 and the only reason that my I have a
+00:13:35.220 younger brother who's five years younger
+00:13:36.540 than I am lives in the US
+00:13:37.980 the only reason we are alive today is
+00:13:40.200 because we speak singalese and Tamil
+00:13:43.680 wow
+00:13:45.420 so when you know when you go through a
+00:13:46.800 period like that and then of course lots
+00:13:48.600 of things happen after that but you know
+00:13:50.160 that day I had 30 classmates several of
+00:13:52.860 my classmates died
+00:13:54.600 several of my teachers died in my class
+00:13:57.360 so when you go through a period like
+00:13:58.620 that it was a very traumatic period
+00:13:59.760 obviously
+00:14:00.600 um but you know one of two things will
+00:14:02.459 happen to you either you become very
+00:14:04.139 hateful
+00:14:05.399 or you become very grateful there is
+00:14:08.040 only two states
+00:14:09.480 so uh
+00:14:11.339 fortunately I just became very grateful
+00:14:14.220 so now you know so you can imagine right
+00:14:16.260 so I ended up much later running large
+00:14:18.480 companies billions of dollars of Revenue
+00:14:20.820 so I used to have bad quarters at good
+00:14:22.320 quarters so you can imagine having a bad
+00:14:25.079 quarter
+00:14:26.220 is nothing compared to being dead you
+00:14:28.920 know so I just wake up every day
+00:14:32.639 really glad to be alive
+00:14:34.860 and so you know I share it with you I
+00:14:38.100 feel like
+00:14:39.420 heightened traumatic experiences in life
+00:14:42.360 speeding up Evolution significantly to
+00:14:45.060 me the most attractive people are the
+00:14:46.800 most card of people
+00:14:48.480 because I think in those moments is when
+00:14:51.180 you evolve yeah
+00:14:53.399 and you also like but but you can it can
+00:14:55.380 also go the other way by the way right
+00:14:56.639 you can become very hateful you could
+00:14:58.620 become
+00:15:00.720 um it can you know and I've seen that
+00:15:02.699 happen as well to people so Dad no so my
+00:15:06.060 dad was a lawyer Who Loved adventure
+00:15:08.699 sports
+00:15:10.380 he um you know for fun he would do
+00:15:13.079 Endurance Sports he was the first Sri
+00:15:14.880 Lankan to swim across the park Street
+00:15:16.260 between India and Sri Lanka he was the
+00:15:18.360 first Sri Lanka could swim both ways
+00:15:20.639 uh so anyway he died
+00:15:23.160 he was trying to swim the English
+00:15:24.420 Channel he died of hypothermia which
+00:15:26.519 means your brain freezes
+00:15:28.139 he broke his uh hip on a bike
+00:15:31.560 motorbike
+00:15:32.820 and he went to London to get surgery and
+00:15:34.860 then while he was there he got his hip
+00:15:36.240 operated on he's like hey I'm here I
+00:15:38.699 always wanted to swim the English
+00:15:39.839 Channel
+00:15:40.920 it was early August and you should not
+00:15:42.899 swim the English Channel in the early
+00:15:44.279 August especially if you're Sri Lankan
+00:15:46.019 because they're not used to the cold
+00:15:47.279 Waters
+00:15:48.300 so basically halfway through
+00:15:50.519 um
+00:15:51.180 basically what happens with hypothermia
+00:15:52.800 is your brain stops working
+00:15:54.899 but your body keeps going
+00:15:56.880 and so they knew that something was
+00:15:59.040 wrong so they basically airlifted him
+00:16:01.620 he was Dead on Arrival when he got to
+00:16:03.420 Dover
+00:16:04.860 so I lost my dad um so he didn't pass
+00:16:07.260 away in the conflict
+00:16:09.540 sorry if I got more personal than I
+00:16:11.399 should no no it's okay it's okay did you
+00:16:13.560 do so well in life because of these
+00:16:16.800 heightened experiences of your youth I
+00:16:19.199 don't think like folks I mean we're old
+00:16:21.779 but like if we think that you know we've
+00:16:23.639 been successful by now I mean that's
+00:16:24.959 games because your jobs are to gauge
+00:16:28.040 entrepreneurs essentially in bed or not
+00:16:30.540 bet on them
+00:16:32.339 I'm trying to arrive at if you were to
+00:16:36.060 map childhoods of 100 people you bet on
+00:16:38.519 oh certainly people you know people who
+00:16:42.000 um
+00:16:42.839 like I didn't have any options okay
+00:16:44.579 there was no plan B when I left I had a
+00:16:47.459 one-way ticket I had a couple of hundred
+00:16:48.959 dollars in my pocket fortunately I had
+00:16:51.300 financial aid from MIT and there was no
+00:16:53.820 going back so do you have a
+00:16:55.740 predisposition that you will not invest
+00:16:58.680 in companies
+00:17:00.240 where the where the person you're
+00:17:01.860 investing comes from an affluent family
+00:17:03.779 and hasn't had I don't have no I don't
+00:17:06.240 have a predisposition but but
+00:17:09.780 so for instance you know there are
+00:17:11.160 founders we have invested in right who
+00:17:12.839 come from very well to do families but
+00:17:15.480 it just so happens yeah but it but that
+00:17:18.000 is not India that is not the norm in
+00:17:20.040 India right if you look at uh look at
+00:17:22.859 India you look at I mean we just
+00:17:25.020 happened to you know
+00:17:27.059 if you look at the IIT grad so you look
+00:17:29.040 at you know they tend to be not from
+00:17:30.960 that
+00:17:31.980 that uh that model that that yeah that
+00:17:35.039 all that uh TG if I can call it that
+00:17:36.900 right extrapolated out of 100 companies
+00:17:39.419 you invest in how many I I don't know
+00:17:41.940 actually I shouldn't comment I don't
+00:17:43.320 know that I honestly don't know the
+00:17:44.460 percentage but it's not yeah it's it
+00:17:46.740 would be in the 10 20 that kind of
+00:17:48.480 percentage at most right because I think
+00:17:51.360 I think hunger
+00:17:55.919 you can't teach hunger I think that's
+00:17:58.740 the point
+00:18:00.240 um the drive the hunger the
+00:18:03.000 I think people who come from nothing who
+00:18:05.940 have a point to prove
+00:18:08.160 I think they generally tend to be the
+00:18:10.020 ones that can you extrapolate to say
+00:18:12.240 broken families produce
+00:18:15.179 more ambitious children I don't know
+00:18:17.400 whether it's broken families you think
+00:18:19.020 it's more a financial thing
+00:18:20.760 so you have to have parents who are very
+00:18:22.740 supportive right because if you don't
+00:18:24.660 get the right at least in our part of
+00:18:26.640 the world right without the right
+00:18:27.660 education I think it's very hard you can
+00:18:29.580 still do it lots of people do
+00:18:31.860 um it helps you get that edge I think
+00:18:34.020 you have to have parents who are
+00:18:35.100 supportive but it does
+00:18:36.780 it does help you if you come from if
+00:18:39.660 you're not very well to do yeah because
+00:18:41.520 you know that's why you know if you look
+00:18:42.840 at India right you look at all the
+00:18:46.200 Fortune 500 Indian origin CEOs
+00:18:50.240 you know like they come from middle
+00:18:52.980 class
+00:18:54.059 families and they have a but but they
+00:18:56.039 did got great education so I think that
+00:18:58.679 combination I find is the yeah so anyway
+00:19:02.100 so I spent 15 I spent a long time in
+00:19:03.900 McKinsey then I ended up working for
+00:19:05.700 Michael death I ended up in India
+00:19:07.020 because of that then moved to Microsoft
+00:19:09.000 ran Microsoft India for a couple years
+00:19:10.740 and then spent a long time at Google
+00:19:12.960 leading Google India and Southeast Asia
+00:19:15.000 for a long time I was a very active
+00:19:16.440 angel investor which is how I know
+00:19:17.820 Karthik
+00:19:18.840 from very early so when I moved I moved
+00:19:20.640 in 2005 I made my first Angel investment
+00:19:22.559 in India I was I made a you know I was
+00:19:24.600 the Angel Investing in the US but made
+00:19:26.100 my first Angel investment in 2006.
+00:19:29.280 uh join Indian Angel Network I think we
+00:19:32.220 saw one company once a quarter that was
+00:19:34.860 sort of the Rhythm that was what was
+00:19:36.120 India was right
+00:19:38.340 um
+00:19:39.179 and then I spent I joined Peak 15 which
+00:19:42.539 was then you know we rebranded we used
+00:19:44.039 to be called Sequoia Capital India
+00:19:45.299 southeast Asia almost four years ago so
+00:19:47.880 so what I do now is I uh I focus on very
+00:19:50.940 early stage companies so seed stage so
+00:19:52.799 if you're raising three to four million
+00:19:54.720 or less and we launched a program called
+00:19:57.179 surge where I spent most of my time
+00:19:59.100 which we've had the great pleasure great
+00:20:01.679 Fortune of having nithin come and talk
+00:20:03.780 to our Founders many times yeah so
+00:20:05.640 that's what I do uh how many companies
+00:20:07.620 size of the fund today
+00:20:09.299 so so Peak 15 uh has about 9 billion
+00:20:13.500 under management of that two and a half
+00:20:15.179 billion is dry powder
+00:20:16.799 what is dry powder dry powder is we
+00:20:18.600 haven't invested so essentially last
+00:20:20.039 year in June
+00:20:21.299 uh 2022 June B raised 2.8 billion so of
+00:20:25.500 that 300 million we've invested so we
+00:20:27.360 have 2.5 billion that tripod is a term
+00:20:29.760 in our industry where that's investable
+00:20:32.220 capital right that will invest over the
+00:20:33.840 next several years uh Peak 15 has 400
+00:20:37.260 plus active companies okay
+00:20:40.080 yeah so Prashant I don't know should I
+00:20:42.480 preface your introduction please make it
+00:20:45.179 look a little more colorful
+00:20:47.700 good so Prashant and I are really close
+00:20:52.140 friends who we probably do two three
+00:20:55.140 dinners in a month travel once in three
+00:20:58.260 four months
+00:20:59.820 and this probably a dozen
+00:21:02.700 businesses we have invested in together
+00:21:04.679 a charity a charitable thing called yipp
+00:21:09.539 but we actively engage a lot and I think
+00:21:12.960 we speak on the phone very often and we
+00:21:15.419 figure out what to do next and stuff
+00:21:17.880 like that and he's always been a great
+00:21:19.980 source of advice and somebody I've
+00:21:22.260 reached out to for uh many many
+00:21:25.020 different things I think not just me but
+00:21:26.700 he's very close to nitin as well
+00:21:29.720 the one thing about Prashant that no one
+00:21:32.640 knows is outside of Axel and what he
+00:21:35.520 does professionally I have not seen a
+00:21:38.520 more relentless
+00:21:40.200 man who has so much more energy than I
+00:21:43.020 do at my age
+00:21:44.460 who's doing a hundred different things
+00:21:46.200 every day like if you call him up at
+00:21:48.600 five in the evening he will be talking
+00:21:50.340 about garbage and sanitation in
+00:21:52.260 Bangalore if it's covered he'll be
+00:21:54.659 trying to import oxygen concentrators
+00:21:57.059 from somewhere uh this is him like
+00:22:00.240 perpetually this is the day to day in
+00:22:02.400 his life
+00:22:03.299 so with that maybe anyway
+00:22:07.280 I keep myself busy
+00:22:09.860 I think here everyone but Rajan is
+00:22:12.419 Bangalore and you went to Saint Joseph's
+00:22:13.860 right no no I'm the Chennai boy well you
+00:22:16.260 didn't go to school in Bangalore
+00:22:20.240 ecosystem you don't find a lot of
+00:22:22.380 Bangalore folks but anyway
+00:22:24.900 um went to uh engineering the same
+00:22:28.559 colleges nothing here in Bangalore and
+00:22:31.200 uh went to the US immediately after
+00:22:34.679 engineering so what did you do before
+00:22:36.299 engineering what did your parents do
+00:22:38.340 my dad was uh started as uh career in
+00:22:43.679 the public sector so he worked at HMT
+00:22:45.780 must have been clocks and I mean he
+00:22:48.299 works and he worked at The Foundry
+00:22:49.980 but
+00:22:52.039 he was my first exposure to
+00:22:54.360 entrepreneurship so he he quit his job
+00:22:57.360 in the public sector and in those days
+00:23:00.419 you had this whole
+00:23:02.419 public sector trying to create a smaller
+00:23:08.960 Supply chains for themselves so ITI
+00:23:11.900 created this program to have different
+00:23:17.400 entrepreneurs come and supply
+00:23:20.360 parts to them
+00:23:22.380 so he got one of those
+00:23:25.100 opportunities and started a small scale
+00:23:28.740 industry
+00:23:29.960 so I so when I was maybe in sixth or
+00:23:34.020 seventh grade I remember
+00:23:35.840 uh him trying to get his first 10 lakh
+00:23:40.020 rupees or five lakh I don't remember
+00:23:41.280 what it was to start the industry right
+00:23:43.500 and you know it was in those days there
+00:23:46.020 was no white shadow so it was like
+00:23:47.820 really a different thing to to be a
+00:23:50.220 startup entrepreneur but it was a very
+00:23:52.140 different India then right so
+00:23:54.840 entrepreneurs so I have some little bit
+00:23:57.059 of memories of what it is to be an
+00:23:59.820 entrepreneur in the India of that era
+00:24:02.039 very different when did you meet sabrito
+00:24:04.320 again which
+00:24:06.200 when did I meet subrata was 88 okay
+00:24:10.500 88 and then uh then in 2004 so subrata
+00:24:15.900 exits
+00:24:17.059 right I exit Netcraft right both of us
+00:24:21.059 are in Bangalore if we try to figure out
+00:24:23.520 what to do next and that's where we
+00:24:25.799 start erasmic
+00:24:27.600 that was 2000 four
+00:24:30.179 would you call that a venture capital
+00:24:31.500 firm you know we were an incubator okay
+00:24:33.780 we were an incubator back then there was
+00:24:35.640 no Venture Capital there was no no there
+00:24:37.320 was one round of venture no I raised
+00:24:39.299 Venture for Netcraft
+00:24:41.240 started the Erasmus yeah
+00:24:44.720 okay rasmic and then in
+00:24:48.919 2006 along with with Google started a
+00:24:53.039 fund that was a fund so the first one
+00:24:56.039 was the incubator and which is which
+00:24:58.080 which was for a very short period and
+00:25:00.000 which became a fun
+00:25:02.280 10 million dollar Fund
+00:25:04.400 in 2006 2006 2006. so you basically been
+00:25:09.120 wealthy for a long time then yeah all
+00:25:12.360 right so no Wonderland
+00:25:16.760 so
+00:25:18.980 2008 uh Excel
+00:25:23.520 had started
+00:25:25.760 London that China and they said okay I
+00:25:30.720 mean one of the early guys to I think
+00:25:32.520 zika was already was there in India so
+00:25:35.520 one of the early guys to look at uh
+00:25:37.679 Venture I mean globally highlights of
+00:25:40.320 the axle Journey
+00:25:41.580 Flipkart is one second we've been early
+00:25:45.720 in multiple categories and been able to
+00:25:49.620 kind of be part of category defining
+00:25:52.679 companies in those
+00:25:54.900 started with the commas SAS B2B
+00:25:59.059 hopefully a few others so that was the
+00:26:02.100 second best investments for Excel which
+00:26:04.620 one would they be
+00:26:06.380 Flipkart
+00:26:09.320 fresh works
+00:26:11.880 and
+00:26:15.120 I think just in terms of just character
+00:26:17.820 and type of company bookmyshow Okay so
+00:26:20.640 scale of Axel today and the returns
+00:26:24.179 somebody can expect from investing in
+00:26:26.220 action
+00:26:27.419 and how many 220
+00:26:31.279 222.25 Investments
+00:26:34.020 I'm close to you alive how many have
+00:26:36.179 killed it in network I would say
+00:26:39.960 70 of them are still alive it's usually
+00:26:44.580 two to three percent of a portfolio that
+00:26:47.940 will return 80 that will give you eighty
+00:26:50.700 percent of your returns
+00:26:52.260 I mean it has that been the same for
+00:26:54.179 everybody two percent of portfolio
+00:26:55.919 eighty percent return
+00:26:57.419 yeah maybe it's slightly higher but yeah
+00:26:59.279 I mean you know less than five percent
+00:27:01.500 yeah Power law is five might be a rule
+00:27:03.659 of thumb that basically irrespective of
+00:27:05.340 size of portfolio in a cycle so it's
+00:27:07.500 important to measure this in Cycles
+00:27:10.500 um he's it's disproportionate in their
+00:27:12.120 case because you'll have these free kits
+00:27:13.679 like Flipkart and freshbooks right but
+00:27:15.779 in a cycle if you invest in 20 30 40 50
+00:27:18.419 it doesn't matter about five will return
+00:27:20.700 85 to 90 percent five percent no just
+00:27:23.100 five companies oh yeah irrespective the
+00:27:25.500 size of portfolio
+00:27:26.820 and then you will have about 20 30
+00:27:28.799 percent that'll in our business you know
+00:27:31.980 give you like a 5x uh which is not bad
+00:27:34.860 yeah you know uh that's so it's over a
+00:27:37.860 10-year period 11 year period so it
+00:27:40.260 works out to a decent irr makes sense
+00:27:42.720 right and then you have uh about 15 20
+00:27:46.799 who kind of just kind of give you back
+00:27:49.440 your money right so the point of today
+00:27:52.020 very much is in college you don't really
+00:27:55.140 learn much about the pragmatic nature of
+00:27:57.840 starting running a company picking a
+00:28:00.419 sector what you should do what you
+00:28:01.919 should not do
+00:28:03.659 so we leave all our individual egos
+00:28:06.059 aside and the personalities aside and
+00:28:08.880 focus and fixate upon somebody starting
+00:28:11.100 a company and everything we can say
+00:28:14.100 from our knowledge pool that can help
+00:28:16.080 them so this becomes my aspiration for
+00:28:20.100 this particular session is anybody who's
+00:28:22.140 starting a company in the next few years
+00:28:24.539 if they were to watch this they will
+00:28:26.279 learn something about something no I
+00:28:28.500 haven't actually two questions yeah okay
+00:28:30.600 so one Rajan with you you've invested in
+00:28:33.360 what 200 companies as an angel yeah
+00:28:35.760 several hundred yeah how do you
+00:28:38.340 I mean how do you keep a tab as in like
+00:28:40.620 how does it work so I think look when I
+00:28:42.360 was an angel uh I mean I was running you
+00:28:44.940 know at an operating job
+00:28:47.520 um so
+00:28:49.679 you know I was I was sort of I had the
+00:28:51.720 simple thing which was I was on call
+00:28:53.100 anytime any founder called me I would
+00:28:55.260 always
+00:28:56.179 heard that but how are you giving time
+00:28:58.380 no meaning no so only when they call me
+00:29:00.600 I would make time I mean look it's 24 7.
+00:29:03.240 are you leaving time to all the angel
+00:29:04.860 companies
+00:29:08.000 doing it most most companies don't call
+00:29:11.520 uh right so it's not like I'm calling to
+00:29:13.620 say hey what happened last quarter or
+00:29:14.760 what happened last year you never do
+00:29:15.960 that no no no I mean no because you you
+00:29:18.000 actively also exit these companies how
+00:29:19.860 do you make those decisions if you're
+00:29:21.120 not
+00:29:22.140 oh I learned uh you know I learned
+00:29:24.179 something so 2006 I joined in
+00:29:27.480 I think by I think around 2012 or 13. I
+00:29:30.419 learned this simple thing as an angel
+00:29:32.520 which is every time there's a round you
+00:29:34.200 ask yourself a simple question can it 5x
+00:29:36.480 from here or not yeah
+00:29:39.500 as an angel the good thing is
+00:29:42.360 you can exit good companies everybody
+00:29:44.340 wants to find all their PCS want to buy
+00:29:46.020 you out and I think it's also good to
+00:29:48.179 clarify that angels
+00:29:50.220 uh are a very different uh kind of class
+00:29:53.159 right than funds than funds institutions
+00:29:55.760 and the founders have don't have that
+00:29:59.220 expectation of you spending time with
+00:30:00.960 them right so they like if you like
+00:30:04.679 randomly give them like one or two good
+00:30:06.480 contacts I mean I think your like job as
+00:30:08.880 an angel is I mean there are a few
+00:30:10.559 engines that are more active and no no
+00:30:12.360 but the thing is still you know just
+00:30:13.620 keeping a tab of 200 companies and
+00:30:15.899 knowing
+00:30:24.380 as an angel look so the thing is you
+00:30:26.640 know I had a simple the three things
+00:30:28.440 firstly anytime there's a round
+00:30:31.200 you have to sign talks no you have to
+00:30:32.760 sign talks so you guys are Venture
+00:30:35.580 Capital funds which take money from
+00:30:38.220 large family offices Sovereign funds
+00:30:41.700 peas different kind of people generally
+00:30:44.880 outside of India bring the money into
+00:30:46.559 India what kind of a return are you
+00:30:49.320 forecasting for them when you take the
+00:30:50.880 money they all are
+00:30:53.100 in public markets through various other
+00:30:56.880 you know funds they have been investing
+00:31:01.260 in asset classes like real estate and
+00:31:03.960 some of these others again over the
+00:31:06.299 Vintage I think Venture is new for a lot
+00:31:08.820 of them
+00:31:10.200 so they have seen Venture in China
+00:31:13.500 they've seen Venture in the U.S I think
+00:31:16.980 India is still experimental or has been
+00:31:19.980 experimental now they are getting to the
+00:31:21.659 stage where they want to see returns
+00:31:23.820 from India they want to see uh you know
+00:31:26.580 India starting to deliver the kind of
+00:31:29.159 returns they expect from these other
+00:31:30.600 geographies but what is the rate of
+00:31:32.460 return that you're you're going to LP
+00:31:34.799 and pitching you're going to a limited
+00:31:36.419 partner in pitching your fund to take
+00:31:40.020 their funds what are you seeing will you
+00:31:42.299 make 15 a year
+00:32:02.360 is that the theme I think the first part
+00:32:05.100 of the question is that the same for all
+00:32:06.659 three of you the lp I mean because I
+00:32:08.279 mean I think all of them raised from the
+00:32:10.200 same set of limited partners endowments
+00:32:12.480 institutions Etc and it's very
+00:32:14.399 methodical in the way they allocate and
+00:32:16.140 how do you first find these limited
+00:32:17.820 partners I mean with all due respect to
+00:32:19.980 their efforts I think they are riding a
+00:32:22.620 little on their franchise relationships
+00:32:24.419 so they're American brands and Chinese
+00:32:27.000 Brands don't work for our fundraisers
+00:32:34.820 it's a fact that without a parent uh you
+00:32:39.179 know like overall thing like so we all
+00:32:40.679 got started we try to ride on their sort
+00:32:42.899 of Court tables
+00:32:45.440 they're talking to certain set of people
+00:32:47.460 so people are exposed to India right so
+00:32:50.100 they come asking they come and visit
+00:32:52.380 them right and they say hey tell us who
+00:32:54.720 else is emerging right so Prashant will
+00:32:57.000 be kind enough to make three
+00:32:58.200 introductions and say you should meet
+00:32:59.340 these blooms but I'm saying referrals
+00:33:00.960 play a huge partnership yeah it's about
+00:33:03.779 trust yeah
+00:33:05.039 and both of you know this better than
+00:33:06.720 anyone else you manage people's or you
+00:33:08.820 basically handle money
+00:33:10.340 is is more about I would actually Index
+00:33:14.039 Trust more than returns see because for
+00:33:16.980 a lot of them India is something that
+00:33:19.799 kind of starting like a 20 30 year
+00:33:22.679 journey I mean these that's how long
+00:33:24.059 these institutions think because of the
+00:33:26.880 events around leakages in compliance and
+00:33:29.820 governance in India recently yeah the
+00:33:32.940 trust that all of you worked so hard to
+00:33:34.860 build over the last 10 years 20 years
+00:33:38.700 I'm talking about that trust which went
+00:33:41.220 from 0 to 80 has come down to what
+00:33:43.260 number now look I don't I don't honestly
+00:33:45.240 I don't know whether trust has come down
+00:33:46.679 FTX okay is like 10 times
+00:33:50.159 you look at FTX you look at this doesn't
+00:33:53.760 happen only in India right I mean I know
+00:33:55.440 it's happened to us and obviously we
+00:33:57.600 should collectively do a lot more to
+00:34:00.120 make sure that we mature the ecosystem
+00:34:01.980 their ways to be but if you're a global
+00:34:04.559 investor FTX was 10 billion right
+00:34:07.380 total value loss was 10 billion not not
+00:34:09.480 what the venture capital is lost right
+00:34:11.159 we are yet to see one and that's one of
+00:34:13.859 several that have happened so it's not a
+00:34:16.080 you know and because these LPS have a
+00:34:19.260 global view right they invest in U.S
+00:34:22.080 funds China funds India funds so what
+00:34:24.418 they're you know the questions are
+00:34:25.619 really look why is this happening what
+00:34:28.080 is you know what what is the ecosystem
+00:34:29.760 doing about it no that's the fair point
+00:34:31.260 and so so I think it's not a
+00:34:34.020 because we are in it of course it's
+00:34:36.000 something that we need to address
+00:34:37.020 there's no question about it you're
+00:34:38.399 saying it's not an India problem it's a
+00:34:39.899 global problems the data shows right I
+00:34:43.199 mean you have to keep in mind that you
+00:34:45.540 know because we're here in our ecosystem
+00:34:47.280 right we we see this huge correction
+00:34:50.580 but this is a global phenomenon public
+00:34:53.099 tech stocks outside of the Fang are down
+00:34:55.679 between 60 and 80 zooms down 90 it's one
+00:34:58.920 of the greatest companies maybe it's up
+00:35:00.540 now but it was down 90 right so
+00:35:03.960 similarly if you look at private Tech
+00:35:07.560 valuations in the US they have corrected
+00:35:10.920 much more than they have here right here
+00:35:13.200 I think it's a phasing issue so so what
+00:35:16.440 has happened over the last two or three
+00:35:17.880 years is not an Indian phenomenon it is
+00:35:20.280 a global phenomenon right so and and
+00:35:21.900 these institutional investors they
+00:35:24.060 invest globally they invest in the US
+00:35:25.440 which is where most of their capitals
+00:35:26.880 deployed they invest in China they
+00:35:28.320 invest in India so for them this is not
+00:35:31.079 a India phenomenon I mean so so I had
+00:35:34.260 like you know just to add on to the
+00:35:35.579 question so these LPS I mean the
+00:35:38.400 investors are sharp right as in they
+00:35:40.740 made money so so my question is are they
+00:35:43.500 really investing in you the fund manager
+00:35:46.079 are they investing in India
+00:35:48.060 I mean what are they investing in I mean
+00:35:49.980 they already are sold to the India
+00:35:51.599 opportunity and then they're selecting a
+00:35:53.280 fund manager yeah it's a it's a
+00:35:55.260 sequential decision I feel whenever I'm
+00:35:57.359 faced with it and I'm on the receiving
+00:35:58.800 end a lot is um you don't get to the
+00:36:01.859 second part unless they're sold on India
+00:36:03.420 right and within India if they've
+00:36:05.579 already allocated the big question is do
+00:36:07.920 I need to allocate more right or am I as
+00:36:10.020 Prashant said am I still experimenting
+00:36:11.579 with the market I have a check with Axel
+00:36:14.160 I have a check with another fund I'm
+00:36:16.200 okay for now why do I need to add Bloom
+00:36:18.420 got it right so for them it's about
+00:36:21.740 until and with I mean no pressure on
+00:36:25.440 Prashant but unless he delivers in
+00:36:27.119 Spades they don't need to necessarily
+00:36:29.400 add me right right and so the there's a
+00:36:32.460 sequencing and then within that also
+00:36:35.099 there is late stage early stage the guy
+00:36:37.079 might not like my strategy right and so
+00:36:39.720 it's not it's not about like investing
+00:36:42.180 in a manager but they have to actually
+00:36:44.640 relate to the strategy I know 50 million
+00:36:47.640 dollar check writers who say you guys
+00:36:49.200 play too early
+00:36:50.520 I don't like how early you play and then
+00:36:52.859 you guys do too much work for too too
+00:36:54.540 little yeah so they have to they have to
+00:36:56.160 believe in India first right yeah once
+00:36:59.160 you decide that then you decide okay who
+00:37:01.079 are the best fund managers that you want
+00:37:03.180 to invest in that and then they look at
+00:37:05.460 the Spectrum of early stage early stage
+00:37:07.880 growth how did The Benchmark you as in
+00:37:10.800 what do they Benchmark you against
+00:37:19.400 exactly around 16 17 years since this
+00:37:22.980 wave began right I think most people
+00:37:24.839 wrote off the pre-2005 wave right so
+00:37:27.599 essentially the resets happened in 0506.
+00:37:30.180 so almost all the top 10 15 funds that
+00:37:33.420 you see would have been born around then
+00:37:34.859 right and then another wave in 11
+00:37:36.599 another wave in 15. now another wave in
+00:37:39.720 1820. so managers are being built that
+00:37:42.119 way so the new manager will be judged on
+00:37:44.579 the back of are you doing as well as the
+00:37:46.440 old manager is there a tax Arbitrage
+00:37:48.960 there if your Global money coming into
+00:37:50.820 India do you pay lesser tax than Indian
+00:37:52.800 money investing in India yeah actually
+00:37:54.660 to your point
+00:37:56.400 um
+00:37:57.480 there isn't a tax Arbitrage everybody
+00:37:59.400 pays the same taxes
+00:38:02.220 um it's only certain Global Sovereign
+00:38:04.619 funds which have a double tax treaty
+00:38:06.780 equivalent so they don't have to pay the
+00:38:08.040 taxes but everybody else has to pay so
+00:38:09.900 for instance let's say we take you know
+00:38:11.640 as Peak 15 we've had 19 IPOs right right
+00:38:14.280 uh domestic Market IPOs the same whether
+00:38:17.099 it's in domestic aif whether it's us we
+00:38:19.320 pay tax
+00:38:20.339 there's no difference so the only reason
+00:38:22.680 they pool outside the countries because
+00:38:24.540 they don't want to pay the tax
+00:38:26.040 themselves in India
+00:38:27.780 so we deduct and send the money if
+00:38:30.119 you're an international investor so
+00:38:31.800 there's no tax filings for them in India
+00:38:33.480 but the tax treatment is the same but
+00:38:35.700 that's a good segue into
+00:38:38.460 the first topic when we are talking
+00:38:40.260 about venture capital I think we should
+00:38:41.880 distinguish what is Venture Capital what
+00:38:45.119 is PE what is the Angel fund I keep
+00:38:47.579 joking the only person you're
+00:38:48.720 responsible when you Angel Investing is
+00:38:50.280 your spouse right so there's no
+00:38:52.800 institutional responsibility it's your
+00:38:55.020 money
+00:38:56.460 when I was doing research around
+00:38:58.079 starting Bloom the US had 300 000
+00:39:01.800 registered Angels so I feel like 95 of
+00:39:04.500 them are like
+00:39:06.119 um
+00:39:07.740 part-time past time
+00:39:10.440 so they have made money as entrepreneurs
+00:39:12.960 or whatever it may be or as
+00:39:14.579 professionals and they like to help out
+00:39:16.560 someone so it could be the colleagues
+00:39:19.140 friends children whoever and that's also
+00:39:21.480 Angel Investing
+00:39:23.820 um then they join networks they put a
+00:39:25.800 little bit about five percent of them
+00:39:27.599 become sort of professional engines they
+00:39:29.220 actually think they can make money off
+00:39:30.480 this what is the Quantum which you would
+00:39:33.119 say is Angel like if I'm investing 10
+00:39:35.339 lakh Rupees in your company it's sadly
+00:39:37.320 in India now people are raising one lakh
+00:39:39.780 through various mechanisms I find it
+00:39:42.420 super dangerous so what is the upper
+00:39:45.060 limit of angel
+00:39:46.920 I've seen people would want to crows one
+00:39:48.960 to two crows yeah so let's say that is
+00:39:51.480 the peak that we would categorize as
+00:39:53.640 Angel Investing from zero to one to two
+00:39:55.920 crores that is a characteristic of the
+00:39:57.660 person putting the money is more
+00:39:58.800 important
+00:40:00.599 when we started Angel groups is to take
+00:40:02.400 five lakhs 10 lakhs now it's got so
+00:40:04.380 democratized that people are actually
+00:40:05.579 hunting tier three cities and getting
+00:40:07.500 one two lakhs in a Syndicate of two
+00:40:09.480 three crores
+00:40:10.800 it's good and bad you're diversifying
+00:40:13.260 somebody's Capital at that stage but I
+00:40:15.540 don't know what I don't think they know
+00:40:16.619 what the hell they're investing in so I
+00:40:18.000 have many friends who do a lot of Angel
+00:40:19.440 Investing like hundreds of companies
+00:40:21.480 tiny check sizes
+00:40:23.700 would we all say that the odds of making
+00:40:26.820 a return net net is least in Angel
+00:40:29.760 Investing is that easiest least hardest
+00:40:34.380 I think 90 do pretty badly
+00:40:38.099 uh from what I remember the U.S stats
+00:40:40.560 back then ninety percent of Angel
+00:40:42.240 Investors lose money not lose baby but
+00:40:44.940 the returns will be pathetic but isn't
+00:40:46.560 it isn't that a factor of the deal flow
+00:40:49.020 as in you know absolutely but I don't
+00:40:51.599 think we can get specific here if you
+00:40:53.220 were to add all the angels and all the
+00:40:55.020 deals
+00:40:56.180 but I mean if you really don't know what
+00:40:58.619 they're getting into yeah and they're
+00:40:59.940 it's adverse selection
+00:41:04.339 if they're really that good and pick up
+00:41:07.200 a million dollars that's your best
+00:41:09.079 entrepreneur why would you change the
+00:41:11.400 money or why would she change the money
+00:41:12.839 so I'm not talking about those one to
+00:41:14.460 exceptional Angels who have a
+00:41:16.140 distribution Network by virtue of Fame
+00:41:18.480 I'm talking about anybody investing One
+00:41:21.839 Clap one lakh up to one two crores I'm
+00:41:24.180 adding all the deals that are done
+00:41:25.740 together no that's what the thing is I
+00:41:27.420 think as an angel investor or the best
+00:41:29.339 odds is to invest some some in something
+00:41:32.400 where your value is not the money
+00:41:34.619 because if it's only money they'll go to
+00:41:36.420 VCS and raises but he's talking about a
+00:41:38.040 professional engine but you're talking
+00:41:39.240 about you're right
+00:41:41.780 will be mediocre returns yeah five
+00:41:45.119 percent will do well of which I think
+00:41:47.460 five percent are legendary correct I
+00:41:50.700 mean I would even go further to say if
+00:41:52.619 your objective is to make returns yeah
+00:41:55.440 you should not be an angel investor yeah
+00:41:57.420 my perspective in all of this is to talk
+00:41:59.700 about making a return yeah it's not
+00:42:01.619 about learning about the ecosystem you
+00:42:03.300 know we all do that
+00:42:05.280 like sometimes we play a certain game
+00:42:07.680 and lose a little bit of money and then
+00:42:09.119 we say it's to learn about each other
+00:42:11.339 team building all of that right this is
+00:42:13.260 not one of those things yeah so I think
+00:42:14.960 if your objective is to make returns
+00:42:18.000 being an angel investor
+00:42:19.980 unless you really know what you're doing
+00:42:21.960 and you're deeply networked and you you
+00:42:24.480 can add tremendous value is not a good
+00:42:26.880 idea but I'll qualify it right so
+00:42:28.740 because I don't want to make it look
+00:42:30.359 like Angel Investing in general see if
+00:42:33.480 you have a sectoral experience right
+00:42:36.300 let's say you are from the fmcg industry
+00:42:40.260 you understand retail very well you
+00:42:43.800 understand how Brands work very well
+00:42:45.780 you've been in
+00:42:48.540 uh hul for 15 20 years right I think you
+00:42:54.000 will yeah so so if I think it depends on
+00:42:57.000 who the angel is and where you have to
+00:42:58.859 add value I'm not saying I'm not saying
+00:43:00.359 that if I am Sachin Tendulkar and I know
+00:43:03.300 I am Sachin I should be playing cricket
+00:43:04.920 and I would do very well I'm saying if
+00:43:07.440 the city has a hundred people in as the
+00:43:09.599 population of the city if all 100 play
+00:43:12.240 cricket what are the what are the odds
+00:43:14.099 of them doing well if you want to Angel
+00:43:16.020 invest right and you want to do it for
+00:43:18.480 returns as opposed to giving back or you
+00:43:20.280 just want to get to entrepreneurs then I
+00:43:22.560 think to prashant's point you should
+00:43:24.060 really figure out
+00:43:25.500 how will you add value right so in the
+00:43:27.960 in the in this in the case you mentioned
+00:43:30.000 yeah you know you you should be
+00:43:31.680 investing in consumer Brands where you
+00:43:33.300 can add a lot of value over time your
+00:43:34.800 reputation builds
+00:43:36.380 the founder to the founder because he
+00:43:39.359 gets early early uh uh like uh like
+00:43:42.720 access and and a Kickstart which
+00:43:45.540 otherwise forum is I mean he doesn't
+00:43:48.060 want to go to a institution fund like as
+00:43:50.760 day one right like when we invest in in
+00:43:53.880 seed stage right we're always looking
+00:43:55.560 for a few Angels who can add value to
+00:43:58.500 our companies in fact last week we just
+00:44:00.119 invested in a consumer brand uh and we
+00:44:02.940 were looking for one or two angels who
+00:44:05.220 have experience
+00:44:07.260 in that sector who could you know were
+00:44:09.599 not conflicted who can add value so we
+00:44:11.579 will get two or three angels and so that
+00:44:14.160 is where you want to be right where
+00:44:15.599 you're those you know whatever 10 15.
+00:44:18.180 when it comes to adding value I agree
+00:44:20.420 but blind capital
+00:44:22.880 I think
+00:44:28.160 that's that said they're very important
+00:44:30.180 for the ecosystem 100 they will take
+00:44:31.920 risk where institutions can't step in
+00:44:33.720 yet somebody has to support these
+00:44:35.880 friends and family money Runs Out
+00:44:38.640 for students friends family fools but
+00:44:40.980 basically that runs out
+00:44:42.780 and it's even smaller in Quantum so if
+00:44:45.540 you want crazy risks somebody has to
+00:44:47.220 take those risks and sometimes Angels
+00:44:48.780 step in so yeah how big is the Indian
+00:44:51.119 Angel Market or six thousand of them six
+00:44:53.640 thousand six thousand active Angel
+00:44:54.960 Investors I've heard even more now right
+00:44:57.000 I've heard some shockingly large
+00:44:58.440 problems more like 25 000 25 000.
+00:45:01.440 and us you said is 300 000. 15 years ago
+00:45:04.560 15 years ago 2008 yeah and and in the
+00:45:09.000 U.S do you have to be like an accredited
+00:45:10.980 investor to be to Angel University yeah
+00:45:13.920 you don't two lakh is the Angel fund
+00:45:17.339 route then you need to minimum inverse
+00:45:18.960 two lakhs but you can get even a guy
+00:45:20.880 with 10 000 rupees on the cap table I
+00:45:22.440 think right there is no such
+00:45:23.520 restrictions there's no restrictions
+00:45:25.619 okay next venture capital yeah so Angel
+00:45:27.839 Investors you're investing your own
+00:45:29.280 capital in a very very early stage
+00:45:31.500 company usually you're just starting up
+00:45:33.060 you pre-launch whatever right venture
+00:45:35.220 capital is basically institutional
+00:45:37.260 Capital where these are organized fund
+00:45:40.500 managers in a firm so let's say Peak 15
+00:45:42.359 or Excel or bloom where you raise
+00:45:44.819 capital from others above what number
+00:45:47.099 would you start considering yourself a
+00:45:48.839 venture capital firm so I would say a
+00:45:52.319 growth fund would invest maybe up to 50
+00:45:54.240 million so from a few crores per
+00:45:56.099 investment up through 50 million so fund
+00:46:00.180 size you're saying 50 million no no I'm
+00:46:01.740 talking about per investment no I'm
+00:46:03.119 talking fund size no so fund sizes can
+00:46:04.800 vary from 20 million dollars to I mean
+00:46:06.780 our last set of funds or 2.85 billion 20
+00:46:08.880 million is the bottom level for uh in
+00:46:11.520 India what is it so I think in India now
+00:46:13.319 micro VCS are as small as five to ten
+00:46:15.480 okay but that's because the first time
+00:46:16.980 manager is Raising from individuals not
+00:46:19.380 from institutions so it's actually
+00:46:21.359 raising a mega Angel round and calling
+00:46:24.119 it a fund and is that through a cat one
+00:46:26.700 or two AIS that's correct cat one cat
+00:46:29.339 one year 200 crore like you have a lot
+00:46:31.200 of microphones that start at 100 before
+00:46:33.000 we go into this a little bit deeper what
+00:46:35.640 is the AI for this cat one cat to cat
+00:46:37.500 three who can take that like very
+00:46:38.880 quickly the government didn't know how
+00:46:40.380 to regulate all of this so in 96 they
+00:46:42.420 start something called domestic Venture
+00:46:43.980 Capital fund regulations
+00:46:45.720 everybody was classified under that
+00:46:47.460 whether you're a private Equity Real
+00:46:48.839 Estate or venture capital
+00:46:50.460 and they realized that there was a
+00:46:52.260 crappy way to deal with the complexity
+00:46:54.119 of these many asset classes because now
+00:46:55.920 you're asking us to break it down the
+00:46:57.240 government hadn't figured that they
+00:46:58.440 needed to be broken down so 2012 they
+00:47:00.420 revised it and called these regulations
+00:47:02.520 aif regulations alternative investment
+00:47:04.800 fund regulations so basically now they
+00:47:07.260 can regulate us basis what kind of risk
+00:47:09.300 we take so cat one cannot invest in
+00:47:11.880 certain Securities like debt Etc public
+00:47:14.280 markets Cat 2 can and Cat 3 is only
+00:47:16.800 public markets so who is typically uh
+00:47:19.400 capitalist cat one and two private
+00:47:21.780 equities how do they decide between one
+00:47:23.819 and two basis what securities you can
+00:47:25.920 buy
+00:47:26.819 so if you if you're only doing Equity
+00:47:28.560 investing and you don't touch a private
+00:47:31.200 Equity listing and you do not touch uh
+00:47:33.839 the the public markets and debt
+00:47:36.540 Securities then you have you can be a
+00:47:38.400 cat one perfect back to venture capital
+00:47:40.440 yeah so venture capital is so think of
+00:47:42.420 it as this is institutional Capital so
+00:47:45.300 it's organized teams it's not an
+00:47:46.859 individual's Capital so it could be as
+00:47:48.420 low as five to ten million yeah
+00:47:51.079 small fund could be 100 crores uh you
+00:47:55.500 know large funds could be 25 000 crores
+00:47:58.140 30 000 crores 50 000 crores uh in the US
+00:48:01.079 large funds are I mean you know the
+00:48:02.579 largest fund Ever Raised was a vision
+00:48:04.140 fund which is 100 billion dollars from
+00:48:05.700 softback right uh although that was
+00:48:07.980 probably a hybrid Venture plus group you
+00:48:10.680 know pseudo private Equity so the way
+00:48:13.020 simplest way to think about it is you
+00:48:14.640 know venture capital
+00:48:16.800 is organized institutional Capital that
+00:48:19.319 helps you get off the ground so it could
+00:48:21.060 be the for a now individual company
+00:48:23.040 could be the two to three crows that you
+00:48:25.319 need to get your company off the ground
+00:48:27.619 to funding your next round so there's
+00:48:30.119 different stages seed we can get back to
+00:48:31.920 that seed series a series basically see
+00:48:33.960 up through a company that gets to a
+00:48:36.300 level of profitability and then either
+00:48:38.640 you know there's a mixed term will be
+00:48:40.800 interchanged between growth capital and
+00:48:42.300 private Equity we'll take on from there
+00:48:44.339 but private Equity really then is once
+00:48:46.859 you're a
+00:48:47.940 which established mature company so
+00:48:50.819 you're generating profits but venture
+00:48:53.099 capital in itself can you give us some
+00:48:54.960 examples of five most popular ones in
+00:48:58.140 India
+00:48:58.980 so I mean you know companies there are
+00:49:01.260 probably 10 15 very well established
+00:49:03.240 firms so Bloom uh companies that are
+00:49:06.660 sort of domestics yeah we're all we're
+00:49:09.839 all venture so Excel Peak 15 light speed
+00:49:13.160 Nexus elevation Bloom girate kalari
+00:49:17.579 Matrix Matrix and would you like to say
+00:49:19.980 a little bit about
+00:49:21.300 the fee structure in venture capital and
+00:49:23.760 the life cycle of venture capital of a
+00:49:25.560 typical most Venture Capital firms are
+00:49:27.900 10 years with a two-year extension seven
+00:49:30.540 or ten ten I mean seven I think there's
+00:49:33.300 no point going below 10. it's very hard
+00:49:35.099 because you know that's why right
+00:49:35.940 because you're funding companies before
+00:49:37.380 they launched cases they have a two
+00:49:39.000 three year extension option so think
+00:49:40.560 about it 10 plus you have an extension
+00:49:42.180 period where you can extend the fund the
+00:49:44.579 fees usually are two percent of the
+00:49:46.740 funds that you raise are used annually
+00:49:48.540 for management fees that's what you use
+00:49:50.700 to pay your teams and so on and so forth
+00:49:52.380 and there's a term called carry which is
+00:49:54.480 the percentage of the gains that the
+00:49:57.240 fund managers get to keep and that's 20
+00:49:59.000 yes on closure or is that like that's on
+00:50:02.460 distribution
+00:50:03.660 so basically you have to exit a company
+00:50:05.640 right so the way you can exit a company
+00:50:07.740 in three ways you can exit you can take
+00:50:09.240 company public you can sell to a
+00:50:11.700 strategic right so let's say Google
+00:50:13.140 comes and buys one of your companies or
+00:50:15.180 a later stage fund can buy out your
+00:50:17.280 stake so those are the three ways you
+00:50:19.140 could exit uh a position and what we
+00:50:22.440 thought largely say that venture has
+00:50:24.900 returned a better return than angel in
+00:50:27.660 the last decade
+00:50:28.859 I don't think we have data in India to
+00:50:30.780 show that but extrapolated
+00:50:33.800 when you said on distribution you get a
+00:50:37.079 carry
+00:50:38.460 what happens if you're you know you
+00:50:40.980 invested in 10 companies
+00:50:43.140 you're sitting online you don't know
+00:50:45.119 what the value is and on one you had
+00:50:46.800 like a multibagger now you're
+00:50:48.660 Distributing the profits of this can you
+00:50:51.180 take 20 of the profits it's classic
+00:50:53.220 what's called European waterfall
+00:50:54.599 American waterfall right so you don't
+00:50:56.160 get deal by deal it's very rare that
+00:50:58.740 happens in various exclusive funds which
+00:51:01.020 are doing large private Equity single
+00:51:03.599 transaction deals where you can actually
+00:51:04.920 take carry by the deal here you are not
+00:51:07.619 entitled to anything until you've
+00:51:08.760 returned not just the capital that you
+00:51:10.859 invested in totality but also the fees
+00:51:13.380 you consume during that 10-year period
+00:51:15.300 you return that too so basically you
+00:51:17.880 take 100 bucks you only get to invest
+00:51:19.920 about 80. the other 20 is going in all
+00:51:21.960 sorts of expenses good so you first
+00:51:23.940 return the 100
+00:51:25.140 and then there's usually a threshold irr
+00:51:27.240 rate which is compounding from day one
+00:51:29.520 that for a fund like us emerging manager
+00:51:31.680 we have asked to give eight to ten
+00:51:33.059 percent as a threshold right we can
+00:51:35.640 catch up after that what me what it
+00:51:37.380 means is I'm not denied my share of
+00:51:39.000 those profits but I have to first pay
+00:51:40.859 back that much to the investors so 10
+00:51:43.200 years down I've returned 180 bucks I
+00:51:45.720 have not seen a rupee of carry uh
+00:51:48.660 interesting right so to get 180 bucks
+00:51:51.240 off that 100 even if my top three
+00:51:53.220 companies get there it's probably taking
+00:51:55.140 10 years and even after that I'll
+00:51:57.420 probably be left with two three stars
+00:51:59.280 and I still haven't seen a single group
+00:52:01.079 of carry it takes that long so the
+00:52:03.480 incentives are aligned to kick your
+00:52:05.400 backside yeah really hard to work really
+00:52:08.099 hard to get to that point before you can
+00:52:10.559 actually see any money got it now the
+00:52:12.900 second question you know you had said
+00:52:14.760 Dry powder earlier right as in the term
+00:52:16.859 was
+00:52:17.880 just a term that's used
+00:52:19.640 now there's this whole debate running
+00:52:21.839 right how much of this dried powder do
+00:52:24.119 you have access to I mean how much is
+00:52:26.040 the money that's lying with you and how
+00:52:27.420 much is that you can call for so if
+00:52:30.059 Sequoia I mean a peak 15 you have two
+00:52:32.940 billion dollars of dry powder
+00:52:34.920 is that two billion dollars sitting with
+00:52:37.020 with Peak 15 no it's coming it's
+00:52:39.059 committed and you call for it you don't
+00:52:40.859 wanna you don't want to call it all and
+00:52:42.359 then invest over many years because it
+00:52:43.800 impacts your irr the IRA counter starts
+00:52:46.380 the minute the money
+00:52:47.720 oh so you okay okay so you'll never
+00:52:50.700 touch that money right that's just
+00:52:52.200 better stays there right but what if the
+00:52:54.540 person the institutional investors once
+00:52:57.359 they commit their own
+00:52:58.619 reputationally they have to protect them
+00:53:01.619 another interesting question how What
+00:53:04.140 proportion
+00:53:05.520 of your limited partners where venture
+00:53:08.220 capital is getting their money from our
+00:53:10.260 institutions and what portion of family
+00:53:12.180 offices and stuff like that see in our
+00:53:14.880 case it's like uh 90 is institutions
+00:53:18.780 mostly ours is 100 we don't have any
+00:53:21.420 family office you don't have any hnis we
+00:53:23.640 don't have any questions I would say 50
+00:53:24.720 50. why is that different because you're
+00:53:27.059 raising money from India and they're
+00:53:28.619 bringing from outside
+00:53:30.359 we're still not considered good enough
+00:53:32.400 for all those so let's see width scale
+00:53:34.819 Venture becomes more of an Institutional
+00:53:37.619 yeah because you can't raise that kind
+00:53:40.020 of capital from small investors that
+00:53:41.880 said I remember having a chat with tiger
+00:53:44.040 as
+00:53:45.540 late as 2014-15
+00:53:48.240 and they would still reserve a little
+00:53:50.040 for people who backed them in 1991. no
+00:53:52.319 they all have a small small
+00:53:54.000 Consciousness they say you're all a
+00:53:55.920 loyal investor I'll give you the right
+00:53:57.119 to keep investment makes sense the fund
+00:53:58.680 cyclist 10 to 12 years but but most term
+00:54:01.559 sheets are typically five to seven years
+00:54:04.319 isn't it I mean seven years from an exit
+00:54:06.720 requirement yeah but nobody you don't
+00:54:08.579 really exercise that but you you will
+00:54:10.680 have some Powers right yeah there is a
+00:54:13.319 there is an opportunity to excise right
+00:54:15.599 but but we don't it's not because keep
+00:54:17.460 in mind you know this business is a
+00:54:18.720 power law business but that means you
+00:54:20.160 know it's that few companies that really
+00:54:22.559 return and we all know that you know it
+00:54:24.180 takes no some companies will like growth
+00:54:26.460 stage investors right so if you're let's
+00:54:28.020 say investing 50 million so at Peak 15
+00:54:30.180 we have three teams we have a seed team
+00:54:31.680 search team Venture team and a growth
+00:54:33.660 team so the growth team can so you
+00:54:35.400 invest 30 40 million in a late Stage
+00:54:36.960 Company
+00:54:37.800 two three years later the company goes
+00:54:39.480 public So within five years you could
+00:54:40.859 you could you could I think the two
+00:54:43.020 elements I think this entrepreneurs
+00:54:44.700 misunderstand VCS intent is we'll never
+00:54:47.700 make money if you don't make money
+00:54:49.380 okay so incentives are aligned it's not
+00:54:52.079 like I can make the money run out with
+00:54:53.760 the money and you've stuck there right
+00:54:55.619 broadly there is incentives to be
+00:54:57.480 aligned with you
+00:54:59.040 so nobody will kill a Golden Goose on a
+00:55:02.099 basis of a term that's written there
+00:55:03.540 however you don't want to misalign
+00:55:05.880 incentives and say oh you have 10 years
+00:55:07.740 number one because invariably
+00:55:10.740 entrepreneurship is such a tough Journey
+00:55:12.480 that if I say you have 10 you'll take
+00:55:14.099 15. right that's point one point two is
+00:55:17.520 you're underestimating the fact that my
+00:55:20.099 checks are written all the way from Day
+00:55:21.540 Zero to year five
+00:55:24.119 so I'm writing follow-on checks I'm
+00:55:26.579 writing fresh checks on the last day of
+00:55:28.680 year three
+00:55:29.700 right and my term life is fixed
+00:55:32.520 so I have to apply the same principle
+00:55:34.559 everywhere so the last check just
+00:55:36.839 because it's the last check in the fund
+00:55:38.400 I can't say screw you I'm going to give
+00:55:40.260 you seven years but it's because you
+00:55:42.180 were the day one guy I'll give you 10.
+00:55:44.760 so you would establish a set of
+00:55:46.920 standards that work broadly amongst all
+00:55:49.440 of us and so Axel doesn't have a
+00:55:51.780 separate set of terms and I do and vice
+00:55:53.339 versa and it doesn't matter whether I'm
+00:55:55.500 the first year of the final of the third
+00:55:56.760 year and that clock sometimes get reset
+00:55:59.760 on the base of a new round neurons so
+00:56:02.400 it's really and these are typically
+00:56:04.380 close-ended right Venture Capital funds
+00:56:06.059 almost always okay uh P would you like a
+00:56:09.059 ticket none of us are P here but uh you
+00:56:12.960 know just to take off from where Rajan
+00:56:14.700 was talking about I think what late
+00:56:16.380 stage venture and
+00:56:19.559 and P I think there are a lot of
+00:56:21.540 similarities between these two but PE
+00:56:24.359 funds are exclusively raised as PE funds
+00:56:27.960 right so and uh stand for private equity
+00:56:31.800 and by the way from a classification
+00:56:34.380 perspective sometimes it's confusing
+00:56:35.940 because this entire class is called PE
+00:56:39.300 Ace
+00:56:42.440 for skill is there a differentiation in
+00:56:45.240 scale between VC and P I think it's it's
+00:56:47.760 less about scale I think it's about time
+00:56:50.280 to exit they like to come in closer to
+00:56:53.460 when there is visibility to an IPO event
+00:56:56.400 to three years or an exit even two three
+00:56:58.559 years I think their Horizons and their
+00:57:01.140 Windows of how long they want to hold is
+00:57:03.359 very different
+00:57:11.240 their expectation on the maturity of the
+00:57:14.280 model and this product Market fit that
+00:57:16.319 he was talking about is
+00:57:18.780 much more yeah yeah so so they really
+00:57:22.500 expect so you're seeing peas are more
+00:57:24.900 conservative historically than disease
+00:57:26.880 correct because they also deploy more
+00:57:28.020 invest more Capital so we had this
+00:57:29.760 number that
+00:57:31.460 VC AUM in India is 60 70 billion of
+00:57:34.920 which 90 percent is foreign and 10 is
+00:57:37.260 domestic the p number is about 200
+00:57:40.260 billion in which 85 is foreign and 15 is
+00:57:43.380 domestic
+00:57:44.700 if you had to extrapolate and give a
+00:57:47.040 rate of return that P achieved versus
+00:57:49.260 VEC achieved who has done better in the
+00:57:51.720 last decade
+00:57:52.980 I think the P industry has been around
+00:57:54.720 for slightly longer I think is that
+00:57:56.520 another way of saying they did better uh
+00:57:58.980 I think they because they've also been
+00:58:00.780 in multiple sectors which are not tech
+00:58:02.940 only
+00:58:04.700 there might be some outstanding funds
+00:58:07.079 out there which have done probably
+00:58:08.760 better in terms of cash returns net net
+00:58:10.859 cash returns yeah they're ahead of us
+00:58:12.720 they're ahead yeah no it's it's also I
+00:58:15.599 mean from a vintage perspective yeah
+00:58:17.220 they have just been in the ecosystem
+00:58:19.260 longer they've had ups and downs almost
+00:58:21.599 2008 they were a terrible asset class uh
+00:58:24.420 and then in the last decade where we
+00:58:26.520 have been growing but not returning cash
+00:58:28.920 because the exits haven't come a lot of
+00:58:31.440 people say that PA has done most
+00:58:33.240 consistent they've been more consistent
+00:58:34.740 okay source of capital you said for VCS
+00:58:37.260 it is 90 institution generally 90 or
+00:58:40.319 higher you're different because you're
+00:58:42.359 more domestic in nature uh where is peas
+00:58:46.140 Source sources about the same I mean
+00:58:48.599 about the same institutions yeah some
+00:58:50.339 domestic peas are over indexed on Indian
+00:58:52.079 family offices Etc yeah but yeah but
+00:58:54.720 it's a little like the Venture space but
+00:58:56.640 if you go to a person who raises
+00:58:58.380 predominantly overseas it'll be entirely
+00:59:00.599 institutional because the check size are
+00:59:02.220 even bigger popular piece five
+00:59:04.859 which Indians have heard of uh they
+00:59:07.619 would be uh I would say okay
+00:59:11.900 forget the overseas ones even in India I
+00:59:14.880 think we have
+00:59:16.760 Capital Chris have done exceptionally
+00:59:19.619 well and then there are a lot of global
+00:59:21.059 names like them KKR Warburg
+00:59:23.880 I think we got a clear understanding of
+00:59:26.819 the difference between Angel VC and P
+00:59:29.359 Next Step establishing Market size a lot
+00:59:33.780 has been said about people having
+00:59:36.680 overestimated the size of different
+00:59:38.760 sectors in India
+00:59:40.859 should we pick a sector each and try to
+00:59:43.980 establish what the actual sizes would
+00:59:45.599 you like to go first you have a sector
+00:59:48.420 yeah so no I will ask you no because
+00:59:51.540 I've said so much about this his
+00:59:53.819 favorite pet peeve okay can I ask you
+00:59:56.940 guys a question when he keeps VC bashing
+01:00:00.059 online I don't VC bash dude what do you
+01:00:01.920 say what do you guys think do you think
+01:00:04.200 we see best no no I like his thinking no
+01:00:06.960 I I think he's I mean I can he's overtly
+01:00:11.240 kind of being very myopic about a
+01:00:15.599 particular industry that he's involved
+01:00:17.700 with then and uh
+01:00:21.000 you know if you look at broadly other
+01:00:23.880 sectors right the same thing does not
+01:00:26.640 apply in many areas but explain like you
+01:00:29.400 guys should have argument about this I
+01:00:31.020 mean no no so for example I mean I I
+01:00:32.819 think I mean let's let's take a a
+01:00:35.640 consumer company if you look at uh you
+01:00:38.880 know the opportunity to build a and and
+01:00:41.460 tune to me a 2000 to 2500 crore kind of
+01:00:45.660 Revenue in a consumer business
+01:00:48.720 with a a bit of somewhere in the two 300
+01:00:52.619 crore kind of range ten percent yeah
+01:00:54.839 that's some somewhere in that range the
+01:00:57.299 consumer company gave us two three
+01:00:58.799 examples I mean it could be something
+01:01:00.780 like uh a company like Bluestone right
+01:01:04.079 which is in the jewelry business
+01:01:06.920 card Mama right Mama any of these right
+01:01:11.240 how do these companies get scale in
+01:01:13.559 India they are mass market right the
+01:01:17.040 consumers there and those I mean these
+01:01:18.900 companies have figured out
+01:01:20.940 in some way that their customers are not
+01:01:23.520 the one percent in urban India that were
+01:01:28.020 capable of you know doing these
+01:01:29.940 purchases right so they they are I would
+01:01:32.940 say top hundred cities right and I and
+01:01:36.900 this I keep talking about everybody very
+01:01:39.359 few countries globally
+01:01:42.420 can give you 100 cities with a million
+01:01:45.599 plus in population all of them with the
+01:01:48.119 reasons by the way China and India but
+01:01:49.859 I'm saying
+01:01:51.059 how big is that consumer Market
+01:01:53.280 I think we arrived at the number so
+01:01:55.940 65 percent is consumption so 65 of our
+01:01:59.700 GDP correct is the consumption market
+01:02:01.740 right so it's about 1.7 yeah
+01:02:04.400 and and in that retail is about 700 800
+01:02:09.059 billion to summarize all of that 65 of
+01:02:12.420 GDP is consumption but in that
+01:02:15.240 consumption part of it you're producing
+01:02:17.520 the goods and part of it you're
+01:02:18.720 retailing the goods right so you can
+01:02:21.119 almost equally break up between what
+01:02:24.059 goes into retailing it and what goes
+01:02:26.160 into the supply chain of producing it so
+01:02:28.619 that's roughly about uh 800 800 crores
+01:02:31.799 800 billion the second level Nuance
+01:02:36.180 there is I feel uh if I may add to what
+01:02:38.520 Prashant said in India
+01:02:41.160 um discretionary versus
+01:02:44.520 um sort of necessity based consumption I
+01:02:47.099 would index on necessary that's what he
+01:02:48.420 meant by mass and it's interesting that
+01:02:50.400 he actually broke that up into the
+01:02:52.140 manufacturing side and the thing which
+01:02:53.819 is where I think someone like a lenskart
+01:02:55.680 by the way they've approached the
+01:02:58.020 business very unconventional nobody's
+01:03:00.059 done it before them actually doubled its
+01:03:02.160 Market opportunity because I actually
+01:03:03.660 feel that's the right way to tackle
+01:03:04.980 India and you're saying for something
+01:03:06.240 like that the market is not the top two
+01:03:08.760 three four five percent it's much much
+01:03:11.540 and that aspirational class in India I
+01:03:15.720 think is only going to if we go from a
+01:03:18.059 three trillion to 5 trillion why that
+01:03:21.059 Trend seems to be holding true for
+01:03:22.859 everything like we were talking to the
+01:03:24.299 blue stone guy remember like when they
+01:03:26.700 were online their sales were X
+01:03:29.460 but when they realize they're doing a
+01:03:31.319 combination of online
+01:03:33.380 everything changed Trust
+01:03:36.780 access
+01:03:38.160 so all of that gets built by offline but
+01:03:40.980 that pattern is not necessarily true in
+01:03:43.200 America but it is in India why is that
+01:03:44.940 it is now businesses were built I mean
+01:03:48.900 just just online itself in that market
+01:03:51.000 if your Market was big enough that you
+01:03:53.940 can just build build a large business
+01:03:56.160 like I said correct I mean I came up
+01:03:58.200 with this 2000 crore thing right but
+01:03:59.760 whatever the equivalent like two to
+01:04:01.380 three two three hundred million dollar
+01:04:03.059 Revenue in the US you can build purely
+01:04:06.000 online so what in India it's it looks
+01:04:09.240 like you have to go also I think what
+01:04:11.400 we're saying to our audience who's
+01:04:13.020 trying to start a business
+01:04:15.000 if the odds of you reaching scale are
+01:04:18.420 significantly higher if you combine
+01:04:20.880 online and offline component no there's
+01:04:23.099 there's variance too so what I'm trying
+01:04:24.720 to say is purple is one of us so they
+01:04:27.059 started as a Marketplace eventually
+01:04:28.799 realize that if they don't build margin
+01:04:30.599 by launching their own Brands it's not a
+01:04:33.299 great business does purple have offline
+01:04:34.799 like Nike does not yet but getting there
+01:04:37.020 so so what I'm saying is three people
+01:04:39.180 leave us same thing so you have to
+01:04:40.680 manufacture your own stuff so okay so
+01:04:43.140 for somebody building in consumption
+01:04:45.740 having an online with the offline can
+01:04:48.960 have
+01:04:51.200 I mean you can start online but you know
+01:04:55.140 basically if you go back three four
+01:04:56.760 years ago you could get to a 300 let's
+01:04:58.260 just talk about consumer product Brands
+01:04:59.880 okay because that's like the specific
+01:05:01.460 segment right you could get to about 300
+01:05:03.839 crores online and then you went offline
+01:05:05.339 so mama from launch to a thousand crows
+01:05:08.520 took five years and in seven years is
+01:05:10.140 2000 crores and profitable okay so
+01:05:12.960 basically that's just in personal care
+01:05:14.520 and Beauty And Then There are probably
+01:05:16.500 now over 10 examples of multi thousand
+01:05:18.780 Pro brands that have been built between
+01:05:19.980 five and seven years right that was not
+01:05:21.780 possible now three years ago you could
+01:05:23.819 get 300 crores offline online and then
+01:05:26.640 you went offline today that number is
+01:05:29.040 more like 50 to 100 crores for two
+01:05:31.380 reasons one online is got more expensive
+01:05:33.960 as a more and more brands have come up
+01:05:35.579 online so cost of acquisition is higher
+01:05:37.380 and second though offline much like
+01:05:39.540 Amazon Flipkart and Nika Nikon Beauty
+01:05:42.680 democratized distribution online for
+01:05:45.119 e-commerce for brands
+01:05:46.980 we are now seeing the same kind of
+01:05:48.900 democratization of offline right like
+01:05:51.480 offline retail distribution was the
+01:05:54.299 purview of hul and Marico in food and
+01:05:57.599 PNG and so on and so forth right but
+01:05:59.819 thanks to some of the B2B platforms that
+01:06:01.740 are being built
+01:06:03.299 for a new brand to get access to offline
+01:06:05.700 retail is not as hard as it used to be
+01:06:07.260 right so now what we're saying is
+01:06:08.579 companies will get to 50 to 100 crores
+01:06:10.980 online only they will launch their own
+01:06:12.960 website they'll go on Amazon Flipkart
+01:06:14.400 depending if it's the beauty brand or
+01:06:15.599 Nike Etc and then once once in that 50
+01:06:18.599 to 100 crores they'll go offline and
+01:06:20.940 what they're seeing offline is almost
+01:06:22.799 always it's more profitable because it
+01:06:25.740 is harder to do because you could also
+01:06:27.059 you know you have to deal with inventory
+01:06:28.260 and so on and so forth but that's the
+01:06:30.660 new model that we're seeing so you
+01:06:31.920 launch a brand you go online first
+01:06:34.260 get to 50 to 100 crores somewhere in
+01:06:36.359 that zone maybe 150 crores you go
+01:06:38.579 offline and then you scale both online
+01:06:40.440 and offline and you get to a thousand
+01:06:42.780 two thousand so digital first is still
+01:06:45.359 something I'd like to emphasize right
+01:06:46.920 because you know I don't think people I
+01:06:49.440 mean starting up new should lose that
+01:06:53.220 your ability to trial with customers
+01:06:55.440 your ability to give them new behaviors
+01:06:58.380 that kind of help them change their
+01:07:01.020 consumers consumption habits in a way
+01:07:02.940 are you saying you discover the brand
+01:07:04.680 always online right that's right the
+01:07:06.660 execution and distribution could be a
+01:07:08.579 combination typically it's online first
+01:07:10.619 followed by offline and when they come
+01:07:13.020 together it scales exponentially so I
+01:07:15.720 think the most important thing though is
+01:07:17.460 more than omnichannel which is online
+01:07:19.740 offline is called Omni Channel
+01:07:22.319 you have to have a unique insight about
+01:07:24.780 what customers want
+01:07:26.880 like you got you know both of you had
+01:07:29.400 this insight about trading because you
+01:07:32.460 were Traders yourselves right so I think
+01:07:34.619 the most important thing if you're going
+01:07:36.359 to start up is you have to have a unique
+01:07:38.760 insight about what customers want could
+01:07:41.579 be consumers could be businesses no but
+01:07:43.799 there is a small like extension so that
+01:07:46.200 we just complete this whole since we
+01:07:48.180 picked up I think Karthik started
+01:07:50.099 alluding to that right so I think where
+01:07:53.579 you can also kind of take this
+01:07:56.700 the margin profile and your ability to
+01:07:59.220 make profits further is if you can get
+01:08:01.500 into your own manufacturing so you're
+01:08:03.720 saying Marketplace building a platform
+01:08:06.000 or a Marketplace is not not anymore
+01:08:08.400 there's not anymore
+01:08:09.799 I do think vertical marketplaces there's
+01:08:12.720 still potential but they're also Rajan I
+01:08:14.700 think
+01:08:16.520 in these vertical marketplaces today
+01:08:18.899 you've got to be a lot more focused on
+01:08:22.140 the value add yeah there was a time when
+01:08:25.080 yeah
+01:08:28.979 no not really I think it is just
+01:08:30.960 triggered by now this realization that
+01:08:32.819 just gmv does not work but wouldn't ondc
+01:08:35.839 reduce the cost of getting distribution
+01:08:38.880 like if I were a me show and I went to
+01:08:41.580 every Mom and Pop Shop got them on board
+01:08:43.920 my platform by spending that money
+01:08:46.020 meeting them and doing it
+01:08:47.939 if ondc allows for that Mom and Pop Shop
+01:08:51.179 to be discovered by you who is also a
+01:08:53.460 platform
+01:08:54.540 doesn't the USP in that go away
+01:08:56.759 organically see ondc as a platform
+01:09:01.080 I think when you when you look at
+01:09:03.960 the sectors that have not been served
+01:09:06.600 whether it's your like end kiranhas
+01:09:08.939 where where today there is no
+01:09:11.839 legitimate way in which akirana can be
+01:09:16.080 discovered can be right on DC and these
+01:09:19.439 paytm all these guys are discovering
+01:09:20.819 them very fast no no that's what I'm
+01:09:22.620 saying so I'm coming there so I'm saying
+01:09:24.140 if if you've already on a swiggy or a
+01:09:28.799 zomato kind of platform as a restaurant
+01:09:32.219 you know I think that there will be a
+01:09:35.339 little bit of a time in my mind for
+01:09:38.219 somebody to find Value in but even when
+01:09:41.460 they do yeah for the platform having
+01:09:45.060 discovered them will get devalued
+01:09:46.920 because of ondc if not today at some
+01:09:49.198 point in the future I mean I do think
+01:09:50.460 over the next maybe not in the near term
+01:09:52.380 but over the medium term
+01:09:54.360 ondc will have a significant impact but
+01:09:56.820 it's going to start with Mobility I
+01:09:58.620 think the most interesting example is
+01:10:00.179 namayatri which is now just crossed 80
+01:10:02.820 000 rides a day which is quite
+01:10:04.320 remarkable actually right so I do think
+01:10:06.480 Mobility is going to get disrupted first
+01:10:08.460 right for different reasons I mean uh
+01:10:11.040 you know three wheelers for different
+01:10:12.179 reasons for two wheelers and so on I
+01:10:13.920 think after that might be food and and I
+01:10:15.900 think it's actually happening so using
+01:10:17.699 that app magic pin they charge that's
+01:10:19.560 what I'm saying what will happen in food
+01:10:21.480 uh I think prashanth is the commissions
+01:10:23.340 but these guys magic pin which is the
+01:10:25.500 ondc app is also aggregating delivery
+01:10:28.140 agents
+01:10:30.239 so that's what I'm saying the the effort
+01:10:33.120 put in by svigi and zomato to find a
+01:10:35.640 restaurant get them Tech enabled adopt
+01:10:38.460 them on their platform they've done all
+01:10:40.140 that but tomorrow realizes that they can
+01:10:43.679 sell through another means yeah a
+01:10:45.719 fraction of the cost
+01:10:47.100 my question was is that why also you're
+01:10:50.520 saying the platform plays not the play
+01:10:52.380 in the near future they can only be like
+01:10:54.780 two three winners in that space at most
+01:10:56.880 I think that it's a duopoly play the way
+01:10:59.640 I see it usually and even in the early
+01:11:02.520 days of marketplaces we saw that devolve
+01:11:04.800 very quickly into duopoly becomes a deep
+01:11:07.080 pocketed game and all of us just show
+01:11:10.080 our cards eventually and surrender to
+01:11:11.940 one the biggest player as investors if
+01:11:14.040 you could put money today in flip cards
+01:11:16.739 Wiggies zomato me show would you like
+01:11:29.420 for example four or five thousand crores
+01:11:32.040 Top Line five percent margin slightly
+01:11:35.460 flatish to negative bottom line
+01:11:38.880 trading it
+01:11:40.620 35 40 000 crore market cap
+01:11:44.940 the question is not fixated upon naika
+01:11:47.820 but the question is more you as Savvy
+01:11:50.699 investors
+01:11:51.900 who are sounding increasingly critical
+01:11:54.540 about Marketplace platform businesses
+01:11:57.420 hey no no no no no no no I don't think
+01:11:59.880 we are critical about Marketplace you're
+01:12:02.699 saying the uniqueness has to be built in
+01:12:04.739 and a platform by itself
+01:12:07.820 exactly I think the the value add on the
+01:12:10.679 platform that's right the bar for that
+01:12:12.600 has significantly increased but if you
+01:12:15.840 had to pick between a very binary myopic
+01:12:18.719 choice if you had to pick between a
+01:12:20.940 company which is building a platform or
+01:12:23.040 a Marketplace
+01:12:24.420 versus a company with backward
+01:12:26.460 integration where
+01:12:28.020 you're building their own Brands yeah
+01:12:29.760 yeah so so I think managed full stack
+01:12:32.880 marketplaces I think are but that covers
+01:12:36.179 everything see I'm looking for somebody
+01:12:37.679 who's watching this
+01:12:39.480 to figure out where they should spend
+01:12:41.640 time effort and money building so then
+01:12:43.980 you don't have to have a Marketplace in
+01:12:45.600 many cases that number 65 consumption 63
+01:12:48.840 yes Does it include export no that does
+01:12:51.480 not that's domestic that's domestic
+01:12:53.159 consumption but
+01:12:55.020 in this new world order right where
+01:12:57.900 Supply chains are for resilience for
+01:13:00.480 whatever other reasons are getting
+01:13:01.560 Diversified I think the next huge
+01:13:03.600 opportunity for Indian entrepreneurs is
+01:13:06.360 to take the export Market from 700 or
+01:13:10.620 800 billion that it is today to one one
+01:13:13.500 and a half trillion right another
+01:13:14.820 question here
+01:13:16.260 let's assume most countries which have
+01:13:19.620 done well in manufacturing not just now
+01:13:22.080 but historically
+01:13:24.120 have done it by virtue of closing their
+01:13:26.580 Market off for a short period of time
+01:13:29.280 from outside competition
+01:13:31.679 in letting homegrown staff
+01:13:35.159 improve in
+01:13:36.920 quality scale to a certain point like
+01:13:39.719 there's a lot of precedent for this
+01:13:41.340 right like Industrial Revolution which
+01:13:44.159 happened in Birmingham many many years
+01:13:46.020 ago
+01:13:46.980 the environment was for that was created
+01:13:49.500 by the UK shutting down and not allowing
+01:13:51.600 foreign Goods in one can also agree that
+01:13:54.360 China did the same and they didn't allow
+01:13:55.980 Western Goods in shut the economy off to
+01:13:58.860 foreign produce and then the domestic
+01:14:01.440 economy thrived do you think India
+01:14:04.020 should go down that direction where
+01:14:07.020 to get better at solar cells for example
+01:14:09.719 we should stop importing cells or impose
+01:14:13.460 significantly higher duty to make Indian
+01:14:16.800 product more artificially more
+01:14:18.960 competitive is that the way to increase
+01:14:20.880 manufacturing profits we've already
+01:14:22.500 we've already started doing that right
+01:14:24.000 so if you went down that path like for
+01:14:25.920 instance let's take electronics
+01:14:27.239 manufacturing okay less than five
+01:14:29.400 percent of electronics sold in India
+01:14:31.199 were assembled here okay so we should
+01:14:33.360 you know you start with assembly then
+01:14:34.679 you have to make components and so on
+01:14:35.940 and so forth right that number is now I
+01:14:37.739 don't know what the latest number is but
+01:14:39.120 it's well north of 70 of electronics
+01:14:41.580 consumer electronics okay is being
+01:14:44.580 captured none of the value in that cycle
+01:14:46.560 is being captured but that's a matter of
+01:14:48.239 time now first you have to start
+01:14:49.199 assembly then you start components and
+01:14:50.940 so on and so forth right so but do you
+01:14:52.380 think the broader question is is India
+01:14:55.100 we've all established we need more
+01:14:57.659 manufacturing profits we need to capture
+01:14:59.699 more of the value in IP in India yes is
+01:15:03.120 India doing the right thing by imposing
+01:15:06.540 Duty is npli and all of that which I
+01:15:08.940 think it is
+01:15:09.860 in strategic sectors for limited periods
+01:15:12.900 of time it is it is working it's not is
+01:15:15.960 it the right thing or not it's beginning
+01:15:17.219 to work we should continue down this
+01:15:19.500 path and you will see you know like it's
+01:15:21.719 very interesting I was talking to the
+01:15:23.100 boat team you know they make the you
+01:15:24.780 know it's four five four thousand plus
+01:15:25.860 crows now of Revenue so they used to not
+01:15:28.980 they should design here and then get
+01:15:30.719 everything made in China now I think
+01:15:33.600 it's like 30 40 I can't remember the
+01:15:35.100 latest number but 30 40 in in 18 months
+01:15:37.440 yeah is is now actually they are now the
+01:15:40.500 large second largest
+01:15:43.199 um headset uh accessories company in the
+01:15:45.480 world I think one of the really uh cool
+01:15:48.840 definitions for patriotism in my mind
+01:15:51.300 like I don't think we have exercised
+01:15:54.060 this in the manner that many Western
+01:15:55.739 like the US for example has
+01:15:59.239 made they sell it so much I feel like
+01:16:03.060 for everybody watching right like if you
+01:16:05.699 have
+01:16:06.900 product a product B
+01:16:08.820 product B is India made product a is
+01:16:11.520 China made even if product B is five
+01:16:15.480 percent inferior
+01:16:17.100 I think the biggest Act of patriotism in
+01:16:19.920 a modern capitalistic world today is
+01:16:22.440 picking product pure productive I think
+01:16:24.780 that's a really bad strategy because you
+01:16:27.120 want to win on the best product bought
+01:16:28.980 is number one in their category and
+01:16:30.420 we're also saying Duties are good and
+01:16:31.739 pli is good no no so basically look the
+01:16:34.199 duties are like if you don't see the
+01:16:36.000 duties to get companies to manufacture
+01:16:37.920 here right the pli if you look at who
+01:16:40.620 can benefit from pli anybody who wants
+01:16:42.659 to come out manufacturing here can
+01:16:43.739 benefit from pli right now of course
+01:16:45.239 some countries in the world are possibly
+01:16:47.580 not included in that list but by and
+01:16:49.140 large you know you can right so but I
+01:16:50.820 mean America is doing it why is it not
+01:16:52.800 about no but I think my American
+01:16:54.420 products don't buy look at the toy
+01:16:57.360 industry 100 billion dollars worth of
+01:16:58.920 Chinese toys American consumers
+01:17:01.340 this notion is very very well sold in
+01:17:05.460 America like you know bring jobs back
+01:17:07.320 buy American Products American consumers
+01:17:09.480 walking into Walmart you think they're
+01:17:11.159 really looking for American made in
+01:17:12.540 America tags now they're buying the most
+01:17:14.340 affordable products I don't think so I
+01:17:16.860 think consumers around the world want to
+01:17:19.679 buy the best products that are the best
+01:17:21.179 I'll tell you my example like when there
+01:17:23.040 used to be Flipkart in Amazon I'm not
+01:17:24.900 talking in the Walmart era Flipkart
+01:17:27.360 I would
+01:17:29.000 subconsciously pick Flipkart over Amazon
+01:17:31.260 every time I don't know if many other
+01:17:33.540 people did but no you know they could
+01:17:35.460 but I think what what we have shown now
+01:17:37.800 like if you look at a company like boat
+01:17:39.659 right boat went up against all the
+01:17:42.480 Chinese
+01:17:43.340 uh accessories companies and one in
+01:17:46.380 India not because of patriotism not
+01:17:49.440 because of price
+01:17:50.940 because they had better product
+01:17:53.280 and I think that's really important
+01:17:55.140 right but there is something to be said
+01:17:57.140 about Indian slightly favoring
+01:18:00.920 indian-owned Indian funded Indian made
+01:18:03.960 products because that tiny
+01:18:07.440 differentiation I think will take our
+01:18:09.060 manufacturing and our products A Long
+01:18:10.920 Way Forward what is happening nikhil is
+01:18:14.580 Indian entrepreneurs have a much better
+01:18:17.520 pulse of what Indian consumers want so I
+01:18:20.699 think what we are seeing which is very
+01:18:22.380 very interesting is
+01:18:24.239 the Indian brands that are winning in
+01:18:26.880 India
+01:18:27.900 truly have better product and I think
+01:18:29.760 that is that is what you want right
+01:18:31.500 because first we'll build better
+01:18:32.820 products so let's take let's take a
+01:18:34.500 company like I totally agree with you
+01:18:36.000 but
+01:18:37.260 I think there is also something to be
+01:18:39.420 said about it is hard to build a better
+01:18:42.060 product and compete in an Open
+01:18:43.920 Marketplace if say for example I'm just
+01:18:46.800 using China I have nothing against them
+01:18:48.540 if they've been building solar cells for
+01:18:51.600 30 years in our manufacturing 50 million
+01:18:54.360 quantity
+01:18:55.620 practically it is quite hard for a
+01:18:58.199 factory in India manufacturing therefore
+01:19:01.760 that's right because if that I said that
+01:19:04.199 is
+01:19:06.020 and all these countries do that all the
+01:19:09.000 time so I think we are we so when I'm
+01:19:12.060 saying Indian consumer favors Indian
+01:19:13.679 product by virtue of patriotism that
+01:19:15.780 might be my euphemism for something else
+01:19:17.480 why is that wrong no no it can be wrong
+01:19:19.980 it's I don't think
+01:19:22.080 that is so the question is if you take a
+01:19:24.060 look at Indian Brands right Indian
+01:19:25.940 brands that are winning and you ask the
+01:19:28.320 question why are they winning they're
+01:19:31.440 not winning because Indian consumers are
+01:19:33.179 picking an Indian brand I mean I've seen
+01:19:35.340 this time and again right Indian
+01:19:36.420 consumers will pick the best product at
+01:19:38.760 the right price value prop range right
+01:19:41.940 so and and I think what our
+01:19:43.739 entrepreneurs are getting better and
+01:19:46.140 better every single month every single
+01:19:48.840 year is innovating for India I know
+01:19:51.900 there's a school of thought that you
+01:19:53.520 should build for the top 10 million or
+01:19:55.380 the top 20 million I think that is not
+01:19:57.840 as an entrepreneur you should not aim
+01:19:59.460 for that
+01:20:00.719 you know think about it right we have
+01:20:02.340 the most advanced
+01:20:04.800 mobile internet ecosystem in the world
+01:20:07.320 that consumes three times as much data
+01:20:09.780 as China does China is a billion
+01:20:11.580 internet users why because one company
+01:20:14.040 called Reliance
+01:20:15.620 fundamentally disrupted the cost of 4G
+01:20:19.620 access 3G access and now 4G access right
+01:20:22.199 the game I think in India is to build
+01:20:25.320 for India
+01:20:28.159 price point yeah exactly right I think I
+01:20:30.960 think as an ecosystem we've been very
+01:20:32.400 focused on the top 10 million or the top
+01:20:34.260 30 or 40 million yeah yeah sure yes
+01:20:36.480 there is another dream statistic is
+01:20:38.400 about 516 million people in India have
+01:20:42.420 access to a TV set yeah 400 million
+01:20:45.300 Indians now pay with UPI and that TV set
+01:20:47.820 is soon becoming a medium like a mobile
+01:20:50.159 device because TVs are getting smarter
+01:20:52.800 like the next 25 of YouTube consumption
+01:20:55.560 in India is now on television yeah
+01:20:57.719 because it's two-way TV and uh you know
+01:21:00.960 two other examples maybe slightly I'm
+01:21:02.940 just switching back to B2B
+01:21:04.920 most Indian Supply chains are are
+01:21:09.120 starting to really work more efficiently
+01:21:13.679 and we're able to compete because of two
+01:21:16.500 reasons one a lot of digital
+01:21:19.020 infrastructure got built within the
+01:21:21.420 country right whether it is uh and and
+01:21:24.239 formalization of the economy through GST
+01:21:26.640 and you know the ability to build more
+01:21:29.460 efficient warehousing
+01:21:31.440 all of that would mean that if you are
+01:21:34.140 supplying product now from India right
+01:21:36.719 because everybody in the digital chain
+01:21:40.020 is mobile right your level of efficiency
+01:21:43.860 in your supply chain in India is on par
+01:21:46.620 or better than any other country
+01:21:48.480 globally
+01:21:49.860 so I think that's a unique opportunity
+01:21:52.020 which we have been waiting for the
+01:21:54.360 longest time right see if you look at
+01:21:58.580 manufacturing as a sector
+01:22:01.560 35 to 40 years nothing really has
+01:22:04.500 happened in this country
+01:22:06.060 but now with the digitization of the
+01:22:08.340 supply chain the ability to grow for
+01:22:11.040 Global demand to digitally access Indian
+01:22:14.760 product and Indian pricing on Indian
+01:22:17.100 product
+01:22:18.360 and the sensibilities in the Indian
+01:22:20.940 entrepreneur to build for Quality it's
+01:22:25.679 no longer about what the Indian consumer
+01:22:28.440 wants I'm saying the game has changed
+01:22:31.679 and has to change to the next level in
+01:22:34.020 India we are not going to become a 10
+01:22:36.360 trillion dollar economy by supplying
+01:22:38.640 better products to Indians that has its
+01:22:41.460 place right we will have to and this is
+01:22:43.800 where I agree with Raja in terms of the
+01:22:46.140 quality benchmarking that we need to be
+01:22:48.659 able to build best product globally and
+01:22:51.780 to be able to build best product
+01:22:53.340 globally I think Partnerships are also
+01:22:56.340 very important I think we cannot get
+01:22:58.860 also closed
+01:23:00.540 if you're not getting that technology
+01:23:02.400 from China we need to figure another
+01:23:04.800 place to get the technology from right
+01:23:07.320 so we have to build world-class product
+01:23:11.159 from India that that whole China plus
+01:23:14.159 one diversification take advantage of
+01:23:17.159 that in the next two to three years and
+01:23:19.620 a lot of Entrepreneurship
+01:23:21.719 I think has to be built there I just by
+01:23:25.020 I think in competition one unique thing
+01:23:27.540 that is happening in India right now I
+01:23:29.640 think the fact that we have stable
+01:23:32.460 governance and stable policy making for
+01:23:35.640 as long as we have had it I feel like
+01:23:38.400 that in itself has made India so unique
+01:23:41.640 to take advantage of the China plus one
+01:23:43.620 opportunity because you look at
+01:23:45.480 everything around us let's add these two
+01:23:48.179 the digitized supply chain
+01:23:50.460 and the compute power real-time compute
+01:23:53.760 power across the supply chain with every
+01:23:56.280 individual
+01:23:57.480 right and corporate taxes
+01:24:00.300 which are globally benchmarkable all of
+01:24:02.699 them done by the Modi government in the
+01:24:05.340 last year I think one of the reasons why
+01:24:07.860 Indians are putting Global world-class
+01:24:10.320 products is the money
+01:24:12.120 all the VCS are brought into the country
+01:24:14.040 right I mean it's just crazy because I
+01:24:16.320 remember in 2010 when we first started
+01:24:18.239 sarova you know went around finding
+01:24:20.760 website designers
+01:24:22.320 and and just that you know I'm just
+01:24:24.900 saying just that one small bit right the
+01:24:27.120 quality that has gone up is just immense
+01:24:30.060 and I don't think that would have
+01:24:31.260 happened
+01:24:32.820 if not for all the money you guys have
+01:24:34.260 put in the country you know so and and
+01:24:36.060 you know I think it's a combination of
+01:24:37.380 you know it's a good point you know it's
+01:24:38.460 a combination of capital but it's also
+01:24:40.440 you know like one very interesting thing
+01:24:42.659 we should talk about
+01:24:44.659 the smartest Indians are not leaving
+01:24:47.940 India in droves and they're coming back
+01:24:51.000 and they're coming back they're coming
+01:24:52.860 back
+01:24:53.780 in a certain way because 90 of the money
+01:24:56.880 coming in is external you're like
+01:24:59.100 marketing agents for India
+01:25:01.620 you're going out in the U.S you're
+01:25:03.480 pitching to people to put money into
+01:25:05.040 India and you're bringing money back no
+01:25:06.719 and we're pitching both right we're
+01:25:08.580 pitching the India opportunity
+01:25:10.679 which is the macro and all of that the
+01:25:13.920 the
+01:25:14.600 stable carbon but more I think the the
+01:25:18.659 the capability of the Indian
+01:25:20.340 entrepreneur I think is so recognized
+01:25:22.500 globally I think that is bringing off
+01:25:24.719 the money I think the Sundar picture is
+01:25:26.400 and yeah I think there I think yeah
+01:25:30.600 they're big they're also like 30 or
+01:25:33.300 whatever 25 30 of Silicon Valley
+01:25:35.400 Founders are basically first generation
+01:25:37.199 Indians so to close the market size no
+01:25:39.960 but Market we should talk about the
+01:25:41.159 export we only talked about the message
+01:25:43.280 yeah you've said 63 is consumption
+01:25:47.520 focused yeah
+01:25:49.199 that does not include as export that 63
+01:25:52.560 is about 1.7 1.8 trillion dollars yes uh
+01:25:56.760 outside of consumption which we spoke so
+01:25:59.100 much about what is the balance 37
+01:26:01.080 percent
+01:26:02.040 exports is a huge thing so actually if
+01:26:04.620 you look at uh so if you're an
+01:26:06.000 entrepreneur looking to start up right
+01:26:07.620 again start with something you know
+01:26:09.420 something about
+01:26:10.560 you have unique insights but building
+01:26:13.199 for the world now is a is a very real
+01:26:15.600 thing right so if you look at new seed
+01:26:17.880 funded startups in India in 2022
+01:26:20.699 calendar last year
+01:26:22.980 and this is seed funding we've defined
+01:26:25.380 as
+01:26:26.460 between five crores and 40 crores raised
+01:26:28.800 per company right so companies that have
+01:26:31.020 raised between five crores
+01:26:32.699 uh and 40 crores so between half a
+01:26:34.920 million so four crores half a million
+01:26:36.480 dollars to five million you just call
+01:26:37.860 that seed large seed round uh somewhat
+01:26:40.980 average seat round
+01:26:42.719 40 percent of all's Indian startups that
+01:26:47.400 raise seed funding last year in that
+01:26:49.080 definition
+01:26:50.100 we're building for the world from Day
+01:26:51.900 Zero
+01:26:52.920 most of those were building software
+01:26:55.020 products
+01:26:56.460 vertical SAS application SAS modern data
+01:26:59.760 stack cyber security infrastructure
+01:27:01.800 companies
+01:27:02.820 increase now that we know we're seeing a
+01:27:04.260 new crop of AI companies right so I
+01:27:06.420 think that is the first so in many ways
+01:27:08.280 right if you look at export from a
+01:27:09.780 technology enabled standpoint the first
+01:27:12.239 big wave was I.T Services that's now 250
+01:27:15.239 billion dollar industry software
+01:27:17.280 products is the next big wave and now we
+01:27:19.020 are going to see coming after that would
+01:27:21.060 be the manufacturing wave consumer
+01:27:23.460 Brands right so you're seeing toy brands
+01:27:25.560 uh this is company we're not investors
+01:27:27.780 in it it's called ayurveda experience in
+01:27:29.520 Delhi they make ayurved the products
+01:27:31.380 that sell them in the US they don't even
+01:27:32.699 sell in Marketplace just cost 50 million
+01:27:34.560 Revenue can I digress and ask one
+01:27:36.239 question
+01:27:37.020 so trends of VC money this year have
+01:27:40.980 been
+01:27:41.880 slowing down of investment in gaming
+01:27:45.179 consumer tech ed Tech e-commerce lesser
+01:27:49.320 money is coming in
+01:27:51.300 crypto SAS and fintech are flat the
+01:27:55.500 highest Investments or the rate of
+01:27:57.120 growth is coming in retail consumption
+01:27:59.900 energy and EVS
+01:28:02.400 why that Trend and if that is the trend
+01:28:04.739 what is the opportunity for somebody
+01:28:06.239 building a business today so I have a
+01:28:08.880 controversial view on this yeah
+01:28:10.620 I honestly I think as an entrepreneur
+01:28:12.719 shouldn't care one two Hoots about what
+01:28:14.520 you just read out but if if you're
+01:28:16.080 entering the industry which is being
+01:28:17.880 funded or the rate of funding is going
+01:28:19.800 up isn't that a Tailwind terrible way to
+01:28:21.840 think about business opportunities and
+01:28:23.639 entrepreneurs yeah what will happen is
+01:28:24.840 by the time you have to raise you around
+01:28:26.540 okay let me let me gloat a little bit
+01:28:29.400 about my skill I think I'm looking 10
+01:28:31.920 years out I want to see what's a billion
+01:28:34.139 dollar opportunity 10 years from now if
+01:28:36.360 I'm a good BC
+01:28:37.800 and my counterpart should be a good
+01:28:39.360 entrepreneur who's also thinking that
+01:28:40.679 way
+01:28:41.460 we're not building for one year two
+01:28:42.840 years these are all cyclical you'll have
+01:28:45.659 a short-term cycle you'll have a medium
+01:28:47.040 term cycle how do I care what's hot I
+01:28:50.580 need to find five intelligent people who
+01:28:52.320 believe agree with my point of view and
+01:28:54.719 you just said gaming is down he's where
+01:28:56.159 he says he made five Investments this
+01:28:57.600 year
+01:28:58.380 so he's bullish right go find him right
+01:29:01.260 if you are bullish on gaming so actually
+01:29:03.300 the point was not that nickel so
+01:29:05.820 I didn't mean to come across the route
+01:29:07.139 but the point is
+01:29:08.520 if the entrepreneur is building into a
+01:29:11.159 market Trend it's a very
+01:29:14.159 I'm going to be wrote to the
+01:29:15.840 entrepreneur it's a very 80 style of
+01:29:17.820 building you're trying to go by the
+01:29:19.320 monies you're trying to go without
+01:29:21.480 opportunities what is your advantage
+01:29:23.699 what is your distinctive advantage and
+01:29:25.380 what is your passion about building into
+01:29:27.060 that space actually I haven't uh I mean
+01:29:30.000 I I partly agree that you shouldn't uh
+01:29:33.300 kind of go after a market that's
+01:29:34.739 currently being
+01:29:36.139 touted as the next big thing I think
+01:29:39.000 that's the wrong thing but I think
+01:29:40.980 entrepreneurs should have a macro global
+01:29:44.280 view and a macro Country View on where
+01:29:47.940 things are going
+01:29:49.739 just just to kind of talk about a sector
+01:29:52.739 we have not spoken so much about climate
+01:29:54.780 Tech right uh you know I think there is
+01:29:58.800 global shifts in multiple ways that
+01:30:02.100 being more an NGO
+01:30:03.780 funded space now to where VCS are really
+01:30:06.900 looking at clients talking about Geo
+01:30:08.460 engineering multiple aspects of it I
+01:30:10.920 mean because you spoke EV I didn't want
+01:30:12.900 to see specifically we specifically new
+01:30:16.560 new materials right uh I think there are
+01:30:19.679 a bunch of uh opportunities in climate
+01:30:24.139 uh Tech
+01:30:26.000 going beyond the just the energy the
+01:30:29.880 kind of the stuff that you spoke about
+01:30:31.320 and if I were a entrepreneur today I
+01:30:34.739 would look at you know where is where
+01:30:37.139 are the climate Tech opportunities and
+01:30:39.300 the related stuff right 10 years down
+01:30:43.020 the road like he was talking about
+01:30:44.600 energy EV or aspects of it might be
+01:30:48.120 already played out for somebody starting
+01:30:49.560 out today
+01:30:50.760 so I'm not trying to get specific here
+01:30:52.739 I'm trying to figure out what can we
+01:30:55.380 tell people if they work in those
+01:30:57.780 sectors in the next 10 years their odds
+01:31:00.300 of getting luckier slightly higher so
+01:31:02.159 I'm saying the annual Trends which
+01:31:03.900 generally reporters tend to write about
+01:31:05.520 was way too short term is my only Point
+01:31:08.040 agreed but what are those trends that
+01:31:09.900 you are bullish about in the next I
+01:31:11.340 think a lot of the stuff that Rajan and
+01:31:12.780 Prashant spoke about
+01:31:14.600 consumption also Global consumption
+01:31:19.100 I think it's a huge opportunity to take
+01:31:22.320 off from where Rajan put the number
+01:31:24.960 we've been at that 40 number for 12
+01:31:27.420 years now we've always had companies and
+01:31:30.540 we put it on a deck that this is the
+01:31:32.520 India opportunity don't come to India
+01:31:34.260 trying to buy India consumption it's a
+01:31:36.120 terrible story to sell what we are is
+01:31:38.699 very good at building world-class
+01:31:40.020 products and 40 of our portfolio will be
+01:31:42.900 built for the globe
+01:31:44.460 right so if you and for that like Rajan
+01:31:47.880 said you've got to be world class from
+01:31:48.960 day one
+01:31:49.860 there's no time to catch up some Israeli
+01:31:52.139 company or some Singaporean company will
+01:31:54.120 beat your backside right so if you
+01:31:56.639 therefore you've got to be so Supreme in
+01:31:59.040 like you know software engineering
+01:32:00.600 skills or understanding an Enterprise
+01:32:02.219 product need or a developer tool need or
+01:32:05.400 a robotic product or printing 3D
+01:32:08.340 artificial livers or whatever it may be
+01:32:10.139 but you've got to be world class
+01:32:12.120 there's no leeway for like saying I'll
+01:32:14.520 catch up in five years
+01:32:16.139 in Venture it's different when you're
+01:32:18.120 doing solar cell production with plis in
+01:32:21.239 Venture there is no leeway right so
+01:32:24.060 we would love to see and this is where I
+01:32:26.460 think we're beginning to touch the you
+01:32:29.159 know tip of the iceberg we were at
+01:32:31.500 freshworks one unicorn and SAS
+01:32:34.320 in 15 or 16. now we have about 15 to 20
+01:32:37.500 of them I think the first ones will
+01:32:40.080 happen in deep Tech slash manufacturing
+01:32:42.060 not of the consumption variety of really
+01:32:45.179 cool deep Tech like you know autonomous
+01:32:47.040 robots and you know EV components and
+01:32:50.159 things like that where we can build
+01:32:51.900 global companies and when that happens
+01:32:54.000 is when the ecosystem breaks out big
+01:32:56.520 time because you need poster children
+01:32:57.900 you simply can't sit here and say let's
+01:32:59.760 do it and by the way we're all guilty of
+01:33:01.679 this we're also looking for patterns
+01:33:03.239 right you're saying dude nobody has done
+01:33:05.219 this how do you think you're going to be
+01:33:06.960 the first guy ever to do this right and
+01:33:09.719 so some entrepreneur fights all
+01:33:12.000 traditional yeah so that's really well
+01:33:14.219 that's a question I had for all of you
+01:33:16.020 actually like how do you not get sucked
+01:33:18.540 into this like how do you because it's
+01:33:20.699 really hard
+01:33:22.800 to figure out what will click in 10
+01:33:25.139 years from now right I mean it's a
+01:33:28.080 well I think that's where I'll admit a
+01:33:31.139 little bit
+01:33:32.400 uh and I don't know uh Karthik has to
+01:33:36.060 agree to this because I think you also
+01:33:38.699 need to know what currently
+01:33:43.020 the ecosystem
+01:33:45.380 broadly wants to invest in
+01:33:48.179 otherwise companies can't raise money
+01:33:49.940 right so they have to survive they have
+01:33:52.500 to survive right they survive the 10
+01:33:54.239 years so directionally there should be
+01:33:57.179 in a space that is going to help them
+01:34:00.000 raise Capital so that's important so you
+01:34:02.100 can't I mean you can't be in ic engineer
+01:34:06.320 in our evaluation Matrix
+01:34:09.780 it was an adaptation of what Mark
+01:34:12.300 Anderson Drew up in 2006. in fact it's a
+01:34:15.179 public blog I think I do it did it
+01:34:16.920 before front two 2014.
+01:34:19.139 we basically understood that you can't
+01:34:21.719 get seduced by ideas and trends
+01:34:24.960 and essentially if you had to put a
+01:34:26.280 weightage we essentially internally
+01:34:27.780 assign 40 40 20 and our evaluation forms
+01:34:30.840 actually make us comment on that 40 is
+01:34:33.179 Market opportunity
+01:34:34.800 what's a house view on whether you
+01:34:37.139 actually believe this Market's going to
+01:34:38.580 bake out big right entrepreneur can't be
+01:34:41.040 educating you have to have a house fewer
+01:34:42.659 now
+01:34:43.560 the second is do you think this kid
+01:34:47.280 was girl with their team
+01:34:49.800 can actually build a billion dollar
+01:34:51.120 business that's the next 40 is it yeah
+01:34:53.639 I don't see how that can be substituted
+01:34:57.480 by let's hire a CEO right right not in
+01:35:00.960 the Venture Journey private Equity is
+01:35:02.580 all cool because you're already making
+01:35:04.080 profits you're stable the last 20 to
+01:35:06.480 prashant's point is capital markets
+01:35:09.480 are you like totally against the trend
+01:35:12.239 in terms of what might get picked up
+01:35:14.520 and we paid the price that's why we've
+01:35:16.199 learned you to try and do cool deep Tech
+01:35:18.719 stuff in 2011 nothing moved for five
+01:35:21.780 years can I put you guys on the spot
+01:35:23.940 just because this will help some people
+01:35:26.880 and make you without explanation take
+01:35:30.800 one sector
+01:35:33.239 if somebody is building
+01:35:35.340 removing all passion all of that outside
+01:35:37.880 one sector that you think will grow at a
+01:35:40.800 pace faster than others for the next 10
+01:35:42.719 years
+01:35:43.620 we can start with nitin
+01:35:47.100 I think the first trillionaire on this
+01:35:48.840 planet will be someone solving for
+01:35:50.159 climate problem
+01:35:53.280 okay
+01:35:55.040 elaborate it's getting close he's got
+01:35:56.880 another 800 billion to go yeah
+01:35:59.900 the speed at which
+01:36:02.940 climate change is affecting our lives
+01:36:05.040 right as in eventually when push comes
+01:36:07.260 to shove you know like how covet
+01:36:08.639 resulted in so many billionaires out
+01:36:10.380 there
+01:36:11.100 for making vaccines you know people who
+01:36:13.620 are solving
+01:36:15.120 uh for some of these problems how
+01:36:18.300 okay anything I mean like any climate
+01:36:20.880 intervention types residents say for
+01:36:22.500 example including Elon Musk doing
+01:36:24.179 electric cars so you mean things like
+01:36:26.460 EVS energy transitions yes land-based
+01:36:29.520 Foods I mean like I said it's very early
+01:36:31.260 for plant-based food but solar like
+01:36:34.139 anything that is you know that little
+01:36:35.760 thoughts
+01:36:36.980 I I'll kind of chime in there big
+01:36:39.900 proponent of climate I think we are if
+01:36:43.560 you look 10 years ahead right there are
+01:36:45.600 two Trends I think one is health
+01:36:48.600 and how how much disruption we will see
+01:36:53.040 in what I call as Upstream medicine what
+01:36:55.139 is Upstream medicine Upstream medicine
+01:36:56.639 is that really every disease that you
+01:37:00.120 ultimately see right as a manifestation
+01:37:03.239 has started 20 years before
+01:37:06.179 in some form and today we don't have the
+01:37:08.699 Diagnostics or we don't feel it and
+01:37:12.060 doctors can't uh kind of detect it so
+01:37:17.400 you only detect it at the end right so
+01:37:19.440 what medicine 3.0 will be and maybe we
+01:37:22.620 are still not seeing a lot of that in
+01:37:24.540 India but I think we are at that cusp of
+01:37:28.320 being able to look at so much data
+01:37:31.620 Upstream that
+01:37:34.260 you will be able to start one's journey
+01:37:38.520 in not getting into that situation 20 30
+01:37:42.420 years later right today yeah at when
+01:37:46.380 you're 35. you know what the funny thing
+01:37:48.300 is so far yeah you remember those
+01:37:50.280 sectors where I said funding is
+01:37:51.719 increasing both of you have just spoken
+01:37:53.820 about that yeah no because I think this
+01:37:55.500 is Eevee Health yeah I think it's the
+01:38:00.360 current Trend yeah but the thing is to
+01:38:02.460 do what what I mean what's your thesis
+01:38:04.440 there like you said
+01:38:06.239 um you know it's it's in it's a broad
+01:38:08.880 space right but what do you do there
+01:38:10.800 there'll be a timing for all of this so
+01:38:13.560 for example right sustainability and
+01:38:16.199 materials are all sustainability is a
+01:38:18.540 huge opportunity globally recycling has
+01:38:21.179 not worked so you can't use garbage
+01:38:24.179 material first rather than later
+01:38:26.340 figuring out how to segregate garbage so
+01:38:28.739 there is a unique opportunity for India
+01:38:30.780 here we have one of the largest
+01:38:34.340 reproduce that either gets burnt
+01:38:37.620 or that just goes totally waste right
+01:38:40.800 one of the largest producers of bamboo
+01:38:43.560 globally
+01:38:44.940 right but what is the share that we have
+01:38:47.639 of any kind of sustainable material that
+01:38:49.980 gets put out point zero zero one percent
+01:38:53.639 but there's a golden opportunity that is
+01:38:55.860 there right now actually let me add U.S
+01:38:57.960 no no U.S just introduced a 25 tariff
+01:39:01.980 for all sustainable material from China
+01:39:04.560 right
+01:39:05.639 this is this is a reverse material yeah
+01:39:08.340 yeah not sustainable material
+01:39:09.980 sustainable I mean if you if you get
+01:39:12.179 bamboo stuff from China China India is
+01:39:15.360 zero
+01:39:16.560 and I'm saying this is like golden so
+01:39:19.380 I'm saying I'm so excited about this
+01:39:21.420 because it's like you're wearing a
+01:39:23.280 bamboo grow bamboo and Pitch Perfect
+01:39:29.840 that's just it's gone from 1 to 10
+01:39:32.760 million U.S domestic brand in 18 months
+01:39:37.440 okay like hemp for example right we've
+01:39:39.780 been researching on him quite a bit it's
+01:39:41.760 just ridiculous how good that plant is
+01:39:43.860 you know it's like a coconut tree you
+01:39:45.540 know every it fixes nitrogen yeah you
+01:39:48.540 can consume you can I mean when I say
+01:39:50.820 consume No Seeds yes
+01:39:55.880 you know cannabis yeah is a is a dirty
+01:39:59.340 cousin I know I'm talking about him I
+01:40:02.820 know but it sounds funny to say
+01:40:05.179 I went to the restaurant next to the bar
+01:40:08.780 okay so climate health
+01:40:11.760 look so I think it's not on your list
+01:40:13.739 but the number one theme that Venture
+01:40:17.219 capitalists around the world are focused
+01:40:19.080 on currently is AI
+01:40:22.020 so
+01:40:23.340 um it's probably not shown up on the
+01:40:24.780 data yet right
+01:40:27.500 and I think uh if you're an entrepreneur
+01:40:30.659 thinking about starting up
+01:40:32.639 firstly you have to be deeply technical
+01:40:35.280 I think going back to the thing we've
+01:40:36.659 been talking about don't chase the trend
+01:40:38.219 the number one Trend right now is AI you
+01:40:40.860 know I think AI is is going to have very
+01:40:43.139 very significant impact and again like I
+01:40:44.760 think what could be very interesting is
+01:40:46.199 either tooling you know if you if you
+01:40:48.540 can make
+01:40:49.440 uh AI infrastructure better faster
+01:40:51.540 cheaper more reliable hey can you make
+01:40:53.940 these models hallucinate less that's
+01:40:55.560 really interesting or you have vertical
+01:40:58.380 I think vertical use cases are going to
+01:41:00.480 be
+01:41:01.199 super super interesting right so you can
+01:41:02.880 look at Healthcare you can look at
+01:41:04.080 education you could I mean you could
+01:41:05.760 pretty much every industry
+01:41:08.040 okay so we did climate Health AI Karthik
+01:41:12.360 I'm like I feel like um we can't sort of
+01:41:16.800 materially move ahead if we don't
+01:41:19.380 sort of skill the larger segment of
+01:41:21.960 population towards employment in some
+01:41:24.239 sense
+01:41:25.020 so employability what leads to that in a
+01:41:28.380 more material way is going to become
+01:41:29.580 more important are you saying education
+01:41:31.739 could be education but it's basically
+01:41:33.900 towards a profession skilled skill based
+01:41:36.540 Skilling explain elaborate put that
+01:41:39.300 like so like we have one example of late
+01:41:42.060 so I'll use that and plug them in
+01:41:45.960 so which we didn't realize until the guy
+01:41:48.420 came and pitched us and we've been
+01:41:49.860 seeing two three more in the pipeline so
+01:41:52.020 basically by the way since we
+01:41:53.340 transitioned from AI the upskilling of
+01:41:56.040 everybody into a becoming very
+01:41:57.900 proficient you know AI enabled sort of
+01:42:00.840 programmers is inevitable so there's a
+01:42:03.719 whole industry that will have to upgrade
+01:42:05.880 so just enabling that upgrade I think is
+01:42:09.060 our domain to win if you ask me because
+01:42:11.340 we can do it at a cost structure which
+01:42:12.960 nobody else on the planet can do it's
+01:42:14.340 great being India India right so I'm
+01:42:16.500 talking again from India give me like a
+01:42:18.179 practical use case no so now I'll come
+01:42:20.340 to what we've funded recently a company
+01:42:22.619 called birohan
+01:42:26.280 so they realized that the phlebotomist
+01:42:28.739 who comes and takes your blood Sam say
+01:42:30.300 that again phlebotomist the guy who
+01:42:32.040 takes your blood sample okay
+01:42:34.080 only 10 or so are formally trained and
+01:42:36.300 given a diploma Etc but let's just learn
+01:42:38.280 on the job okay okay so whether you are
+01:42:41.520 comfortable with that or not that's the
+01:42:42.780 reality of the country
+01:42:44.179 and the it's it's not a job where you'll
+01:42:47.880 get universities to sponsor classroom
+01:42:49.800 education around this and train them in
+01:42:51.780 a professional fashion and they
+01:42:53.760 discovered that out of the 60 percent of
+01:42:56.340 healthcare Professionals in this country
+01:42:57.719 are not doctors and nurses
+01:43:00.420 does everyone but that and you and I
+01:43:03.060 would never know where they get trained
+01:43:04.440 in some sense right and we're not
+01:43:06.780 talking about pharmacists we're talking
+01:43:07.860 about people in the Health Care System
+01:43:09.119 right so they are going call District by
+01:43:12.540 District
+01:43:13.980 have approved courses building in
+01:43:17.940 Practical training with the neighborhood
+01:43:20.460 Hospitals and Clinics tying up with that
+01:43:23.040 house that education
+01:43:25.460 that college which has the ability to
+01:43:27.900 get the uh the degree approved and
+01:43:31.020 training Away by the hundreds and guess
+01:43:34.020 how much three years of curriculum costs
+01:43:35.940 there three lakhs
+01:43:37.739 because it is leading directly to
+01:43:39.900 employment and Skilling
+01:43:41.760 which can be repaid by those people
+01:43:44.100 and 97 employment success right at the
+01:43:48.420 end of the program
+01:43:50.000 three years ago something like this
+01:43:52.080 existed I wouldn't have believed it so
+01:43:53.820 you're saying upskilling opportunities
+01:43:55.199 creating professions has not been a very
+01:43:58.920 good strength of India if you ask me
+01:44:00.480 other than a very small sliver and
+01:44:03.659 there's you know we left it to the itis
+01:44:05.400 of the country to do machine training
+01:44:07.560 and things like that and I think there's
+01:44:09.780 if we want to come if we want to think
+01:44:11.639 of can we become a superpower in health
+01:44:14.340 tourism can we become a superpower in
+01:44:16.199 exporting Education Services across the
+01:44:18.600 web from here to the rest of the world
+01:44:20.040 can we become a superpower and compute
+01:44:23.400 more Computing Skilling our Engineers
+01:44:25.860 who we churn out by the 300 000 350 000
+01:44:29.460 by year a manufacturing destination that
+01:44:32.639 challenges China I think all of those
+01:44:35.040 lead to where is that skill set
+01:44:38.040 it's not simply going to come out just
+01:44:40.199 because you give a degree that
+01:44:42.480 transition from so Infosys in the web
+01:44:44.580 browser put them through three months
+01:44:46.320 and teach everybody coding it doesn't
+01:44:47.880 matter whether you thought chemical
+01:44:48.900 learn chemical engineering or textile
+01:44:50.760 Engineering in three months you're
+01:44:52.199 coding right and so that was to serve a
+01:44:55.380 specific purpose and if you look at
+01:44:57.420 India as a whole I think that's a huge
+01:44:59.699 opportunity
+01:45:00.719 okay so now we have established Market
+01:45:03.300 sizes and what sectors each one of us
+01:45:05.940 think we should focus on actually I
+01:45:08.880 didn't do one
+01:45:10.080 I will pick energy transition without
+01:45:12.480 getting into it because there's so much
+01:45:14.159 research available on energy transition
+01:45:16.219 I think fission fusion will become Main
+01:45:19.980 stream much faster than we are expecting
+01:45:22.980 it to and that will also in a way solve
+01:45:25.860 some of the other problems we discuss
+01:45:27.179 too much climate Tech here yeah
+01:45:30.199 I think that's a good way to close
+01:45:33.440 Market size as much as we could derive
+01:45:37.679 down to the very basic numbers and one
+01:45:41.820 preference of every sector that each one
+01:45:43.440 of you thought people should focus on
+01:45:44.760 another question which is very
+01:45:46.619 applicable to you guys is say I am a
+01:45:49.739 startup and I'm pitching to you guys to
+01:45:52.020 raise money
+01:45:53.219 you've done this a long time
+01:45:55.800 in your experience
+01:45:58.100 what have been the traits I will ask
+01:46:00.600 each one of you individually
+01:46:02.520 traits in companies that have worked out
+01:46:05.400 and what have been the common traits in
+01:46:07.440 companies that haven't worked out
+01:46:09.659 give me two things
+01:46:11.760 that you have found in common between
+01:46:13.739 companies and Founders that you've
+01:46:15.420 invested in that has worked out yeah
+01:46:16.860 it's usually the 180 of
+01:46:18.600 what works doesn't work so one of them
+01:46:21.719 is my bias as I said
+01:46:24.239 for people who truly relate to the
+01:46:27.300 problem that they're solving so which is
+01:46:29.400 aligned with what both of you would
+01:46:31.800 Chase as well in your in your lives and
+01:46:34.619 how you've built uh I think the reason I
+01:46:37.560 believe that is very important is
+01:46:39.000 because
+01:46:39.960 the journey in my view the supernormal
+01:46:42.480 journeys the ones that those five
+01:46:43.860 companies that deliver the magic those
+01:46:46.020 are 10 plus year Journeys
+01:46:48.119 and full ridden with potholes and shocks
+01:46:50.580 and emotional setbacks the only thing
+01:46:52.980 that keeps you going is the mission so
+01:46:54.780 if you have started with the purpose of
+01:46:56.520 saying there's some quick bugs to be
+01:46:58.020 made here I don't see it work okay got
+01:47:00.480 it so one thing you said is Founders
+01:47:03.179 with long-term vision
+01:47:07.040 with something they relate with yes a
+01:47:09.840 problem in their own personality they
+01:47:11.159 want to solve for a long period of time
+01:47:12.420 yeah the second one is I think
+01:47:15.739 incredible Evolution as
+01:47:19.679 and by the way we used to think teams
+01:47:21.659 are important of course they're
+01:47:22.619 important but I think I'm back to over
+01:47:25.500 indexing on one alpha female alpha male
+01:47:29.040 equivalent
+01:47:30.420 because I don't think you can distribute
+01:47:32.400 that vision and vision why one alpha
+01:47:35.100 mere one also no maybe not just one
+01:47:36.780 alpha no that's what I meant either I'm
+01:47:38.520 being generally true but I'm saying
+01:47:40.139 alpha male or
+01:47:42.179 so I'm saying
+01:47:43.500 I'm saying it's important for there to
+01:47:45.600 be one CEO Uber founder CEO and yes
+01:47:51.600 theoretically private Equity or late
+01:47:53.100 stage growth can replace them saying
+01:47:54.659 these guys are useless I'm trying to
+01:47:56.280 judge that seed which is my bread and
+01:47:58.440 butter whether they're capable of
+01:48:01.080 learning inquisitive and self-improving
+01:48:03.480 to become CEOs at every stage are those
+01:48:06.239 the top three traits you watch for
+01:48:07.739 inquisitive curious and willing to learn
+01:48:10.080 yeah change in another word otherwise no
+01:48:13.560 chance they can scale you want to go
+01:48:15.060 next no I mean say all the Investments
+01:48:17.280 that I've done is in areas that I deeply
+01:48:19.860 care about no but how how right the
+01:48:22.260 Investments you've done what have you
+01:48:23.639 learned about this that's why the only
+01:48:25.739 ones I think
+01:48:28.500 I've associated with the people who I
+01:48:31.739 think deeply care about the problem as
+01:48:33.480 much as I do I think in today's world
+01:48:35.400 almost
+01:48:36.659 in everything that we're doing we need a
+01:48:38.880 technologist
+01:48:40.020 right I mean like people like you and me
+01:48:48.440 so I think
+01:48:50.400 uh like Karthik said I think you you can
+01:48:53.520 be a CEO material but you need a CTO in
+01:48:55.739 today's world
+01:48:57.000 in whatever you're building so it's also
+01:48:59.639 important you know when you meet you
+01:49:01.199 want to see who's the guy who's going to
+01:49:02.639 help him you know if the person who's
+01:49:04.679 talking to you as a CEO you need to see
+01:49:07.080 the quality of the CTO as well no you
+01:49:08.880 can't big big fan of co-founder right
+01:49:10.980 and karthik's point I mean you need to
+01:49:13.020 be multiple uh I mean to Rebecca company
+01:49:15.600 work you you need that right balance in
+01:49:19.199 terms of personalities you need these
+01:49:21.840 complementary skills okay too I want
+01:49:24.840 something interesting from Rajan toxic
+01:49:27.300 childhoods create great entrepreneurs
+01:49:29.400 something like that like not the
+01:49:32.300 hard-working obsessive typical stuff no
+01:49:35.520 I mean look resilience right look on
+01:49:38.760 average a successful startup will have
+01:49:41.639 several near-death moments right you run
+01:49:44.639 out of money you get sued by a biggest
+01:49:46.860 competitor
+01:49:48.060 uh your co-founder leaves so I think
+01:49:51.179 being able to stick with it is really
+01:49:52.739 important what has this founder he or
+01:49:54.900 she or the founding team members are
+01:49:57.900 there you know signs of you know
+01:50:00.000 resilience and just sticking with it and
+01:50:02.340 just going at it right and how do you
+01:50:04.080 discern that it depends on the
+01:50:05.639 experience right like we ask the
+01:50:07.080 question like okay like just uh actually
+01:50:08.699 they seed invested in this company
+01:50:10.500 called ethereal machines these guys have
+01:50:13.080 been added what seven years seven five
+01:50:15.540 under our watch seven years right yeah
+01:50:17.699 so they've been at it for seven years
+01:50:19.980 I mean like it's hard it's really hard
+01:50:24.360 the only two other companies in the
+01:50:25.500 world that do it and everybody said they
+01:50:27.300 couldn't do it they just stare at it
+01:50:28.619 they stare at it they stare at it
+01:50:30.800 whoa that's good because you know now
+01:50:33.480 that shows resilience right so uh so it
+01:50:36.119 could be in your own company it could be
+01:50:37.739 something that you did before you think
+01:50:39.500 willingness to
+01:50:41.580 change their belief systems constantly
+01:50:44.420 no I think you should you should write
+01:50:47.040 your values in ink and your strategy you
+01:50:50.699 should change but then if you do that
+01:50:52.080 you can't be a jailbreak no agile is
+01:50:53.940 like basically you know the values I'm
+01:50:55.920 talking about values your strategy
+01:50:57.060 should change values is like what you're
+01:50:58.560 about right like you believe in X and Y
+01:51:00.719 and so on for example what do you
+01:51:01.980 believe in no for like values of uh
+01:51:04.080 let's take uh like you know I'm a
+01:51:06.060 company should I even have values of
+01:51:07.619 course you should what are those values
+01:51:09.000 uh focus on the electrical Google value
+01:51:11.100 that I love focus on the user and all
+01:51:13.739 else will follow
+01:51:14.880 do you think they really do that yeah
+01:51:16.500 they focus on the user more than
+01:51:18.119 themselves yeah focus on the user more
+01:51:20.219 than they focus on Revenue even today
+01:51:21.780 really absolutely so so going back I
+01:51:25.260 think the first is resilience second is
+01:51:26.940 agility meaning you know you're able to
+01:51:28.800 change so I think if you're going to be
+01:51:31.380 successful one you're going to have to
+01:51:32.580 go through many near-death moments uh
+01:51:34.920 and second you have to be able to change
+01:51:36.480 your strategy change you know like Etc
+01:51:38.580 change yourself
+01:51:40.199 you have to evolve yeah actually that
+01:51:41.880 would be the third thing right when I
+01:51:43.260 said change your values and belief
+01:51:44.760 systems I asked whether the founder
+01:51:47.639 himself has to change what he thinks
+01:51:49.560 believes and lives constantly constant
+01:51:52.380 about the market I mean if you separate
+01:51:54.540 out the values of co-inherent values
+01:51:56.580 right like Integrity is a value you know
+01:51:58.860 what I mean like hopefully you're not
+01:52:00.420 changing that
+01:52:02.219 um being customer obsessed is a value
+01:52:04.380 hopefully you're not changing that you
+01:52:06.119 know unless you're willing to go at 10
+01:52:07.739 to 15 years
+01:52:10.260 making very little money
+01:52:12.960 going through really excruciating times
+01:52:15.119 working seven days a week 20 hours a day
+01:52:17.639 don't do it because I believe all that
+01:52:20.340 yeah because I've seen it do we really
+01:52:22.739 believe that success is because of hard
+01:52:24.600 work I think it's Obsession absolutely
+01:52:26.639 no I mean I don't understand like just
+01:52:29.219 to set it right so so I started trading
+01:52:31.739 the market in 97.
+01:52:33.500 uh zerotha started in 2010. all our
+01:52:37.619 success came in 2016. so it took us 20
+01:52:40.380 yeah there you go right you know so
+01:52:42.420 there is you know like today of course
+01:52:44.460 now we can have five days a week and all
+01:52:46.260 of that but like you know so it it
+01:52:48.360 happened in my office for six years
+01:52:50.100 sorry no that's my point right that's
+01:52:52.020 the point exactly yeah
+01:52:59.000 no but but I'll tell you where the
+01:53:02.580 dichotomy arrives in this conversation
+01:53:05.880 I feel hard work
+01:53:08.580 in the mainstream is a way of appeasing
+01:53:11.340 our ego
+01:53:12.480 both as a consolation and as a reward
+01:53:15.179 consolation when things don't work out I
+01:53:17.400 can tell myself but I worked hard
+01:53:20.159 when I win appeasing my ego on the other
+01:53:22.380 end because
+01:53:24.659 everyone can argue like probably the
+01:53:27.659 Watchmen of my apartment works three
+01:53:29.520 times as hard as me
+01:53:31.139 so can you really
+01:53:33.260 correlate hard work to success
+01:53:36.360 absolutely necessary but it's not
+01:53:38.639 sufficient I go back to that argument I
+01:53:40.739 don't and it's not a guarantee it's like
+01:53:42.179 that everything is necessary I'll tell
+01:53:43.619 you why okay I agree with you there hard
+01:53:45.659 work is a precondition it is but it is
+01:53:47.940 not the main condition you might have
+01:53:50.340 gotten lucky by getting enough Capital
+01:53:52.619 to be able to buy some of that on the
+01:53:54.600 cheap in a hot Market Etc but actually
+01:53:58.380 the more Capital you get if you're a
+01:54:00.360 responsible entrepreneur your work just
+01:54:02.280 increased again right so it's never
+01:54:04.260 ending in my view because your
+01:54:06.719 organization does not hit steady state
+01:54:08.820 neither does your customer base neither
+01:54:10.679 does your product anytime in the near
+01:54:13.080 future yeah but Karthik see the thing
+01:54:15.420 here is I'm looking for nuance
+01:54:18.480 if people watching this are told you
+01:54:21.060 need to be hard working you need to do
+01:54:22.619 this you need what are they learning
+01:54:23.820 from us this is not hard working hard
+01:54:25.679 working is not seven days a week 18
+01:54:27.300 hours 15 hours excessively hard working
+01:54:29.760 this is insanely hard work what did you
+01:54:33.179 say you need to relate
+01:54:35.960 is different which is not obvious to the
+01:54:39.239 entrepreneurs watching this because you
+01:54:40.980 guys have the experience of picking so
+01:54:42.780 many I don't want the generic right I
+01:54:45.480 know but the thing is you know as you
+01:54:47.880 guys know more than anybody else like
+01:54:49.980 actually this is not rocket science this
+01:54:51.900 guy just as an example ethereal he asked
+01:54:54.360 me last week when I'm in Bangalore right
+01:54:56.639 and he's hacked a meeting with me to the
+01:54:59.040 airport tomorrow
+01:55:01.080 to get that extra hour
+01:55:03.239 so you want evidence that's kind of
+01:55:04.920 evidence is networking skill in today's
+01:55:07.860 world to be able to have gotten that
+01:55:09.900 meeting with you either through a
+01:55:11.400 referral or something no this is my
+01:55:12.719 profounder for five years nobody is that
+01:55:15.420 a very important thing absolutely
+01:55:19.580 yeah give me that then so that's what
+01:55:22.199 I'm saying you have to push and that's
+01:55:24.239 not Mia by the way huh I had to play out
+01:55:27.119 the scene in my head on how I would
+01:55:29.100 interrupt him on his walk from the
+01:55:30.900 podium to his car 10 times
+01:55:33.960 Last Chance was the door was shutting so
+01:55:35.699 I had to hold the door
+01:55:37.619 me okay you give me one now you give me
+01:55:40.500 one Storyteller and yeah
+01:55:43.320 so um can you really tell the story in a
+01:55:46.560 way that's interesting very few Founders
+01:55:48.360 can
+01:55:49.199 if somebody is looking to build product
+01:55:51.300 ahead of insight
+01:55:53.420 and a deeper
+01:55:57.080 appreciation for what really the problem
+01:56:00.239 is
+01:56:01.199 I think I've seen that as a recipe for
+01:56:04.320 disaster in most companies what they
+01:56:07.260 will have is
+01:56:09.000 a 100 member Tech Team yeah right
+01:56:11.820 average product I am very average
+01:56:13.679 product because they have not gotten
+01:56:15.360 enough insights so I think
+01:56:18.239 this thing that you need good Tech is a
+01:56:22.320 like hard working is a prerequisite but
+01:56:24.780 how you apply it how it's a hard work
+01:56:27.000 you can direct your hard work so that's
+01:56:29.940 what I wanted to kind of even in the
+01:56:31.800 hard work discussion say you can direct
+01:56:33.480 it with the right hustle in the right
+01:56:35.880 way to achiever right end goal right
+01:56:38.940 okay or it can be just misdirected feel
+01:56:41.280 good hard work okay
+01:56:42.800 so I think outside all of this
+01:56:46.739 uh it's just people skills you know just
+01:56:49.199 to be able to keep your team together
+01:56:51.239 I think I think what he's trying to say
+01:56:52.980 is psychologically even as an alpha male
+01:56:56.040 you need to be more accepting of your
+01:56:58.619 feminine side
+01:56:59.820 from a very psychological standpoint
+01:57:02.100 it's more than that I think yeah no
+01:57:04.679 that's what I said you've got to become
+01:57:06.000 a coach yeah that doesn't there are no
+01:57:07.860 boundaries there yeah because that's
+01:57:09.119 societal construct really has negated
+01:57:13.280 the youthfulness of a feminine side in a
+01:57:16.920 man so much
+01:57:18.179 that most males are not able to do that
+01:57:20.520 so that's a good point if I could add
+01:57:22.260 one I would say
+01:57:24.480 crude up childhoods
+01:57:27.119 staying away from
+01:57:29.340 privileged upbringing
+01:57:31.739 is something to look for like here like
+01:57:34.580 I don't know but you know I think I'm
+01:57:38.099 the first to admit like you could look
+01:57:39.780 for it by the way but as a Founder you
+01:57:41.880 know the questions you can I mean
+01:57:46.219 you could have a privileged background
+01:57:48.239 but if you're not willing to work seven
+01:57:49.560 days a week what do you look for no no
+01:57:52.199 no I mean you're saying for somebody
+01:57:56.239 I think the beauty is if you love the
+01:57:58.920 idea everybody has a screwed up
+01:58:01.260 childhood if they want to locate it that
+01:58:02.820 way they have to like build on that
+01:58:04.199 emotion have you ever met someone who
+01:58:06.840 has told you like and truly believed
+01:58:08.760 that they love their childhood no no
+01:58:11.119 they're extracting something yeah for a
+01:58:14.520 right to win yeah right and they're
+01:58:16.380 saying this is my this is my proof I
+01:58:19.679 proved it to the world that I can win
+01:58:21.420 yeah and they're extracting some part of
+01:58:23.760 course they're extracting I think I'd
+01:58:25.800 also say that you know like trying to
+01:58:27.659 tell a story that's not real very
+01:58:29.340 quickly because this is what we do for a
+01:58:30.900 living
+01:58:31.739 you meet thousands of Founders another
+01:58:34.440 thing I was hoping somebody would say
+01:58:35.760 authenticity say like it is yeah there's
+01:58:38.760 no Automation in the business
+01:58:41.239 packing stuff okay great
+01:58:43.760 authenticity to the extent of
+01:58:45.840 self-recognition where you're not
+01:58:48.540 pretending to be a machine you're not
+01:58:51.119 pretending to be a saint you're not
+01:58:53.159 pretending to be anything but you're
+01:58:54.719 cognizant to the fact that you're greedy
+01:58:57.239 you're jealous you're insecure like
+01:58:58.860 every one of us sitting here is
+01:59:01.500 so the time
+01:59:03.599 spent pretending to be
+01:59:06.599 a person that does not have those traits
+01:59:09.119 is futile and if somebody recognizes
+01:59:11.040 that I think it's extremely appealing
+01:59:12.480 and endearing so this whole idea of
+01:59:15.480 founder market fit yeah it has much as
+01:59:18.179 important as product Market fit is in 10
+01:59:21.119 years will you love doing it you're
+01:59:22.860 passionate about the space but the space
+01:59:25.199 requires execution the space requires
+01:59:27.540 you to solve a problem and that
+01:59:31.400 typically requires
+01:59:33.679 different skills and characteristics
+01:59:36.800 that may not be natural to you and are
+01:59:40.320 you willing to change and are you
+01:59:42.179 willing to become that different person
+01:59:43.860 you know like I mean I was talking about
+01:59:45.840 these B2B manufacturing startups that
+01:59:47.639 I'm I'm seeing these Founders I mean
+01:59:49.860 struggling because they all thought this
+01:59:53.099 is entrepreneurship and startups meant
+01:59:55.560 Tech right and now they're figuring out
+01:59:57.900 these are like really heavy lifting
+02:00:00.020 problems but the thing is I stay true to
+02:00:03.360 the mission yeah so my question was
+02:00:04.619 really one you're going through tough
+02:00:06.780 times
+02:00:07.980 right and then one you're going through
+02:00:10.619 good times tough times you you kind of
+02:00:12.659 know you know like people you know if a
+02:00:15.119 business breaks you know it's a tough
+02:00:16.679 time it broke but other many times where
+02:00:19.260 companies are going through good times
+02:00:20.699 and they break because co-founders don't
+02:00:22.199 get along well happens
+02:00:25.380 you know they start out with the same uh
+02:00:28.739 kind of passion you know focus and
+02:00:32.280 the business takes a difference it's
+02:00:34.800 doing well but it's become a different
+02:00:36.900 business and one of them relates to that
+02:00:39.420 different business and the other one
+02:00:41.520 does not relate to it it's also
+02:00:43.080 sometimes it could be that the the CEO
+02:00:46.020 Persona has evolved to something and the
+02:00:49.980 number two or number three in in
+02:00:52.500 hierarchy for what it's worth is not as
+02:00:55.860 motivated to continue doing the same
+02:00:57.420 thing or has become less relevant
+02:00:59.580 just one thing one thing
+02:01:02.340 a person pitching to you does wrong you
+02:01:05.520 would like
+02:01:06.480 shut off instantly over simplification
+02:01:09.300 of time elaborate total addressable
+02:01:12.300 market right oversimplification it means
+02:01:15.239 that person's homework is like you think
+02:01:18.360 India has 140 crore people I'm selling
+02:01:20.280 shoes I can sell no no no no no no no
+02:01:21.719 it's not that bad I mean they won't get
+02:01:24.000 up but I'm saying that they have no I
+02:01:27.300 mean okay agree and Allied Services is a
+02:01:32.699 500 million 500 billion market right
+02:01:37.739 and he's selling he or she is selling
+02:01:40.739 organic
+02:01:42.619 uh fresh FNB right I get your point over
+02:01:46.920 simplification of time next I would say
+02:01:49.739 look basically if I don't
+02:01:52.020 say wow even once because of lack of
+02:01:54.659 insight can I say one overtly optimistic
+02:01:58.560 without voicing
+02:02:02.040 that the future is uncertain and all of
+02:02:04.380 these events can occur yeah
+02:02:06.360 not premium next Karthik cases where
+02:02:09.900 I've seen Founders sort of uh
+02:02:14.280 give no voice to anybody else on the
+02:02:16.800 call they bring people in US yeah that's
+02:02:18.780 true theoretically team or co-founders
+02:02:21.179 and uh basically you feel like the
+02:02:24.840 others have nothing to share it's the
+02:02:26.880 variant of a CTO problem equivalent
+02:02:29.639 you need someone who you know can
+02:02:32.099 express that strong Vision as well
+02:02:34.380 and a lot of mistakes have been made
+02:02:36.840 because we've overestimated that
+02:02:39.360 individual's capability so I start
+02:02:41.940 Believe It or Not number 20 minute
+02:02:43.739 introductory call sometimes I will ask
+02:02:45.420 for who owns how much
+02:02:47.880 do you think overconfident people are
+02:02:50.280 better off to deal with than under
+02:02:52.380 confident people when starting a company
+02:02:54.119 because they will overcome
+02:02:55.940 to pick one I'll pick the overconfident
+02:02:58.320 why
+02:02:59.580 so there has to be a will to say that I
+02:03:02.400 can conquer any mountain right in some
+02:03:04.380 sense okay that it doesn't without that
+02:03:06.960 there's no chance the first small Peak
+02:03:09.179 you'll give up I mean I think setting
+02:03:11.099 the wrong expectation or selling
+02:03:13.500 um
+02:03:14.699 and I think I also the energy of sorts
+02:03:18.540 you know like if
+02:03:19.880 I don't know
+02:03:23.179 a bunch of questions quick fire one of
+02:03:26.760 you pick it answer it I think it'll help
+02:03:29.219 everyone
+02:03:30.659 like we were trying to establish how
+02:03:33.360 much VC money has come into India and we
+02:03:36.060 figured that number is 60 or 70 billion
+02:03:38.719 the AUM in the VCS are is roughly around
+02:03:43.380 60 60 billion today and I think the
+02:03:45.659 total startup funding is a lot more than
+02:03:47.639 that right because uh so so they're
+02:03:49.800 leaving peace
+02:03:51.440 I'm not talking about peace because a
+02:03:53.340 lot of capital also came from strategics
+02:03:55.139 so if you look at the year 2021
+02:03:58.699 the total funding into Indian startups
+02:04:01.500 was over 40 billion dollars
+02:04:03.360 that was up from 10 billion in 2020 and
+02:04:07.440 20 I mean this depends on like which
+02:04:09.119 data but 2019 was 14 billion right so
+02:04:11.880 the way to think about startup funding
+02:04:13.739 which is largely VC but also include
+02:04:15.900 strategics yeah that was Duo I'm
+02:04:17.460 guessing right in that 2021 yeah the big
+02:04:20.639 ones are tucked into that yeah but
+02:04:22.380 that's 10 billion of that right 10
+02:04:23.699 billion right so so see and also you
+02:04:25.980 know what we are not counting is we are
+02:04:28.920 saying AUM of Indian VCS
+02:04:31.679 right VCS in India I think it doesn't
+02:04:34.500 include SoftBank
+02:04:36.560 is saying is that there is AUM that is
+02:04:39.719 kind of quasi-allocated for India but
+02:04:42.900 sitting outside
+02:04:44.340 is public market better than private
+02:04:46.500 markets
+02:04:48.060 no liquidity
+02:04:50.099 cheaper multiples maybe lesser growth
+02:04:52.880 you know which side I am for money
+02:04:56.520 blanket for investors Founders investors
+02:04:59.400 privates because that's where Innovation
+02:05:01.560 is okay if I were to start a company
+02:05:03.900 today
+02:05:04.739 let's say I'm making something that we
+02:05:07.739 spoke about we spoke about a drone com
+02:05:09.420 drone company
+02:05:11.699 should I be a LLP a partnership or a
+02:05:14.219 private limited company
+02:05:15.659 pick one why I think keep it simple
+02:05:19.080 private limited you want to you want to
+02:05:21.300 keep all options open in terms of taking
+02:05:23.159 additional capital and it's higher
+02:05:25.440 taxation if it were to be profitable but
+02:05:27.420 the thing is there's no other option if
+02:05:29.280 you want to raise Capital it has to be
+02:05:30.659 proud yeah one is that and second I mean
+02:05:32.940 look if you have to raise Capital best
+02:05:34.739 to be private limited yeah if you ever I
+02:05:38.040 think that's not a Insight which is
+02:05:40.800 easily yeah I think I think in lifestyle
+02:05:42.719 businesses which are oriented towards
+02:05:44.219 partnership or service revenue of one
+02:05:46.860 kind then it makes a lot more sense to
+02:05:49.139 have an LLP or a proprietorship or
+02:05:50.880 whatever because you intend to take that
+02:05:52.800 cap that the profits you know into your
+02:05:56.400 own pocket and and then pay taxes but in
+02:05:59.639 every other sense when you have a
+02:06:00.780 secondary shareholder you have to pay
+02:06:01.920 private Limited okay is the 220 models
+02:06:05.460 queued does it misalign interest from
+02:06:08.940 stakeholder to venture capital guys and
+02:06:12.420 is the seven year tenure or the 10-year
+02:06:14.280 tenure too low
+02:06:16.800 I think the 10-year tenure is for early
+02:06:19.739 stage VC is a necessity and in markets
+02:06:23.699 like ours I think it's more like 10 plus
+02:06:27.179 2 or 10 plus three it is not as easy for
+02:06:30.540 a venture capital guy to make money as
+02:06:32.520 most people assume absolutely you have
+02:06:34.679 to return significant value before you
+02:06:36.780 can start charging my new entrepreneurs
+02:06:38.460 that we who win for us make
+02:06:41.639 multiples and multiples of the money we
+02:06:43.800 make and make it much faster than we
+02:06:45.540 make it so as the patience game where
+02:06:47.820 you have to still average out all your
+02:06:49.860 winners to see actually meaningful money
+02:06:51.960 and comes right at the end okay no just
+02:06:55.380 one that's just one question so in the
+02:06:57.000 U.S the you know like we were I was
+02:06:59.580 reading this article which said over the
+02:07:01.739 last decade the The Benchmark NASDAQ has
+02:07:04.679 outperformed the the VC Benchmark right
+02:07:08.820 so in a world like that where you can
+02:07:11.639 actually buy an ETF for almost zero cost
+02:07:14.520 do you think there'll be pressure on
+02:07:16.199 this 220 in the future I mean forget
+02:07:17.760 India I'm just talking in the global you
+02:07:19.619 know in the US without getting to
+02:07:21.239 specifics I think there are occasionally
+02:07:22.800 some funds who can charge even more than
+02:07:24.360 that correctly it comes it comes only
+02:07:26.159 because this repeated uh evidence of
+02:07:28.800 success and beating those benchmarks and
+02:07:32.219 that is a entitlement of the top
+02:07:34.440 quartile of the region the top
+02:07:36.000 performing funds of outperforming NASDAQ
+02:07:37.739 yeah
+02:07:38.659 right so I think it's a top quartile uh
+02:07:41.580 syndrome everybody else you have to give
+02:07:43.560 a chance for them to try
+02:07:45.179 so you can suddenly give them a lower
+02:07:46.860 price and and a lower cost structure and
+02:07:49.679 say beat sequoia or axle how will they
+02:07:52.199 beat them right so the starting point
+02:07:54.599 sadly is that and uh LP can choose not
+02:07:57.300 to participate in that new fund but I
+02:07:59.639 think less than that you can't function
+02:08:01.500 because you have jumbo size funds and
+02:08:03.239 you're just making too much fee what
+02:08:05.099 about specs how have the specs done most
+02:08:07.800 of them have shut down
+02:08:09.980 for most assets it's a Gamble
+02:08:13.320 would anyone like to Define SPAC in one
+02:08:15.480 sentence special special purpose
+02:08:17.219 acquisition company usually where
+02:08:19.980 there's enough people willing to give a
+02:08:22.739 equivalent of a venture manager the
+02:08:24.840 ability to go and identify one or more
+02:08:26.880 assets
+02:08:28.040 and do a roll up right so the financing
+02:08:31.560 comes before knowing what they want to
+02:08:33.719 buy and you're essentially giving
+02:08:36.000 incredible power to an operator or an
+02:08:38.280 investor to say that there are great
+02:08:40.139 ideas out there which are mature that I
+02:08:41.760 can buy the problem is most Pac managers
+02:08:44.780 go and buy there's I think there's a
+02:08:47.460 misalignment of interest and they buy
+02:08:48.659 Bad Assets how is India different from
+02:08:51.060 the US why are funds making a higher
+02:08:53.400 return in America than India we are in a
+02:08:56.460 different point in our journey right as
+02:08:58.199 a country
+02:08:59.219 and we
+02:09:02.099 have just got started in the VC
+02:09:04.139 ecosystem where entrepreneurs are
+02:09:06.900 learning how to build learning how to
+02:09:09.179 scale learning how to IPO and return
+02:09:12.540 money so unless there is
+02:09:15.440 I mean just one m a here and there can't
+02:09:18.900 build the ecosystem right okay so this
+02:09:21.659 one is actually close to my heart uh
+02:09:24.840 when IPOs are happening like
+02:09:28.260 I have a friend called Kiran from biocon
+02:09:31.020 she was telling me about her IPO when it
+02:09:33.540 happened
+02:09:34.560 how it
+02:09:36.500 exponentially helped grow her business
+02:09:39.980 at a time when access to capital for her
+02:09:43.679 was only the IPO route at that scale
+02:09:48.060 why are all VC funded companies of today
+02:09:52.260 not raising primary Capital but doing
+02:09:55.320 ofs and giving
+02:09:57.420 exits and secondary Capital to previous
+02:09:59.940 investors
+02:10:01.320 and thus dumping
+02:10:06.000 overpriced stuff onto unsuspecting
+02:10:08.760 retail investors like me
+02:10:11.520 so I agree with nitin on this I didn't
+02:10:13.920 know you share the same view publicly
+02:10:15.540 but I think it's almost like a sin to do
+02:10:17.520 that with public investors because
+02:10:18.900 everything has been ofs so I'll tell you
+02:10:21.239 what has happened basically the private
+02:10:22.980 Market was available
+02:10:24.440 for sale secondary round where you're
+02:10:27.780 not putting money into the company but a
+02:10:29.820 previous investor is exiting to you so
+02:10:32.280 misalignment of Interest people thought
+02:10:33.960 they can get away with ridiculously
+02:10:35.880 priced IPOs in the public market but
+02:10:38.099 that was Venture Capital doing it of
+02:10:40.080 course of course yeah
+02:10:41.219 I when it comes to problems in India
+02:10:43.380 it's nobody's fault it's everybody's
+02:10:45.179 fault I'm not you can't just exempt the
+02:10:48.000 founders from it they if they really
+02:10:49.739 want to put down their foot they have to
+02:10:51.179 if they're so determined don't raise
+02:10:53.040 stupid the founders weren't for the
+02:10:54.659 right too yeah yeah
+02:10:56.360 it's not just don't make excuses of like
+02:10:59.219 you know coming down to a person
+02:11:03.860 at some level you're right the capital
+02:11:06.000 is a bigger bigger sort of culprit right
+02:11:09.239 so what what it was doing was
+02:11:11.219 essentially trying to bolster up the
+02:11:13.020 price because everybody's come at a
+02:11:15.119 certain entry point and they want a
+02:11:16.320 premium at their exit and
+02:11:19.159 unsuspectingly there were investors
+02:11:21.540 private investors who were willing to
+02:11:22.800 buy it that exorbitant price who then
+02:11:25.860 also wanted 20 bump up because they said
+02:11:28.080 I just showed up your you know issuance
+02:11:30.659 price to a certain level and then the
+02:11:34.380 company looks back and says I don't
+02:11:35.580 really need any money
+02:11:37.320 so you actually skewed the entire idea
+02:11:39.900 of an IPO uh into the equivalent of what
+02:11:43.020 the Americans call a direct listing
+02:11:45.119 but after pumping the price up
+02:11:46.739 significantly with no basis of
+02:11:49.139 justifying that kind of valuation so the
+02:11:51.719 private investors who have an incredible
+02:11:53.159 capacity to buy this kind of stocks at
+02:11:56.040 much higher premiums are saying we are
+02:11:59.159 fine we're all covered in in terms of
+02:12:01.199 price Discovery and there is a funny
+02:12:03.000 thing called a pre-ipo around before
+02:12:04.800 that's exactly I am the very small
+02:12:06.960 Capital as a result sometimes maybe
+02:12:08.940 there's a secondary but a lot of times
+02:12:10.699 if there's another category of investors
+02:12:13.199 called crossovers but everybody is
+02:12:15.119 dumping onto the retail who is kind of
+02:12:17.099 like getting so the education now I give
+02:12:19.020 my Founders is if you truly want to go
+02:12:21.060 IPO and you don't want us to feel really
+02:12:23.219 bad as your investors basically make
+02:12:25.800 sure that no investor retail or private
+02:12:28.980 has ever lost money in a two three year
+02:12:31.080 period right so nobody's saying you
+02:12:33.659 can't you can control every shock of the
+02:12:35.520 price but if you've gone and listed and
+02:12:37.980 the damn thing has collapsed to not come
+02:12:39.659 back in three years then all of that is
+02:12:42.239 on your head or set a ratio right if
+02:12:44.940 you're doing a issue
+02:12:46.500 not more than 20 can be ofs or secondary
+02:12:49.560 yeah but you're right there was too much
+02:12:51.420 sitting and we're all in a rush to get
+02:12:53.400 out maybe that's something for the
+02:12:54.480 regulator to look at and do potentially
+02:12:56.520 the surprising thing here is the retail
+02:12:58.920 subscription usually is like 10 15 so
+02:13:01.860 it's actually the institutions
+02:13:03.000 participating that's also true the qib
+02:13:05.040 yeah
+02:13:06.079 I think what has changed from kiran's
+02:13:08.639 time to now right is the availability of
+02:13:10.980 bench capital and growth Capital right
+02:13:13.079 you can build a company for 10 years you
+02:13:14.820 can raise many rounds of financing you
+02:13:16.920 can raise hundreds of millions of
+02:13:18.060 dollars you can push back your IPO that
+02:13:20.940 still does go to say and I think by the
+02:13:22.980 way that Dynamic has changed now right I
+02:13:25.380 think 2021 after 2021 I think if you
+02:13:27.900 look at idea Forge and all the upcoming
+02:13:29.820 IPOs at least our senses they will be
+02:13:32.400 priced much more appropriately the ofs
+02:13:35.280 the secondary component of an issue if
+02:13:37.560 it is capped will probably be better for
+02:13:40.020 the ecosystem in the long run
+02:13:41.760 yeah why is Venture Capital focused on
+02:13:45.239 so few sectors in India
+02:13:48.060 no that's changing right let's start
+02:13:49.860 focused on what I mean now question is
+02:13:51.840 what force sectors
+02:13:53.960 agriculture gets very little venture
+02:13:56.040 capital no agriculture is actually there
+02:13:57.960 are a thousand Agri Tech startups but
+02:13:59.639 relatively because I think you see it's
+02:14:03.360 all it's always a question of
+02:14:05.880 supply of entrepreneurs who have the
+02:14:10.020 intention to work in that space and to
+02:14:12.480 relate to that space and like I said who
+02:14:14.639 want to go tap into that opportunity so
+02:14:17.820 it's not like we'll get entrepreneurs
+02:14:19.800 and we'll not fund them actually India
+02:14:22.800 has among the most broad base maybe next
+02:14:25.199 to China by far much more broad-based
+02:14:28.199 than the US so UK or Israel so there's a
+02:14:30.719 lot of sectors
+02:14:34.460 outside of let's say biotech Life
+02:14:36.900 Sciences a few of those really deep
+02:14:38.699 sectors we probably have for an
+02:14:40.980 ecosystem this young we have
+02:14:43.199 sector-specific VCS in every sector
+02:14:46.380 there are two or three funds which just
+02:14:47.880 focus on Agri what's the correlation
+02:14:49.619 between public markets and private
+02:14:51.360 markets is one leading the other public
+02:14:53.699 markets leave the private Market private
+02:14:56.159 markets tend to do well because you have
+02:14:57.420 exited IPO right correct ofs
+02:15:00.560 [Laughter]
+02:15:03.239 I brought this up earlier tonight that
+02:15:04.800 only two companies have raised more than
+02:15:06.840 50 million from external investors this
+02:15:09.300 year no no no two companies have raised
+02:15:12.360 more than 40 50 bucks full calendar year
+02:15:24.920 there's been two this year so it's a
+02:15:28.440 it's a it's a tough market so doesn't
+02:15:30.599 that mean chaos in VC world is the best
+02:15:34.500 time because you know what's happening
+02:15:36.420 is cleanups and stability no not only
+02:15:38.880 that companies are focused on what they
+02:15:40.380 say which is to get profitable do you
+02:15:42.179 think india-focused funds are much
+02:15:44.219 larger than they should be like for
+02:15:45.960 example if Prashant were to only have
+02:15:48.179 100 million dollars to allocate to India
+02:15:50.699 would you perform significantly better I
+02:15:53.219 think if you're in the early stage
+02:15:55.020 component of the fund fund seed to scale
+02:15:57.900 right so you we don't stop at supporting
+02:16:01.139 the company just for seed and like
+02:16:03.060 Karthik was talking about this
+02:16:05.179 being able to provide the entire
+02:16:08.159 Continuum of uh support to the company I
+02:16:11.460 think is something entrepreneurs value
+02:16:13.679 and they want you to be with them uh for
+02:16:17.400 a reasonable part of the early cycle
+02:16:19.619 because it's
+02:16:22.139 not easy all I mean the say the there
+02:16:26.280 have been periods where we have had
+02:16:28.020 great funds
+02:16:30.360 who can follow on in series B and C in
+02:16:33.000 India and there have been periods where
+02:16:34.620 there have not been uh that has been a
+02:16:37.320 void in that market so I think it's if
+02:16:40.019 you want to support your companies and
+02:16:41.879 and make sure that they have that
+02:16:43.978 Capital continuity I think it's good to
+02:16:46.019 have a certain scale if I were to be
+02:16:48.240 starting off in the work ecosystem today
+02:16:51.179 and I want a job with you guys in a
+02:16:54.478 venture capital fund what do I need to
+02:16:56.879 do what do I need to study what
+02:16:59.340 experience do I need usually it will
+02:17:01.620 help you if you've worked in in the
+02:17:03.420 startup ecosystem yeah I think so so if
+02:17:06.359 I worked in a fintech startup you would
+02:17:08.099 be more likely to hire me you just hired
+02:17:10.080 somebody yeah yes she worked in Africa
+02:17:12.478 and what are the typical pays when you
+02:17:14.280 start off at a VC firm depends on
+02:17:15.959 whether you're analyzed for sure the
+02:17:17.879 first first level at the bottom no
+02:17:19.260 you're an associate right yeah you're an
+02:17:21.718 associate I think you start somewhere in
+02:17:24.058 the uh 60 70 lakh what are you seeing
+02:17:27.780 really for us it'll be half that number
+02:17:35.850 [Music]
+02:17:41.150 [Music]
+02:17:47.420 who's actually figured out how to work
+02:17:50.099 in a work environment you don't want to
+02:17:51.780 train them on that it's like a fancy
+02:17:53.340 education a prerequisite but do most
+02:17:55.740 people who enter your accounts
+02:18:00.019 program usually two years of Consulting
+02:18:02.459 and if they've worked in a startup for a
+02:18:04.439 year or two that's a huge boost this the
+02:18:06.359 sad part is the quality of applicants
+02:18:08.340 because it's such a small cottage
+02:18:09.718 industry you get such high quality it's
+02:18:11.879 difficult to ignore and try and catch a
+02:18:14.700 Maverick in that crowd of 200 stuff
+02:18:16.978 that's the number you get per
+02:18:18.359 application it's work from home
+02:18:21.080 AI
+02:18:23.478 VOC culture
+02:18:27.058 Society
+02:18:29.898 inculcating a certain level of
+02:18:33.840 I would say distrust in the capitalistic
+02:18:37.138 way of life all of these put together if
+02:18:40.500 there is one big change you see in the
+02:18:43.500 way we live and work next few years what
+02:18:46.260 could it be
+02:18:48.000 I think
+02:18:51.058 most countries as the gotten richer and
+02:18:56.459 I think they found it difficult to
+02:18:58.439 manage
+02:18:59.459 this idea of good capitalism and this
+02:19:04.740 whole trickle down in terms of that that
+02:19:07.978 the rich get richer the poor don't get
+02:19:10.620 poorer but I think we we have that
+02:19:13.978 challenge I I don't know if you have an
+02:19:15.718 answer for that but I think we we will
+02:19:18.840 have challenges income inequality
+02:19:21.740 another way of putting it you're saying
+02:19:23.939 asset prices are inflating faster than
+02:19:25.859 wages in the world wages in the world
+02:19:27.420 and few people can the good can afford
+02:19:29.820 better and better products
+02:19:31.709 [Music]
+02:19:33.478 yeah I think consumers will continue to
+02:19:36.179 seek out experiences more and more
+02:19:38.820 you see that now with the younger gen Z
+02:19:40.978 Etc right you know homes they don't own
+02:19:43.080 cars
+02:19:44.340 and I think that Trend will just
+02:19:45.959 continue so if you're an entrepreneur
+02:19:47.519 building
+02:19:49.080 looking or specially focused on consumer
+02:19:51.359 looking to build on that
+02:19:53.580 great experiences right I think is uh
+02:19:56.640 you can't go wrong like some of our best
+02:19:58.320 performing companies or Global Travel
+02:19:59.700 companies I think it becomes even more
+02:20:01.920 important
+02:20:03.420 um to establish what Rajan referenced a
+02:20:07.320 while ago around what your value system
+02:20:09.660 is in sticking to it not trying to cater
+02:20:12.960 to all of the elements that you spoke
+02:20:15.300 about uh you can't cater to a wfh person
+02:20:18.920 if you believe it's wfo right you can't
+02:20:23.180 fake VOC culture if you don't believe in
+02:20:25.800 it everything changes the way you select
+02:20:27.840 people the way you build organizational
+02:20:29.880 culture
+02:20:31.340 is tuned to your core beliefs right so
+02:20:35.340 all of these are impediments and how
+02:20:37.439 quickly you can scale I think you're
+02:20:39.240 much happier with the organization
+02:20:40.439 you've built 10 years down the line
+02:20:43.140 um so at least
+02:20:44.939 building a small Venture firm I think
+02:20:46.859 this has become very important for us
+02:20:48.359 well I think I'm actually a little
+02:20:51.000 optimistic here uh I think the the newer
+02:20:54.960 generation of on a question
+02:20:58.020 the true cost of everything in a sense I
+02:21:02.040 think the problem with Gen this
+02:21:03.420 generation right the the 2002 now
+02:21:06.660 whatever 20. I think the capitalism had
+02:21:09.420 taken a very kind of an ugly side where
+02:21:11.760 you're growing at any cost right I mean
+02:21:13.740 you don't care
+02:21:15.479 what's happening you know I mean you
+02:21:16.979 just have to grow at whatever cost but
+02:21:18.660 the younger generation
+02:21:20.160 like because they don't want to own
+02:21:21.600 material things
+02:21:23.160 they want to go travel they're going to
+02:21:25.620 experience things
+02:21:27.120 I think they'll be less capitalistic
+02:21:30.359 than the generation that went by
+02:21:33.080 businesses entrepreneurs who are
+02:21:35.580 building
+02:21:36.660 for that world for that audience will be
+02:21:39.540 able to stand out
+02:21:40.920 there's something that I really really
+02:21:43.080 believe in I think
+02:21:45.740 subconsciously Society is ignoring so
+02:21:48.600 much
+02:21:49.560 in this drama of virtue signaling which
+02:21:52.740 is happening in the ecosystem
+02:21:54.600 I feel many people are pretending to be
+02:21:58.460 unnaturally virtuous
+02:22:01.340 unnaturally altruistic selfless
+02:22:05.340 whereas they truly are not
+02:22:08.240 that pretends
+02:22:10.859 worked in the previous generation I can
+02:22:13.140 give you many examples but I wouldn't
+02:22:14.700 like to
+02:22:16.319 by lack of access because people could
+02:22:18.899 not see what a person was doing at every
+02:22:20.939 point of time
+02:22:22.260 I think in this generation and the next
+02:22:25.700 uh to recognize our shadow personalities
+02:22:29.640 to recognize that we are all human and
+02:22:32.280 be authentic about it
+02:22:34.080 be authentically greedy authentically
+02:22:36.840 capitalistic I think that will be the
+02:22:39.240 cool of tomorrow and I hope more people
+02:22:41.040 think like this
+02:22:42.479 because if not for that you know we can
+02:22:45.300 all sit and complain about income
+02:22:46.979 inequality but
+02:22:49.740 income inequality has not happened
+02:22:52.020 necessarily because of the ecosystem but
+02:22:54.479 because of human nature
+02:22:56.220 if I were to divide all the money in on
+02:22:58.920 the planet equally amongst everybody
+02:23:01.800 tomorrow one will work harder than
+02:23:04.140 another day after tomorrow one will be
+02:23:06.479 more skilled at a certain thing
+02:23:08.880 and we will come back to where we are
+02:23:11.040 today maybe not in five ten years but in
+02:23:13.620 50 years or 100 years because that is
+02:23:16.140 the very nature of us being human and
+02:23:18.240 that is what makes us Thrive to begin
+02:23:20.399 with
+02:23:21.420 so I don't think we should look down on
+02:23:24.960 the anomalies of capitalism I think they
+02:23:26.880 need to be respected imagine an
+02:23:29.220 alternate world where every company is
+02:23:31.740 run like Air India was once run
+02:23:34.080 I don't think it would be net net better
+02:23:36.540 for the productivity
+02:23:38.240 I don't think socialism works at all and
+02:23:41.580 we have more than enough precedent of
+02:23:43.740 that I think capitalism has to be
+02:23:46.260 appreciated and that probably is the
+02:23:49.859 most likely scenario in which our
+02:23:51.479 country can get lucky and go towards
+02:23:53.880 that five trillion 10 trillion dollar
+02:23:55.500 economy in the fastest way possible okay
+02:23:59.040 last leg of today oh we have one more
+02:24:02.060 charity all right yeah last leg okay so
+02:24:05.939 when we started this show which was not
+02:24:07.920 a long time ago uh like see we don't do
+02:24:11.760 very dramatic entertaining things like
+02:24:14.100 it's not like you know I want to call
+02:24:15.840 you here and talk about baijus and
+02:24:17.399 bharatpay none of what we did uh the
+02:24:21.660 very intrinsic reason for doing this is
+02:24:25.920 the summary and everything that we
+02:24:28.020 discussed today
+02:24:29.100 is not available for a student
+02:24:31.680 graduating college in India today but
+02:24:34.800 this is a prerequisite for somebody
+02:24:36.960 starting a company and
+02:24:39.060 and a facet of this which we started a
+02:24:41.520 couple of episodes ago
+02:24:43.859 I would not even like to say charity uh
+02:24:46.500 firstly I don't believe charity is
+02:24:48.479 altruistic I feel like everything
+02:24:51.780 has subtext in context which
+02:24:55.200 I might not be able to
+02:24:57.660 speak about in a manner which will be
+02:24:59.700 comprehendable by many many people
+02:25:01.319 including myself in most cases
+02:25:03.660 but I think charity is done
+02:25:06.720 from a place in your heart where your
+02:25:08.640 morality is being appeased and we're all
+02:25:10.680 each triggered by different virtues in
+02:25:12.540 life morality being a very big one so
+02:25:15.120 let me call it change we also hope this
+02:25:18.479 episode can bring about change in
+02:25:20.220 society and get more people to
+02:25:23.040 contribute in their particular societies
+02:25:25.620 so what we do with the end of every show
+02:25:28.560 each of you commit to donate a certain
+02:25:31.380 amount of money
+02:25:32.600 I don't collect the money you donate
+02:25:34.979 directly to the charity which gets
+02:25:36.840 picked
+02:25:37.800 but we put up five options on a poll
+02:25:41.700 online on YouTube and social media and
+02:25:45.359 in a very Democratic manner people will
+02:25:47.340 vote for it whichever charity wins
+02:25:49.740 amongst the ones that you guys have
+02:25:51.240 picked will get the some culmination of
+02:25:53.460 that money
+02:25:54.420 so each of you could maybe
+02:25:56.939 suggest the amount that you would like
+02:25:58.859 to donate to whichever charity and name
+02:26:01.620 a charity as well to put up in the poll
+02:26:06.120 since we spoke so much for climate and I
+02:26:10.020 kind of I'm all all in there yeah I'd
+02:26:14.640 like to kind of pick act environment
+02:26:17.939 okay act as something a lot of the VCS
+02:26:21.120 here have been part of and uh I will
+02:26:24.899 commit of course I've already committed
+02:26:27.000 to act and commit an additional 25 likes
+02:26:29.700 to act okay uh new capital okay and uh
+02:26:33.720 act uh environment focuses on air water
+02:26:39.439 waste and land use all huge problems for
+02:26:42.660 India and as we recover a lot larger and
+02:26:46.140 larger economy we we got to take care of
+02:26:49.500 some of these Rajan next yeah so um the
+02:26:52.200 charity is a small charity in Delhi
+02:26:54.840 called the smile Foundation
+02:26:56.660 focuses on children
+02:26:59.840 and helps them on health and education
+02:27:04.500 and it's a charity that we're quite
+02:27:06.479 active with
+02:27:07.920 where you know my door teaches English
+02:27:10.260 and you know we do a bunch of other
+02:27:11.819 things with them
+02:27:13.979 um actually it's uh nutrition health and
+02:27:17.460 education so I'll commit the same amount
+02:27:19.260 that yeah uh Prashant has committed 25
+02:27:21.960 25 50 Gothic there's this group called
+02:27:25.439 angan in uh in Mumbai okay they work
+02:27:28.319 with child abuse
+02:27:31.020 and all of anything that comes out of
+02:27:33.359 those that help those children my sort
+02:27:35.580 of mental limit is like let's say a lack
+02:27:37.500 of rupees yes makes sense you are you
+02:27:40.380 selecting something because I have two
+02:27:41.460 in mind so I can tell both of us no no I
+02:27:45.000 let audience pick mine yeah
+02:27:48.020 so uh so there is say trees
+02:27:52.280 so I think you know like through through
+02:27:54.720 the rain matter Foundation the way we
+02:27:57.420 are trying we're thinking about
+02:27:59.160 climate change is that it also has to
+02:28:02.100 solve for Indian problems which is
+02:28:03.899 creating livelihoods so what say trees
+02:28:06.060 is doing is is to kind of put more money
+02:28:08.340 in the hands of the farmers
+02:28:09.979 so turn those Barren lands into food
+02:28:14.220 forests
+02:28:15.800 in very you know grown through
+02:28:18.060 sustainable practices
+02:28:19.700 see if you can
+02:28:21.800 geofence give them some carbon credits
+02:28:24.660 as well as a supplementary income and
+02:28:26.100 yeah so the money really goes into
+02:28:28.140 getting those food forests up for the
+02:28:29.939 farmers and we've been we've been
+02:28:31.080 supporting them uh for a while from the
+02:28:33.960 rain matter foundation so so yeah so
+02:28:36.960 uh relied 25 lakhs morning okay and the
+02:28:41.520 environmental support yeah so I'll also
+02:28:44.340 add 25 lakhs and I will let the audience
+02:28:46.920 pick a charity for me
+02:28:49.020 and we will put this poll out as soon as
+02:28:51.600 the episode is out super thank you
+02:28:54.180 everyone for doing this thank you thank
+02:28:55.979 you thank you thank you everyone
+02:29:00.240 dude you got four more then I have 40
+02:29:03.359 more here what are you saying no no no
+02:29:05.399 no
+02:29:05.550 [Music]
+02:29:06.680 I'm joking
+02:29:10.160 next time I'm gonna ask you how long is
+02:29:13.140 this podcast
+02:29:28.740 thank you
+02:29:30.620 hi I'm nikhil garmad I'd love to know
+02:29:33.479 what you thought of the episode uh
+02:29:35.340 comment like And subscribe and thank you
+02:29:38.580 for watching

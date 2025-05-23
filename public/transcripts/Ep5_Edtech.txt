@@ -1,0 +1,3342 @@
+# tactiq.io free youtube transcript
+# Ep #5 | EdTech What’s Broken, What’s Next? With Nikhil, Ronnie Screwvala , Gaurav Munjal & Jay Kotak
+# https://www.youtube.com/watch/01qfxLY2rhQ
+
+00:00:00.000 top three percent of kids get into these
+00:00:02.100 good colleges what about the 97 if
+00:00:04.980 education was online can that compete or
+00:00:08.460 compare with real life education I think
+00:00:10.559 I've been blessed by not being uh
+00:00:12.840 spoiled with a lot of fundraising
+00:00:15.290 [Applause]
+00:00:20.539 do you think balance is an important
+00:00:23.580 part of being a successful entrepreneur
+00:00:25.740 no I hate balance I think balance is
+00:00:28.500 very important part of anything the
+00:00:29.939 opportunity and the way this country is
+00:00:31.859 changing is a Once In A Century Century
+00:00:35.040 or more Bill Gates has started this
+00:00:37.320 windows that has made him a billionaire
+00:00:39.300 and I want to start doors kind of cool
+00:00:44.620 [Music]
+00:00:50.219 so thank you guys for coming I think
+00:00:52.559 most of you here do not need an
+00:00:54.059 introduction
+00:00:55.020 but maybe a good way to start this is
+00:00:59.039 a how do we all know each other
+00:01:01.260 and
+00:01:02.219 B maybe talk about ourselves for a
+00:01:04.500 minute or two so we just get to know
+00:01:06.299 each other a bit more would you like to
+00:01:07.860 go first
+00:01:09.600 um I'm the only non-billionaire on this
+00:01:12.060 panel
+00:01:13.439 um
+00:01:15.360 um I know Ronnie because he runs upgrad
+00:01:17.939 and uh
+00:01:19.740 I run this company called an academy and
+00:01:22.500 uh I I don't know how how do I know you
+00:01:25.140 how do we ended up Bangalore I think you
+00:01:27.299 have this uh yeah you were doing a party
+00:01:29.340 one day I got a message and uh yeah I'm
+00:01:32.820 meeting for the first time maybe you can
+00:01:34.920 tell us
+00:01:36.900 a more creative version of introducing
+00:01:39.960 yourself
+00:01:41.100 so don't say what you would say in a job
+00:01:43.500 interview in a college interview or a TV
+00:01:46.439 interview but tell us what you would
+00:01:48.659 tell your friends
+00:01:50.579 who is gaurav
+00:01:53.159 let me
+00:01:54.840 phrase my have you had a job interview
+00:01:57.060 yeah once oh okay well that's a good
+00:02:00.060 start so all of you are like Mega brains
+00:02:02.340 okay which college did you go to so I'll
+00:02:04.680 I'll start from the beginning so
+00:02:06.659 um I I was one bikaner and then father's
+00:02:10.619 a doctor grew up in Jaipur
+00:02:12.660 middle class family
+00:02:15.360 um
+00:02:16.080 but uh I think at the age of 12 I went
+00:02:19.379 to my dad and said you know I saw in
+00:02:21.900 dainik Bhaskar newspaper
+00:02:23.940 Bill Gates has started this windows that
+00:02:26.520 has made him a billionaire and I want to
+00:02:28.620 start doors and I was coding at that
+00:02:31.140 point so kind of cool at some way I was
+00:02:34.920 I could have been the poster boy white
+00:02:36.660 hat Junior because I was uh but but
+00:02:38.879 we'll get to white high Junior at some
+00:02:40.440 point
+00:02:41.640 um when I was 11 or 12 I was
+00:02:43.459 aggressively coding
+00:02:46.260 um you know like like you were
+00:02:47.400 interested in elocution Etc I never
+00:02:51.239 um was into sports I was into computers
+00:02:54.900 gaming
+00:02:56.280 um are you a Bright Child good marks in
+00:02:58.080 school uh like I would study just before
+00:03:00.780 the exam and I would get 80 85 and some
+00:03:03.840 of the teachers but every parent's
+00:03:06.239 teacher meeting
+00:03:07.319 I would get reprimanded at home because
+00:03:09.420 I would I was I I think I had this
+00:03:13.440 rebellious nature which I still do where
+00:03:16.080 I just had to take my teachers to a
+00:03:19.560 breaking point like I had to say
+00:03:21.659 something in the class or something like
+00:03:23.099 that but
+00:03:24.480 uh but then this coding thing I was 15
+00:03:27.659 years old when I started ex-res so we
+00:03:31.019 had a school magazine called x-rays and
+00:03:33.540 I could not get selected in it so I went
+00:03:35.819 to the principal who was father Joe's
+00:03:38.280 Jacob and I told him I'll start this ex
+00:03:40.920 race
+00:03:41.879 and I got to build a new team and you
+00:03:46.019 know it was launched in school Etc so I
+00:03:48.120 think that was the first test where I
+00:03:49.560 realized that
+00:03:50.700 maybe I'm I mean I I could study Physics
+00:03:54.780 chemistry maths when I could but I was
+00:03:56.280 never excited about it I always loved
+00:03:59.040 Building Products
+00:04:01.140 um I remember
+00:04:03.540 uh
+00:04:04.739 you know I built this bot in college
+00:04:06.720 called Pingu you know it was it was like
+00:04:09.840 a much basic version of what what's we
+00:04:11.819 are seeing today but you could you could
+00:04:13.500 say that I'm getting bored and it would
+00:04:15.060 give you that so I think and at some
+00:04:17.339 point the coding and the tech part got
+00:04:20.040 merged with content
+00:04:21.660 so
+00:04:23.460 um I used to run these blogs in college
+00:04:25.199 and ended up making two three thousand
+00:04:27.120 dollars a month which used to be a lot
+00:04:29.220 because
+00:04:30.900 and Mims Mumbai and what were you
+00:04:33.960 studying computer energy
+00:04:35.940 uh but more than that would spend a lot
+00:04:39.840 of time creating these blogs they used
+00:04:41.880 to get a million likes quora I started
+00:04:44.460 writing a lot after college Roman my
+00:04:46.919 co-founder and I are in at some point
+00:04:49.440 became the top 20 most followed people
+00:04:51.360 on quora just because we were writing so
+00:04:53.600 at some point we found this an unacademy
+00:04:56.280 in fact started as a YouTube channel you
+00:04:58.259 should say a bit about your co-founder
+00:04:59.639 he's like some academically like a
+00:05:01.740 anomaly of sorts yeah I'm getting there
+00:05:04.259 so we started creating videos
+00:05:07.680 um I started creating computer science
+00:05:09.720 videos but they didn't get a lot of
+00:05:13.020 views but they got like 50 000 60 000
+00:05:14.940 views and then
+00:05:16.680 um I met Roman and I know each other
+00:05:19.320 from school where we used to go to
+00:05:21.540 chemistry tuitions together
+00:05:23.340 and at some point he was a names he had
+00:05:26.100 just become a doctor he was the youngest
+00:05:27.900 doctor and then somehow he ended up
+00:05:30.900 cracking
+00:05:32.220 he was just about to crack the UPS exam
+00:05:34.380 but the results were not out
+00:05:36.900 and the day he cracked I called him up I
+00:05:39.120 thought this is a great opportunity I
+00:05:40.560 mean he has cracked the examination he
+00:05:41.940 has three months before he has to go to
+00:05:43.259 labasna why not I should get some free
+00:05:45.900 videos out of him
+00:05:47.220 so it was done as a Content project but
+00:05:49.800 those videos what were these videos
+00:05:51.060 about what did you do upsc preparation
+00:05:53.160 because I was making computer science
+00:05:55.259 videos
+00:05:57.900 but when his video came
+00:06:00.300 we got a million views the channel
+00:06:01.919 became one of the biggest channels Etc
+00:06:03.360 YouTube channel yeah
+00:06:05.460 um YouTube channel and Academy
+00:06:07.440 and then next one one and a half years
+00:06:09.419 uh himesh and my other co-founder we had
+00:06:11.759 started this company called Flat chat it
+00:06:13.860 was like Tinder but for finding
+00:06:15.060 roommates this I had started when I was
+00:06:16.860 in college and nmimus I'd raised my
+00:06:19.560 first Angel investment I in fact got a
+00:06:21.780 first Angel investment offer when I was
+00:06:24.120 in fourth year of college
+00:06:25.560 but then I got this software engineering
+00:06:27.539 job which was the first job
+00:06:29.639 um pretty good job so
+00:06:31.380 for me to come from a middle class
+00:06:33.000 background and say no to that kind of
+00:06:35.460 offer I think it was 16 lakhs per annum
+00:06:38.280 back in 2012.
+00:06:41.460 um I mean it was too good to refuse and
+00:06:44.039 then one year I stayed there I paid off
+00:06:45.840 my educational loans I had taken an
+00:06:47.819 education loan to study in college
+00:06:50.300 and then at some point like you said
+00:06:53.340 that I realized I cannot work for
+00:06:54.840 somebody else's vision
+00:06:56.280 I mean I was too much of a rebel to work
+00:07:01.020 for somebody else so
+00:07:03.120 then flat chart was started which common
+00:07:05.819 floor bought in 2014 that's how I came
+00:07:08.280 to Bangalore and then I was with common
+00:07:10.740 flow for one one and a half years uh
+00:07:13.199 learned how to scale a company flat chat
+00:07:15.419 was small it was sold in 10 months so
+00:07:17.639 did an academy start like that was it a
+00:07:19.800 video channel which became a business
+00:07:21.960 yes so you started monetizing this
+00:07:25.139 channel yes
+00:07:26.639 we started monetizing it but when Roman
+00:07:28.860 went to labasna he was not
+00:07:31.919 um I mean he was not allowed to make
+00:07:33.240 money so he stopped monetization the
+00:07:35.819 educational anomaly I was talking about
+00:07:37.740 is he became a doctor and then uh is
+00:07:40.020 Officer yeah
+00:07:42.300 yeah that's and then it's lovely and
+00:07:43.979 then you know there was this one one and
+00:07:45.840 a half years of
+00:07:47.220 convincing we would talk every night it
+00:07:50.340 was clear that both of us would talk
+00:07:51.599 figure out a way to convince his parents
+00:07:53.639 on how uh he should leave is ETC and
+00:07:56.759 when did an academy become all that it
+00:07:58.620 is in terms of scale the same question I
+00:08:00.419 asked him when did you realize an
+00:08:03.060 academy is big
+00:08:06.360 no so we had that
+00:08:09.680 intrinsic optimism that we have to make
+00:08:12.300 this big I mean one guy is he was the
+00:08:15.900 assistant collector of jabalpur I mean
+00:08:17.880 he's leaving that
+00:08:19.379 uh and then
+00:08:21.479 um you know we we knew that this is we
+00:08:23.759 are going all in like working 16 hours a
+00:08:26.340 day seven days a week we we had to go
+00:08:28.979 all in and we had to make it big the
+00:08:30.900 question wasn't so
+00:08:32.279 see people don't realize a lot of times
+00:08:33.958 we went through at least 10 pivots
+00:08:37.039 before we realized our business model in
+00:08:39.419 2019. so 2015 is when we started the
+00:08:41.940 company when Roman quit when himesh quit
+00:08:43.620 when I quit both of emission I quit
+00:08:45.779 common flow Roman quettias
+00:08:47.760 four years it took us 10 plus pivots to
+00:08:50.339 realize what's our business model but
+00:08:51.600 once we cracked the business model this
+00:08:53.100 is I remember 2019 uh we were on a
+00:08:56.519 Founders Retreat and we we start seeing
+00:09:00.240 Revenue numbers that we are doing 30
+00:09:02.100 lakhs a day 40 lakhs a day and this is
+00:09:04.380 the first time we had seen Revenue pmf
+00:09:06.300 we had seen views pmf we were creating
+00:09:08.640 content so
+00:09:09.959 we we had seen that Journey that our
+00:09:12.060 videos were doing 100 million views a
+00:09:13.800 month so that Journey we had already
+00:09:15.540 seen but when we started seeing Revenue
+00:09:18.240 p and pmf that's when we knew we had hit
+00:09:20.700 something but it took us at least four
+00:09:22.800 years plus 10 pivots to get there would
+00:09:25.320 you like to go next yeah sure uh proud
+00:09:28.680 of having a very low middle class
+00:09:30.300 upbringing uh keeps your feet on the
+00:09:33.060 ground and I think I'm around because
+00:09:34.860 I've kept my feet on the ground most of
+00:09:36.600 my life that's why I'm I'm still walking
+00:09:39.000 around the place I think it's very
+00:09:40.500 important
+00:09:42.060 um
+00:09:42.839 I had a great first Innings and a lot of
+00:09:45.180 fun
+00:09:46.980 um by seeking or being an entrepreneur
+00:09:49.080 but in a way we don't know how you
+00:09:51.120 started off where did you grow up
+00:09:54.120 grew up in Mumbai in graduate school
+00:09:56.660 sorry where did you go to school I went
+00:09:59.100 to school in a place called Dunn's
+00:10:00.720 Institute okay okay what did your
+00:10:03.060 parents do my dad has been a
+00:10:05.339 professional he worked with the tala
+00:10:06.839 group for a long time and I think before
+00:10:08.700 he retired he spent about 10 years with
+00:10:10.740 a UK company called GL Morrison that
+00:10:13.500 made me a cream and my dad's and my
+00:10:16.019 brothers
+00:10:16.700 the PHD in HR and then I don't know at
+00:10:20.459 my young age
+00:10:21.959 figured out that I may not be that good
+00:10:24.240 implementing somebody else's vision
+00:10:26.519 so felt
+00:10:28.500 I need to start off and do something of
+00:10:30.600 my own
+00:10:32.399 and that was when I had to decide
+00:10:34.380 whether I wanted to do an MBA
+00:10:36.240 I will
+00:10:38.040 19 20.
+00:10:40.560 and I think at that stage
+00:10:43.279 good question future exactly it's about
+00:10:46.079 78 1978.
+00:10:49.680 okay so I don't know whether that's got
+00:10:50.940 a validity stamp today in relevance to
+00:10:53.519 everyone since everyone had a lot of
+00:10:55.220 raised eyebrows here but um
+00:11:00.060 yeah I was an excellent Crossroad to
+00:11:02.640 very clear learning lessons for me at
+00:11:04.740 that early stage
+00:11:06.600 one is when my dad said okay I don't
+00:11:09.540 really figure out what you want to do
+00:11:11.160 but why don't you do your MBA do your
+00:11:12.779 child accountancy and then if you want
+00:11:14.100 to still run something on your own start
+00:11:16.320 that way
+00:11:18.000 and I was quite clear that if I had a
+00:11:19.980 plan B in my life then plan a wouldn't
+00:11:22.500 work out because I think that's half the
+00:11:24.779 situation right when you want to start
+00:11:26.220 something and you feel you have an
+00:11:28.380 optionality you're going to run aground
+00:11:30.779 definitely 10 times and I think the
+00:11:33.000 other thing that both my parents told me
+00:11:34.380 is look if you're going to do that we
+00:11:36.060 don't have the way with all to bail you
+00:11:37.500 out
+00:11:38.220 so we'll have a lot of love and a lot of
+00:11:40.560 affection but we're not going to bail
+00:11:41.760 you out
+00:11:42.600 so I think that's a good good segue to
+00:11:45.420 start off
+00:11:46.500 at a time when there was no angel or VC
+00:11:48.480 funding so what did you start first
+00:11:52.620 um
+00:11:53.579 I started a cable TV company
+00:11:56.339 that started wiring up all of Mumbai and
+00:11:59.880 most the five-star hotels
+00:12:02.519 there was a time when the TV sets didn't
+00:12:06.120 have a remote control
+00:12:08.700 so not only did we have to start selling
+00:12:10.980 the concept to people we also had to
+00:12:12.779 sell Concepts to the TV manufacturers to
+00:12:14.760 start making multi-channel TV sets that
+00:12:17.339 particular point in time so that was why
+00:12:18.959 I think first
+00:12:20.339 so Jordan to starting something
+00:12:22.500 and then
+00:12:23.760 when was the big moment where there's
+00:12:26.459 never been a big moment I think big
+00:12:28.019 moments are overplayed in life okay when
+00:12:30.779 did Ronnie screwwala become Ronnie's
+00:12:32.820 Cruella to people who don't know you
+00:12:35.100 who didn't know you personally when did
+00:12:37.260 you become a figure per se
+00:12:41.040 yeah so I don't know about that criteria
+00:12:42.839 because beauty is in the eye of the
+00:12:43.980 beholder so I don't think any one person
+00:12:45.980 defines where the other one is but
+00:12:48.860 media is a profile that gets you
+00:12:51.779 somewhere so I think early media days
+00:12:54.180 then later media days and then I think
+00:12:56.700 when we morph to be you started cable
+00:12:58.560 yeah did very well in cable
+00:13:00.720 five years then sold it how much do you
+00:13:03.600 sell it for
+00:13:04.800 literally nothing I think that's the
+00:13:07.560 stage where it was getting quite messy
+00:13:09.300 there were a lot of copyright issues and
+00:13:10.860 I just felt that was not my DNA to build
+00:13:12.720 a business that would have so many
+00:13:14.700 challenges at that very early stage in
+00:13:16.620 life okay so
+00:13:18.839 it was a chance when my the the CEO that
+00:13:21.959 are appointed came in and resigned and
+00:13:24.180 said I'm gonna go to a South Indian
+00:13:25.980 party who wants to start cable TV so I
+00:13:28.680 said well would you check with them
+00:13:29.820 whether they want to buy this because
+00:13:31.019 then you can buy it run it and go
+00:13:32.339 forward that's pretty much out so did
+00:13:34.920 you use the Corpus from selling the
+00:13:36.600 Cable business to start the media stuff
+00:13:38.880 so media I think again is Serendipity in
+00:13:41.820 many ways right because
+00:13:44.579 um as coming from the lower middle class
+00:13:46.860 home I think I
+00:13:49.320 since I hadn't studied for me learning
+00:13:51.660 soft skills was an important element so
+00:13:53.519 instead of doing boxing and football in
+00:13:55.139 school I did elocution debates
+00:13:57.500 Dramatics theater
+00:14:00.240 and front of camera hosting at that
+00:14:03.000 particular Point what did you do in
+00:14:04.380 media first
+00:14:06.180 so literally that it was pretty much
+00:14:08.820 that and I think the first thing that
+00:14:10.260 happened is there was an advertising
+00:14:12.180 agency called linta's law and Alec
+00:14:14.339 padamsi who used to do a lot of theater
+00:14:16.680 with Eisler theater with so he came in
+00:14:18.959 one fine day and said you know Hindustan
+00:14:21.060 levers wants to do India's first sponsor
+00:14:23.100 program
+00:14:24.200 and that's pretty much how the company
+00:14:26.760 was born and he said we're going to make
+00:14:28.500 13 episodes of a TV show or do you want
+00:14:31.260 to make it
+00:14:32.160 and I said well why are you coming to me
+00:14:33.959 he says you just look like the guy who's
+00:14:35.279 going to be able to put it all together
+00:14:37.019 and I think that's how the media path
+00:14:38.940 started and that led to movies and UTV
+00:14:41.699 movies much later I think didn't have
+00:14:44.160 funding for almost six seven years so
+00:14:46.260 when you don't have funding you build a
+00:14:47.459 B2B model so we were a Cost Plus model
+00:14:49.860 for everything else we started making TV
+00:14:51.480 content right and doing lots of stuff
+00:14:53.959 and that's when I realized for the first
+00:14:56.639 time to get in private Equity get
+00:14:59.040 external investors and then media
+00:15:01.560 started getting defined almost 10 years
+00:15:04.079 later into the business so I'd say it
+00:15:06.420 was good fun being in the formative part
+00:15:08.100 of it and I think that's what I thrive
+00:15:09.899 on right
+00:15:13.199 how did media lead to movies lead to
+00:15:16.440 upgrad
+00:15:17.459 startup Investments and all the other
+00:15:19.680 things that you do
+00:15:21.480 so media state is Media I think the day
+00:15:23.699 I realized that if I want to build
+00:15:24.959 something at scale and build a brand
+00:15:27.779 then you need to be in the b2c part of
+00:15:29.760 the business so I think over a period of
+00:15:31.860 two years I remember one investor call
+00:15:33.959 because we've just gone public
+00:15:36.720 and predictability and margins came into
+00:15:39.360 the picture and I said actually I'm not
+00:15:41.279 so much in control of what I'm doing
+00:15:42.959 because I'm a B2B model so we morphed
+00:15:46.260 when we started being a broadcaster
+00:15:48.000 about 10 channels
+00:15:49.980 and then started a movie studio the
+00:15:52.019 first five movies we made were disasters
+00:15:54.060 in every sense of the world and most
+00:15:55.980 people would say why are you ever in
+00:15:57.360 that business kind of situation why are
+00:15:59.579 you in that business
+00:16:00.839 because I needed to build a b2c brand
+00:16:02.699 and you can't build a b2c brand in Media
+00:16:05.399 if you're not in the big screen part of
+00:16:07.139 it and what is the need to build the
+00:16:09.360 brand uh like just for me I think I was
+00:16:12.120 starting to get obsessed with scale okay
+00:16:13.920 and I think value like if you see there
+00:16:16.019 are 30 40 companies in media that have
+00:16:17.940 got listed since the time we did that
+00:16:19.500 right and I think if you look at their
+00:16:21.240 market cap for the last 20 25 years they
+00:16:24.360 haven't moved more than 10 cumulatively
+00:16:26.519 in the last 25 years so my realization
+00:16:29.100 to unlock and create value was to build
+00:16:32.519 a integrated model versus being a pure
+00:16:35.220 play and at that stage I think for six
+00:16:37.079 seven years I got slaughtered by
+00:16:38.699 everyone saying where's your focus why
+00:16:41.160 are you not only into one single aspect
+00:16:43.139 then you get competitor reviews from
+00:16:46.079 different people
+00:16:47.279 but I think normally when you're going
+00:16:49.920 against the grain and you know it
+00:16:51.899 means when a lot of people think they're
+00:16:54.540 not understood your model I've found
+00:16:56.040 that that's normally where 10x 10x or
+00:16:58.800 20x value gets created
+00:17:00.720 so do you think these still hold true
+00:17:03.120 like b2c is where value can really be
+00:17:05.400 created even today
+00:17:07.439 a b2c business today using an in media
+00:17:09.839 specifically not not in media and
+00:17:11.339 anything
+00:17:12.240 yeah it's a tougher one so I think when
+00:17:14.099 one got into education and one got into
+00:17:16.679 learning
+00:17:18.179 the first Crossroad was whether we
+00:17:20.160 should start B2B because it's a tricky
+00:17:22.679 business right in a sense it's education
+00:17:24.419 is a very formatted formal World in
+00:17:27.000 every sense of the world everyone's very
+00:17:28.380 predictable uh it's calendar event in
+00:17:31.500 your life so to speak and to break that
+00:17:33.780 up and say I want to build something
+00:17:35.039 you're going to easily started the B2B
+00:17:36.960 way but I was quite clear we should
+00:17:38.460 start b2c
+00:17:40.080 and that was a tougher tougher model to
+00:17:42.480 go but I think no regrets in the last
+00:17:44.280 six years and the second thing do you
+00:17:46.380 often make more money by being counter
+00:17:49.440 trend
+00:17:50.640 I think
+00:17:52.740 I'll answer that maybe two ways I think
+00:17:55.919 um my ratio of eight failures to two
+00:17:59.760 successes is something that I've hold on
+00:18:01.740 to quite well it's not that I go out to
+00:18:03.960 do it in that it's not a formula
+00:18:06.000 but I think when you're when you fail as
+00:18:08.340 often as you do that's a minus 1X every
+00:18:11.220 time it could be a big minus 1X it could
+00:18:13.080 be a minus one x 10 million dollars 100
+00:18:15.720 million dollars a bad higher a bad
+00:18:17.700 decision pulling the plug on a business
+00:18:19.679 sticking with a business whatever else
+00:18:21.299 but it's a minus One X
+00:18:23.220 but because you've done that when you do
+00:18:26.940 get a success it's 30X party X and I
+00:18:30.480 think that if you don't have that law of
+00:18:32.100 averages working the chances of you
+00:18:33.840 having success will be 2x 3x 4X which is
+00:18:36.419 still fantastic
+00:18:37.799 but that 30x40x doesn't come about
+00:18:40.919 unless there's a lot that you've done
+00:18:43.020 which is
+00:18:44.460 by your mind has allowed your instinct
+00:18:47.640 and your gut to really get a little bit
+00:18:49.320 more polished to just feel confirmed
+00:18:52.260 because at the end of the day it's not
+00:18:54.000 about gut right it's a lot to do with
+00:18:56.460 your own self-conviction
+00:18:58.620 when everything else fails self
+00:19:00.480 confliction being self-conviction
+00:19:02.400 conviction being yeah I think that at
+00:19:04.980 the end of the day if I have to say what
+00:19:07.200 do I have as the reservoir it's a
+00:19:09.059 self-conviction right because how do you
+00:19:11.280 get out of failure self-confliction is
+00:19:13.559 that conviction in yourself or
+00:19:15.360 conviction
+00:19:17.039 in the cyclical nature of a sector that
+00:19:19.679 you're betting has to be in yourself has
+00:19:21.780 to be in yourself
+00:19:23.340 yeah I don't think anyone can have such
+00:19:25.080 conviction or a cyclical part of a
+00:19:26.820 business or even in a sector
+00:19:29.820 yeah and how does Ronnie spend time
+00:19:31.500 today like how much time does Which
+00:19:33.419 business take up
+00:19:35.520 so I'm not a I'm not very big at
+00:19:37.860 breaking up yeah time I think the
+00:19:40.320 elasticity I think I've been blessed
+00:19:42.919 with uh keeping my feet on the ground
+00:19:45.660 most of the time I think I've been
+00:19:47.220 blessed by not being uh spoiled with a
+00:19:51.120 lot of fundraising from time to time
+00:19:52.679 which I think really corrupts people and
+00:19:55.200 corrupts minds and corrupts businesses
+00:19:56.880 and corrupts many other things but I've
+00:19:58.919 also been Most Blessed that I enjoy
+00:20:00.480 everything that I've done so I think my
+00:20:01.980 media part
+00:20:03.360 to do that uh and the level at which you
+00:20:06.539 do it and I think what I'm doing right
+00:20:08.340 now whether it's our not-for-profit
+00:20:10.080 foundation or whether it's going back
+00:20:13.260 and doing a little bit of Storytelling
+00:20:14.940 in the movies mostly with
+00:20:17.460 the Skilling and Workforce Development
+00:20:19.919 and learning platform that we're trying
+00:20:22.440 to build globally and a little bit
+00:20:24.780 having fun with sports teams like
+00:20:27.360 recovery one we both have a sports team
+00:20:29.160 right in the same league we both have
+00:20:30.840 two uh sports teams technically yeah
+00:20:34.280 table tennis table tennis it's a small
+00:20:37.380 it's a smaller property but still fun
+00:20:39.059 yeah yeah do you guys ever like I mean I
+00:20:41.700 know you don't play kabaddi I'm hoping
+00:20:43.380 the answer is that like but table tennis
+00:20:45.539 you must enjoy it yeah yeah have you
+00:20:48.419 tried kabaddi kabaddi for me would go
+00:20:51.360 back a long time right I mean
+00:20:54.000 unfortunately not young enough
+00:20:57.179 I've played a little bit right but
+00:20:59.580 that's more just after the team happened
+00:21:02.100 and then trying to you know see what it
+00:21:04.380 is are they are they nice to you and
+00:21:06.299 don't really go hard on you because
+00:21:07.860 you're their boss yeah thankfully yes
+00:21:09.799 because uh it is a rough sport yeah and
+00:21:13.919 I don't think I appreciate how rough it
+00:21:16.320 is yeah till you know till you get out
+00:21:18.780 there out there and you realize it's
+00:21:21.240 it's an incredible game yeah I think we
+00:21:23.700 both have really bonded and spent lots
+00:21:25.620 of time together but that's a good
+00:21:27.900 example of what you just asked of how do
+00:21:29.760 you take and build a brand on something
+00:21:31.620 right because if you take that game it's
+00:21:33.240 it's always been a great game especially
+00:21:34.740 from an Indian spot point of view but to
+00:21:36.659 take it out of the sort of mutty and put
+00:21:38.760 it on a mat right and put some lights on
+00:21:41.039 them and then just one or two tweaks to
+00:21:43.559 the rules of the game where every third
+00:21:45.120 time you have to score versus you can
+00:21:47.820 just come in and go out and not score as
+00:21:50.280 change the entire perception just those
+00:21:52.500 two factors have taken popularity of a
+00:21:54.659 spot from X to 10x 20x no I'm intrigued
+00:21:58.320 the last time Jay was in town he had
+00:22:00.360 come for a kabaddi game so we were
+00:22:02.100 talking about it and it seems like
+00:22:05.240 the learning curve or or the amount of
+00:22:09.179 money you need to set up a kabaddi game
+00:22:11.400 is not as high as many other sports yeah
+00:22:14.039 you don't need a stadium like cricket
+00:22:15.659 and football and if you're close to the
+00:22:18.600 action it it does I I see the appeal at
+00:22:21.600 some level yeah
+00:22:23.220 I mean in India Sports is quite
+00:22:24.840 different there if you in the US you
+00:22:27.419 need to own a stadium you need to own
+00:22:28.860 the infrastructure here you don't need
+00:22:30.539 necessarily even in cricket to
+00:22:32.100 necessarily own the venue and they're
+00:22:34.200 normally quite segregated
+00:22:36.059 but yeah I think everybody teams become
+00:22:38.820 profit making now
+00:22:40.500 but it depends on how you account for it
+00:22:44.159 in terms of allocated cost and how much
+00:22:46.740 non-discretionary spend you are doing in
+00:22:48.600 terms of are you building a youth
+00:22:49.860 program are you doing scouting are you
+00:22:51.900 investing in building any physical
+00:22:53.940 infrastructure so maybe also Ronnie is
+00:22:57.179 in Mumbai I'm in Pune his fixed cost
+00:23:00.059 tends to be a little higher yeah
+00:23:02.760 yeah
+00:23:03.900 but right now I think we're all having
+00:23:06.059 more fun than the monetary gate from it
+00:23:09.299 I would say I agree would you like to go
+00:23:11.520 next Jay tell us about yourself yeah
+00:23:13.320 sure so first
+00:23:14.960 uh fun to learn Ronnie about
+00:23:18.179 you before I knew you because I only
+00:23:20.340 knew you from 2014 I only know the later
+00:23:23.880 stage of Irani and I Echo a lot of the
+00:23:26.700 things that he said like resonate with
+00:23:28.679 me uh middle class values
+00:23:32.039 feeling older uh now I'm meeting and
+00:23:36.000 interviewing people born in 2001 and how
+00:23:39.419 old are you now I'm 89 so I'm 33. so
+00:23:42.419 you're the youngest one how old you are
+00:23:43.740 uh I'm 90 born wow
+00:23:47.820 I'm older than both of you then yeah
+00:23:49.500 come on
+00:23:50.380 [Music]
+00:23:51.780 um I'll have to just act yeah but but we
+00:23:55.500 both were born on the same date but
+00:23:57.299 considering you went to MBA or whatever
+00:23:59.820 around 78 you don't look your age
+00:24:03.059 right no I didn't do my MBA but yeah
+00:24:05.640 yeah no I agree I would I thought you
+00:24:07.799 were younger yeah
+00:24:10.500 um
+00:24:11.700 yeah I grew up in Mumbai
+00:24:15.419 middle class values uh quite sheltered
+00:24:20.280 and
+00:24:22.860 dad uh founded kotak and I've been you
+00:24:26.039 know privileged to watch
+00:24:28.500 him and uh the business grow and that's
+00:24:31.380 been a great learning experience for me
+00:24:33.980 I went to the US for my studies and I
+00:24:36.780 wasn't really sure
+00:24:38.220 what I was going to do with my life
+00:24:39.659 professionally whereas become big in
+00:24:42.059 your own Journey uh
+00:24:44.820 were you in school I
+00:24:47.760 I it depends on big in terms of the size
+00:24:51.720 of the business or our perception of it
+00:24:53.520 from not your perception of it but our
+00:24:56.100 perception of it
+00:24:58.980 I think we became a large Capital
+00:25:02.400 markets and non-bank franchise in the
+00:25:04.919 early 2000s
+00:25:06.299 it's about 20 years ago yes I would say
+00:25:08.400 and the bank came later kotak was
+00:25:10.620 founded in the late 80s and the bank uh
+00:25:13.860 happened in the early 2000s around 2001
+00:25:16.020 2002 so the capital markets business the
+00:25:19.260 Securities business Investment Banking
+00:25:20.880 was much more mature but we only became
+00:25:23.100 a big b2c brand where people normal
+00:25:25.559 people had debit cards credit cards bank
+00:25:27.840 accounts uh in the late 2000s but
+00:25:32.580 I did not perceive or understand how
+00:25:35.279 large the business had become really
+00:25:36.779 till I came back from undergrad in the
+00:25:38.760 US in 2012 2011 2012. even then I never
+00:25:43.380 actually worked at gotak till
+00:25:45.419 I came back from my MBA and I wasn't
+00:25:48.000 really sure that you know this was my
+00:25:51.179 calling but
+00:25:54.059 um
+00:25:55.500 when I was taking that decision
+00:25:57.779 you know three weeks before I was going
+00:25:59.520 to graduate I was evaluating hey do I
+00:26:01.200 want to stay in the U.S it's a pretty
+00:26:03.179 comfortable life
+00:26:04.380 work at a private Equity Fund or an
+00:26:07.080 investment bank or a tech company there
+00:26:08.760 or do I want to come back and my father
+00:26:11.400 actually called me and rare that he
+00:26:13.500 would do something like this and he said
+00:26:14.760 I really do think
+00:26:16.159 you should come back for India not as
+00:26:19.380 much necessarily for kotak because the
+00:26:22.080 opportunity and the way this country is
+00:26:24.059 changing is a once in a
+00:26:27.659 Century Century or more if you think
+00:26:30.179 over the last five or six centuries this
+00:26:32.640 has only happened six or seven times and
+00:26:36.500 that I kind of took that plunge and I'm
+00:26:39.960 I'm glad I did where did you go to
+00:26:41.279 college I went to undergrad at like him
+00:26:43.860 like tell us where you went to school
+00:26:45.120 when you went out I went to school at uh
+00:26:48.299 cathedral in John Con in school in
+00:26:50.820 Mumbai and then went to college to
+00:26:53.520 Colombia in New York
+00:26:55.799 came back worked for a few years mostly
+00:26:58.340 uh Consulting Investment Banking not at
+00:27:01.200 kotak
+00:27:02.220 and then went to business school I did
+00:27:04.980 my MBA at Harvard in Boston I graduated
+00:27:08.039 2017. and since then I've been in India
+00:27:11.400 and I actually after MBA joined kotak
+00:27:14.940 spent couple of years doing Capital
+00:27:16.740 markets which was the original kind of
+00:27:18.840 uh
+00:27:21.299 strength and you know original business
+00:27:23.279 of the quota group and then I moved into
+00:27:26.100 consumer and b2c ever since
+00:27:29.220 I remember meeting him meeting up with
+00:27:31.260 you in Boston your last two three months
+00:27:33.000 of Howard this thing and I remember
+00:27:35.100 having that breakfast conversation with
+00:27:36.900 you and you were still debating on India
+00:27:40.140 or not India yeah and yeah glad you're
+00:27:43.260 dad convinced you or you were on the
+00:27:44.940 same page yeah you were on the same I'm
+00:27:46.860 glad it's best best decision not just
+00:27:49.320 for me but for anybody my generation and
+00:27:51.480 I'm seeing a lot of people coming back
+00:27:53.580 lot of people coming back it's a very
+00:27:55.620 interesting train of thought right like
+00:27:58.200 go back in time
+00:28:01.740 is patriotism defined by
+00:28:06.059 arbitrary boundaries drawn at one point
+00:28:09.059 of time I would I would also like you
+00:28:11.520 know put a caveat in here and say some
+00:28:13.799 countries are more patriotic than us
+00:28:15.480 like I feel like America does an amazing
+00:28:18.000 job of selling patriotism so that's a
+00:28:20.460 soft power approach we should not mix
+00:28:22.380 that up and I'm glad you brought that up
+00:28:23.880 there right because obviously
+00:28:25.559 that's a soft power approach where it's
+00:28:28.559 only the view from one particular side
+00:28:30.480 and point of view so yeah they've done a
+00:28:32.460 remarkable one-sided job on soft power
+00:28:35.299 okay where you can make a movie about an
+00:28:38.159 assassin that shot 123 so uh people in a
+00:28:43.919 country they went and occupied but the
+00:28:46.380 other person had done it from the other
+00:28:47.520 side you're not going to see a Hollywood
+00:28:49.020 movie on that right so whether you can
+00:28:51.779 call it sniper or you can call it XYZ uh
+00:28:55.440 but they've done a great job is there is
+00:28:57.299 there a correlation between
+00:28:59.340 how many patriotic movies are made to
+00:29:02.880 the underlying patriotism in the country
+00:29:04.500 soft power for America in every sense of
+00:29:06.299 the world I mean there's your Silicon
+00:29:07.559 Valley and there's your technology and
+00:29:09.120 then there's Hollywood and yeah I think
+00:29:11.520 I think
+00:29:14.460 I would say cricket and Bollywood for
+00:29:16.440 India are very internal insulated soft
+00:29:19.740 Powers the problem is the soft power is
+00:29:21.720 how you get perceived from the outside
+00:29:23.279 right and here now everyone stop playing
+00:29:25.679 Cricket 90 of the revenues come from
+00:29:27.539 cricket in India because nobody else is
+00:29:29.279 playing Cricket all the commonwealth
+00:29:30.659 countries are playing more football they
+00:29:31.980 do play cricket but not to that level
+00:29:33.960 and I think the same applies to
+00:29:35.520 storytelling I think we missed that bus
+00:29:38.640 on being a global ambassador from
+00:29:40.799 storytelling yeah do you think because
+00:29:42.899 you both have a bird's eye view on
+00:29:44.940 kabaddi do you see Cricket losing the
+00:29:49.500 kind of viewership with the newer
+00:29:51.000 Generations than it did in maybe for
+00:29:53.460 maybe people in their 30s and 40s what
+00:29:55.860 about the youngsters I don't think so I
+00:29:57.960 think
+00:29:59.340 there is enough space in India for
+00:30:01.620 multiple Sports to coexist
+00:30:03.659 and
+00:30:05.159 I think Cricket is around to stay you
+00:30:07.620 can never say forever if you look at a
+00:30:09.360 spot like baseball for example in the US
+00:30:11.220 it is on a steady kind of declining
+00:30:13.380 Trend but the U.S still has four major
+00:30:15.779 sports and they are for me it's more
+00:30:18.240 about the fact that they emphasize
+00:30:20.100 different elements of human skill you
+00:30:22.260 think about a baseball that's a little
+00:30:24.059 more like Cricket a basketball that is
+00:30:26.820 about a height reflexes you know uh
+00:30:30.840 endurance intensity American football
+00:30:33.240 you'll often see some of those
+00:30:34.500 footballers are fat you know and there's
+00:30:37.559 a whole host of uh
+00:30:39.840 different skill sets on uh football
+00:30:42.120 field the act of going to a football
+00:30:44.159 game is like an all-day event two hours
+00:30:45.899 from the city as opposed to a basketball
+00:30:47.340 game which is like going to a movie
+00:30:49.679 I see the same kind of thing manifesting
+00:30:52.080 itself uh in India same thing in the UK
+00:30:54.840 with the rugby Cricket football
+00:30:58.020 kabaddi is very different from cricket
+00:31:00.299 in the kind of elements of human skill
+00:31:02.760 that it emphasizes and it's a very
+00:31:05.279 different viewership proposition it's a
+00:31:06.899 shorter game it's a 40 minute game it's
+00:31:08.520 a very high intensity 30 second uh piece
+00:31:12.419 and I think that's what makes it
+00:31:13.559 exciting and you can go for a kabaddi
+00:31:15.480 game as a family like you would for a
+00:31:17.760 movie in the evening see it and come
+00:31:19.320 back right can I ask you guys a very
+00:31:21.899 interesting question digress a little
+00:31:24.000 bit
+00:31:24.899 like when all three of you spoke about
+00:31:27.779 your life your Journeys uh you brought
+00:31:30.779 up the middle class upbringing the
+00:31:32.820 middle class values
+00:31:34.679 I'm also from a middle class family
+00:31:36.360 right
+00:31:37.320 uh do you think we do this
+00:31:40.140 subconsciously
+00:31:42.720 to Signal the perception of us we want
+00:31:45.899 to be known we want others to know us
+00:31:47.640 for
+00:31:48.600 because we have a little bit of imposter
+00:31:50.399 complex it's important yeah we do I I
+00:31:52.980 would say yes but it's important part of
+00:31:55.080 the narrative right because
+00:31:56.720 is it a truly important part of The
+00:32:00.240 Narrative of why the three of you are
+00:32:02.039 successful
+00:32:03.539 or is it an important part of justifying
+00:32:06.899 The Narrative well two parts to that one
+00:32:09.120 is it's important to be part of the
+00:32:10.559 narrative because you ask the question
+00:32:11.820 because we're sitting here having a
+00:32:13.080 conversation which we're assuming other
+00:32:14.880 people who want to gleam out of and
+00:32:16.500 therefore the context is important and
+00:32:18.720 second yes I do genuinely believe that
+00:32:21.120 the grounding that one got and I think
+00:32:23.940 when I've listened to what Jay said that
+00:32:26.820 there's a there's a grounding that you
+00:32:28.200 get so I think it's important to refer
+00:32:30.000 to that and you're not saying it so that
+00:32:32.159 you can say look once upon a time I was
+00:32:34.440 here and now I'm here I don't think
+00:32:35.700 that's the context can I also ask you a
+00:32:37.440 question who does not want to imbibe
+00:32:40.500 middle class values on their kids like I
+00:32:43.799 would think most wealthy people in the
+00:32:45.840 world are trying to teach their kids
+00:32:48.659 middle class values in one way or
+00:32:50.820 another so how are we unique or how is
+00:32:54.000 that unique in each of your own Journeys
+00:32:56.820 was that I pivot it out the other way
+00:32:59.039 because who doesn't is a very small
+00:33:01.140 minority of who doesn't because you're
+00:33:03.120 talking about the top angle view I think
+00:33:05.159 we're all looking in from the bottom
+00:33:06.240 line and in the bottom angle of you it's
+00:33:08.880 aspirational right the top angle view of
+00:33:11.279 who doesn't there's a thing what is
+00:33:13.500 aspirational though having middle class
+00:33:14.940 values or being successful
+00:33:16.860 note of the journey the journey is the
+00:33:19.440 success
+00:33:20.480 and more than the perception I think
+00:33:22.860 it's also about the fact that I think a
+00:33:25.919 lot of initial Drive comes from the fact
+00:33:28.260 that like like from the fact that you
+00:33:31.380 see other people having so much and you
+00:33:34.559 want that now I was reading this book
+00:33:36.960 called hard drive which is Bill Gates
+00:33:38.159 biography and now he he was born into
+00:33:41.279 money not like the kind of money he
+00:33:43.140 eventually got but he still had that
+00:33:45.480 passion for one thing but you know it is
+00:33:48.539 you know I used to see let's say uh my
+00:33:51.659 father's friends who were other doctors
+00:33:53.460 and the kind of cars they would have or
+00:33:55.320 the kind of you know parties they would
+00:33:57.360 have Etc and see it's not perception
+00:34:00.600 like so is that the innate emotion which
+00:34:03.179 made you as hungry and ambitious in life
+00:34:06.059 initially two innate emotions one this
+00:34:09.119 and second all my friends that is a very
+00:34:11.099 raw true emotion right somebody else has
+00:34:13.139 more than you you guys were never
+00:34:15.119 altruistic I mean my father had a maruti
+00:34:17.460 800 and my chachu had a Zen and in
+00:34:20.940 following that Journey where are you now
+00:34:22.379 like you have x what do you compare
+00:34:24.839 yourself to it no now I don't see at
+00:34:27.540 some point it's a now see drive is not
+00:34:30.418 black or white it's not like because I
+00:34:32.520 wanted a better car I I work 16 hours a
+00:34:35.159 day I could have if I wanted to make
+00:34:36.659 money I could have chosen another
+00:34:37.739 profession where I would work eight
+00:34:39.659 hours a day and have a much more
+00:34:41.339 work-life balance but I don't have that
+00:34:43.020 so I think I think initial drive or for
+00:34:46.080 example when I was in school all of my
+00:34:48.780 friends I went to Xavier's Jaipur which
+00:34:50.399 is one of the best schools in Jaipur but
+00:34:51.960 all of my friends got into iits I didn't
+00:34:54.679 so then during college that was the
+00:34:57.900 second part of the dry that I had was
+00:34:59.580 that you know there was this hunger to
+00:35:02.099 prove that you know and every time at
+00:35:06.300 that time it was this Gmail group and
+00:35:08.280 you know you had G talk or something
+00:35:10.260 like that and you would describe g chat
+00:35:12.480 sorry
+00:35:14.040 um
+00:35:14.820 it's very surprising they should have
+00:35:16.380 been the one to break out and done yeah
+00:35:19.500 do you think balance is an important
+00:35:22.500 part of being a successful entrepreneur
+00:35:24.599 no I hate balance I think you have to be
+00:35:28.500 I think balance is very important part
+00:35:29.940 of anything balance tolerance little bit
+00:35:32.880 you know balance tolerance completely
+00:35:34.619 different balance of course it's
+00:35:36.060 different I was adding to that this
+00:35:37.800 thing but yeah
+00:35:38.900 do you mean balance in temperament do
+00:35:41.520 you mean balance and skill set no
+00:35:43.500 neither I mean balance
+00:35:46.460 in the repetitive nature of life let's
+00:35:50.280 say he has a family let's say you have a
+00:35:52.140 family do you allocate 10 hours to work
+00:35:54.780 one day a weekend do you do do you have
+00:35:58.020 a hobby do you go to the gym do you take
+00:36:00.000 care of your health I mean balance in
+00:36:02.099 that way
+00:36:03.380 so I'll go first I I have always lived a
+00:36:08.040 life to a point now I'm focusing on
+00:36:10.140 health
+00:36:11.400 but I have been a fan of this notion
+00:36:13.800 that if you have to be truly truly big
+00:36:16.380 and if you have to create something that
+00:36:18.000 impacts creates a huge impact I hate
+00:36:21.180 balance
+00:36:22.320 um I mean I believe that you do enough
+00:36:25.500 so that it's utility
+00:36:28.099 you you figure out a way to balance
+00:36:31.200 Family Health Etc but you have to go all
+00:36:34.140 in if if you have to create something
+00:36:36.359 truly truly truly big
+00:36:38.700 uh if you have to create something very
+00:36:40.920 good it's fine I think balance is fine
+00:36:42.900 see right that's the generation gap I
+00:36:44.640 wouldn't miss I I feel here and I might
+00:36:47.099 you agree with it I I I I I think
+00:36:50.640 if I look at 80 years of life I want
+00:36:53.579 balance in that at your journey
+00:36:56.579 and I very much agree with you on on
+00:36:58.680 that piece I agree with you gaurav that
+00:37:01.800 say for a two three five year period it
+00:37:04.680 may not be consecutive here and there if
+00:37:06.359 you feel something about a certain way
+00:37:08.040 if you feel like you're creating
+00:37:09.180 something
+00:37:10.500 having an exciting time whether it be
+00:37:12.480 professionally personal anything then go
+00:37:15.480 all in on that but the sine curve has to
+00:37:19.500 kind of which phase which cycle are you
+00:37:21.720 in right now I'm right now in the
+00:37:24.180 actually I'm in the middle of Cycles I
+00:37:25.859 would say the last three years has been
+00:37:27.180 a lot of uh
+00:37:30.000 drill down work and all work related but
+00:37:33.900 now uh I'm getting married this year so
+00:37:36.180 I think that is going to necessitate
+00:37:38.400 some
+00:37:41.900 okay let me do like half of it and you
+00:37:45.900 can do the finishing part of it nikhil's
+00:37:47.940 been waiting to set this up
+00:37:50.280 no I'm happy it worked out the way it
+00:37:52.440 did so one day me and Jay go out for a
+00:37:54.780 meal in Bombay we go for dinner
+00:37:57.720 where'd we go uh I met you at Mekong
+00:38:02.160 at Lands End
+00:38:03.660 yeah
+00:38:04.880 we were sitting on that Lobby place but
+00:38:08.400 but I saw you at me at the there's a
+00:38:11.460 there's a Chinese restaurant
+00:38:13.099 Chinese and then we had coffee yeah uh
+00:38:16.500 at the yeah uh like cafeteria Bistro
+00:38:21.060 ironic by the way the food place a very
+00:38:22.859 important part in all our lives
+00:38:25.339 like really good food yeah so we went
+00:38:28.079 from there we met one or two other
+00:38:29.579 friends of mine we went to some place
+00:38:32.160 nearby you know near kamla Mills it was
+00:38:34.800 a lot we went to a couple of places then
+00:38:37.200 we went you tell the story we went to a
+00:38:39.480 couple of places we were basically going
+00:38:40.980 from one place to another randomly
+00:38:42.720 moving from food now to love so yeah yes
+00:38:45.240 it's a random weekend in Bombay
+00:38:47.700 the last place we went to is
+00:38:50.880 a friend of mine his house and uh so me
+00:38:55.800 and Jay Jay went there and we were
+00:38:58.020 sitting and we were chatting and stuff
+00:39:00.060 like that we were playing chess we were
+00:39:01.859 playing chess we were playing chess and
+00:39:04.560 there happened to be a girl in my
+00:39:06.780 friend's house yeah okay
+00:39:10.520 they talk for five minutes in front of
+00:39:13.020 me they don't even exchange numbers yeah
+00:39:15.020 uh cut to like a few months later Jay is
+00:39:19.020 in Bangalore and we're having dinner at
+00:39:21.720 home
+00:39:22.560 and he's like bro I started dating that
+00:39:24.359 girl yeah and that is the girl he's
+00:39:27.060 getting married to now in November yeah
+00:39:30.720 so I feel like you know they should name
+00:39:33.320 but it's phenomenal I love it her name
+00:39:36.720 is super story and it was
+00:39:41.280 a butterfly effect in you know
+00:39:45.119 I was tired that day I had finished a
+00:39:47.880 very close friend of mine got married so
+00:39:49.980 he had his Bharat his wedding it was an
+00:39:52.920 early wedding and we finished by around
+00:39:54.839 6 37 and nikhil was in town that day and
+00:39:58.200 somewhere or the other I said you know
+00:40:00.000 okay I'll spend half an hour with nikhil
+00:40:02.160 and then go home and sleep because I'm
+00:40:04.500 tired and we had fun and it just became
+00:40:06.960 five hours and as you rightly said at
+00:40:08.820 the end of that night I must have spent
+00:40:11.160 two minutes with Aditi and the only
+00:40:14.040 thing we got out of that conversation
+00:40:15.960 was hey I did my MBA in the U.S and she
+00:40:19.560 was saying I'm applying right now for my
+00:40:22.440 MBA in the US so I will for you know I
+00:40:26.160 really thank my Harvard MBA but I will
+00:40:28.380 uh do it do it in this case because that
+00:40:30.660 was something that uh is always a good
+00:40:33.060 thing to say yeah uh
+00:40:35.220 and then we just kept in touch on
+00:40:37.079 Instagram really yeah who messaged who
+00:40:39.660 first uh
+00:40:41.520 she's gonna watch this in our life so I
+00:40:43.380 know I'm sure she's going to kill me uh
+00:40:47.220 I follow requested her she accepted my
+00:40:51.240 follow request and followed me back
+00:40:54.240 and
+00:40:55.740 she has many more followers than me so
+00:40:58.140 uh I will I felt like okay you know she
+00:41:01.140 probably gets hundreds or not thousands
+00:41:02.880 of uh you were still on the MBA
+00:41:05.460 wavelength
+00:41:07.260 uh how long has it been now it's been uh
+00:41:11.700 January 2000 and
+00:41:14.720 21. it's a little over two years
+00:41:18.240 and uh it just went from
+00:41:21.119 chatting on Instagram to hey when are
+00:41:23.880 you in Mumbai next you know let's meet
+00:41:27.420 interesting congratulations on the
+00:41:29.520 wedding in November so thank you I
+00:41:31.920 thought this group would be very
+00:41:33.839 interesting uh we have one very Savvy
+00:41:37.640 investor come entrepreneur come has done
+00:41:40.440 everything in life from producing movies
+00:41:42.240 to Media uh and how do you define
+00:41:45.000 savviness because I think saviness is a
+00:41:47.099 it's a nomenclature that you get into
+00:41:49.920 sometimes in the world that we live in
+00:41:51.720 today
+00:41:52.619 my Benchmark my metric is capitalism and
+00:41:56.880 through those lens
+00:41:58.680 historically looking at your track
+00:42:00.359 record you're very savvy Fair
+00:42:03.540 uh Beauties so I'll accept it from that
+00:42:06.839 point of view capitalism kind of removes
+00:42:08.940 the beauty in the eye of the beholder
+00:42:11.700 argument because we're all viewing from
+00:42:13.260 similar lens yeah but just to complete
+00:42:15.359 that often to what maybe gaurav said
+00:42:17.040 earlier I can't visualize everywhere I
+00:42:19.020 was getting turned off of who drove what
+00:42:20.520 car yeah I think for me are you bad at
+00:42:22.800 taking compliments generally in life I
+00:42:24.540 just sorry like are you bad at taking
+00:42:26.520 compliments in life generally
+00:42:30.260 a trigger to something else why do you
+00:42:32.820 think that is
+00:42:34.680 my own self-conviction maybe yeah I mean
+00:42:36.839 I don't know self-conviction would help
+00:42:38.700 you take a compliment
+00:42:41.040 I was trying to I think my I think
+00:42:43.560 you're very right and very intuitive on
+00:42:45.540 that maybe I'll I'll take it one level
+00:42:47.280 forward that I was trying to fine tune
+00:42:49.200 it even more further by actually going
+00:42:51.900 to the fact that to me enjoying myself
+00:42:54.240 has been has been one of the higher
+00:42:56.520 parts of it because actually I'm quite a
+00:42:58.619 loner in many ways I I work most of the
+00:43:02.880 work of the companies that one has built
+00:43:05.460 has been very interactive with people
+00:43:07.040 but still in that sense but I think for
+00:43:10.020 me The Benchmark of really just enjoying
+00:43:13.079 what you do has been very very critical
+00:43:15.119 and important and I think my journey has
+00:43:16.800 been a little bit of that okay when you
+00:43:19.200 do that you feel blessed when you feel
+00:43:20.819 blessed you get recharged when you get
+00:43:22.440 recharged you do a lot more
+00:43:24.599 so in a way you think contradiction in
+00:43:28.020 your mind is lesser because you have
+00:43:29.520 found something you love
+00:43:32.040 yeah I mean contradiction on a
+00:43:33.900 day-to-day basis and balance I
+00:43:36.119 understand we're always talking about
+00:43:37.440 where you need to I think what he's
+00:43:39.720 saying is you need to be rebellious you
+00:43:40.980 need to be out of your boxing you know
+00:43:42.720 what I also feel is it feels like he is
+00:43:46.140 so ambitious like he thinks it's good to
+00:43:48.900 be capitalistic
+00:43:50.400 but somewhere he also feels it's a good
+00:43:52.980 thing to be poor no but that's a good
+00:43:55.200 thing to me oh why because that's your
+00:43:58.560 gut you know like
+00:44:00.180 see when you're talking about a smaller
+00:44:01.859 unit right we grow up in families with
+00:44:03.780 four people five people six people
+00:44:06.420 families are always socialistic
+00:44:10.800 in nature where everything is shared
+00:44:13.619 when you go out in the world and Things
+00:44:15.599 become capitalism and inequality
+00:44:18.619 increases disproportionately some part
+00:44:21.900 of our subconscious I believe because so
+00:44:24.480 much of what we are today is a is a
+00:44:26.280 factor of our upbringing our influences
+00:44:28.140 I think some part of each of us believe
+00:44:32.040 not directly but subconsciously that it
+00:44:35.640 is good to be poor and I think the more
+00:44:37.920 you win in capitalism the more you feel
+00:44:40.260 like that it is subconscious no no I
+00:44:41.760 might be wrong no no that was see that
+00:44:44.099 was at the end of the day one of the
+00:44:45.780 initial drives that has not been my
+00:44:47.460 drive in a long time I don't today I
+00:44:50.520 wouldn't compare that he has this or she
+00:44:53.220 has this or something like that that was
+00:44:54.900 just an initial part of the drive
+00:44:56.760 eventually you know whether it's product
+00:44:59.460 or content I found that thing which
+00:45:01.680 motivates me and I think
+00:45:03.780 um I think you're addicted to being
+00:45:05.700 rebellious
+00:45:07.819 maybe I know you fight every like
+00:45:10.440 whatever 30 minutes and I definitely see
+00:45:12.599 some spunk
+00:45:14.160 which is a good thing yeah yeah I mean a
+00:45:16.619 nice manner but it you're addicted to
+00:45:18.839 that I mean you know half the times I
+00:45:20.880 would say oh I mean and now maybe a
+00:45:22.800 little bit I follow you because we've
+00:45:24.060 met couple of times I'm saying now why
+00:45:25.980 does he have to shoot his mouth off
+00:45:27.599 again but I think you enjoy it and
+00:45:31.020 that's that defines the character
+00:45:33.180 so for us I mean for us it was the fact
+00:45:36.300 that who has made it big in the Venture
+00:45:37.980 Capital game and and to be tagged as a
+00:45:39.960 unicorn I mean when we were 25 years old
+00:45:42.119 me Roman and himesh one of the goals was
+00:45:44.880 that you know if we can make a unicorn
+00:45:46.859 before 30 that would be awesome and it
+00:45:49.140 did happen meaning convince four or five
+00:45:51.000 people to give you a lot of money at a
+00:45:52.859 higher value but that was that's what it
+00:45:54.599 would mean right but unlike some other
+00:45:56.579 companies our company has also created
+00:45:59.160 value so yeah but essentially that yeah
+00:46:01.680 I'm just I'm just I'm just curious about
+00:46:04.200 that I'm I'm not I'm not I'm I'm very
+00:46:06.720 happy with my announcing but I'm trying
+00:46:08.460 to because I think it's the messaging
+00:46:11.280 that we all do in a conversation is very
+00:46:13.140 important so I get it I mean if I were
+00:46:15.780 to look and I'm half Charming you so
+00:46:17.220 don't get it
+00:46:18.480 if if I were to look back should I have
+00:46:21.060 changed valuation the way I did probably
+00:46:22.980 not but it did teach me a lot of things
+00:46:25.200 and at some point you know an academy in
+00:46:27.480 the last 12 months the way we have
+00:46:29.280 focused on a better I think very few
+00:46:31.680 Venture funded companies have and this
+00:46:33.660 month will be the first month where we
+00:46:35.640 are cash flow positive so I think that
+00:46:37.680 Journey wasn't easy but uh That's a
+00:46:41.280 hardcore capitalistic talk now but one
+00:46:43.319 thing I have to add in gaurav's defense
+00:46:46.500 is what he's saying that valuation game
+00:46:48.780 he was not the only one playing it you
+00:46:50.700 know like millions of people
+00:46:52.680 who wanted to achieve what he achieved
+00:46:55.500 so regardless of Market cycles and when
+00:46:59.520 money drains out and interest rates go
+00:47:01.380 up I think a lot of credit goes to him
+00:47:05.400 for having been able to
+00:47:08.460 get that money scale an academy in the
+00:47:10.859 manner that he did and I think he should
+00:47:12.599 take pride in that and always yeah no I
+00:47:15.900 would I would be a little humblier and
+00:47:18.540 say that there was only one feedback
+00:47:21.420 that shailendra and dependra and bhaven
+00:47:23.819 these three people are have been good
+00:47:25.740 mentors and they've built companies they
+00:47:27.960 have helped build companies they kept
+00:47:30.359 saying that don't let your ego come in
+00:47:31.980 between so I just I was just
+00:47:34.920 I accepted the reality but there were 10
+00:47:38.040 people who told me what to do so I just
+00:47:40.800 didn't let it get into my head that or
+00:47:43.260 just because I like I could convince
+00:47:44.940 five people to Value me at a certain
+00:47:46.920 valuation doesn't and and by the way
+00:47:49.680 this happens with a lot of other
+00:47:51.060 Founders
+00:47:52.619 um rest how to execute or you know how
+00:47:55.200 to do that Etc I think that was the easy
+00:47:57.060 part but listening and having that
+00:47:59.700 acceptance that you up or you
+00:48:03.240 over hired people
+00:48:04.640 and the journey of letting go of people
+00:48:07.560 would be a tough one so I think doing
+00:48:09.660 that acceptance was the major part once
+00:48:13.500 you accept that hey I did
+00:48:17.040 there are 10 people who will tell you
+00:48:18.839 you have to reduce your fixed cost you
+00:48:20.579 have to reduce your SNM you have to
+00:48:22.140 reduce your GNA and then uh and and then
+00:48:25.740 we promulgated but that's all that
+00:48:27.660 matters bro as long as you guys have
+00:48:30.119 course corrected
+00:48:32.220 in a direction that will make you bigger
+00:48:35.700 better stronger in the future I mean see
+00:48:37.980 at the end of the day we all wish each
+00:48:39.599 other the best rate yeah yeah so where I
+00:48:43.260 was at before this conversation is we
+00:48:45.660 have one very very Savvy person because
+00:48:48.420 he has done so many things we have a
+00:48:51.119 very articulate friend of mine Jay who
+00:48:53.579 has gone to the best colleges in the
+00:48:55.140 world and gotten great marks and not
+00:48:57.480 really how much do you get I was always
+00:48:59.839 how did you how did you get into Harvard
+00:49:02.220 I was a good student yeah uh I was a
+00:49:04.380 very good student but I was not uh I
+00:49:06.420 wasn't always in the top 10 not in the
+00:49:08.940 top one percent
+00:49:10.200 in all of my classes that's the
+00:49:11.940 Benchmark because you come up and not in
+00:49:13.380 the top ten percent no but in typically
+00:49:16.200 you know there is this kind of culture
+00:49:18.960 in India that like you have to have 99
+00:49:20.579 or 98.
+00:49:22.680 I was always 89 90. uh kind of
+00:49:27.960 which is good and then we have another
+00:49:29.400 engineer who has done so well and you
+00:49:31.859 have me who has not gone to college is
+00:49:33.720 fairly illiterate from the traditional
+00:49:35.819 lens
+00:49:36.660 so putting four people like us together
+00:49:39.359 right like one who doesn't have any
+00:49:42.060 education one hour one like
+00:49:45.060 so much experience and so many other
+00:49:46.980 things also with very little education
+00:49:48.780 but you went to college you said I did
+00:49:50.940 my bcom and that was it yeah so you're
+00:49:53.460 saying that's that qualifies your four
+00:49:55.319 years more than I did and
+00:49:57.839 30 we all come together and we talk
+00:50:00.300 about education overall not just for
+00:50:04.319 everybody looking to build a product a
+00:50:07.200 company in education
+00:50:09.200 any kind of a business ancillary to
+00:50:12.000 education I thought four diverse views
+00:50:15.180 like this should help an entrepreneur
+00:50:18.119 starting off today so that's the intent
+00:50:20.099 of today
+00:50:21.180 and it's not about our individual
+00:50:23.640 companies it's not about how well anak
+00:50:26.520 Academy is doing or upgrad is doing or
+00:50:28.560 kotak bank is doing codec bank is
+00:50:32.160 is in another level where I don't really
+00:50:34.140 I don't think we should not be
+00:50:36.240 commenting about it yeah is not so I
+00:50:39.359 can't take a remote credit for that I'll
+00:50:40.980 only take credit for a little bit of
+00:50:42.599 kotak 811 inside Bank kotak bank is
+00:50:45.300 could not will you elaborate on that a
+00:50:47.280 little bit because we'd like to know
+00:50:48.300 what Jay is doing at 811
+00:50:52.640 uh 811 stands for
+00:50:56.000 interestingly given the news that
+00:50:57.839 happened yesterday 8th of November uh
+00:51:00.480 which was the date of demonetization
+00:51:02.099 where we as a traditional slash Legacy
+00:51:06.180 Bank
+00:51:06.980 started a
+00:51:09.300 immediate online account opening which
+00:51:11.460 is never allowed before that along with
+00:51:13.260 demonetization a set of new interesting
+00:51:16.200 and very Progressive regulation came
+00:51:17.880 that allowed bank accounts to be open
+00:51:20.099 for the first time without a wet
+00:51:21.480 signature so kotak started a product
+00:51:25.079 called Kota k811 that basically allowed
+00:51:28.319 that to happen and it saw
+00:51:30.920 extremely high uptake because it turns
+00:51:33.839 out that
+00:51:34.859 a lot of India was and to a lesser
+00:51:37.500 extent still is not banked or
+00:51:39.839 underbanked and
+00:51:41.940 that has been a journey
+00:51:44.040 and recently we've seen the scale of
+00:51:47.579 that opportunity we've uh
+00:51:49.859 in a management segregation not a legal
+00:51:51.960 entity segregation very important
+00:51:53.400 because regulatory businesses have to be
+00:51:56.160 uh carved it out as a bank and Bank
+00:52:01.020 management segregation and we think of
+00:52:03.540 ourselves a little more as a digital
+00:52:06.000 Bank slash
+00:52:07.440 fintech but you know fully regulated
+00:52:11.880 business that's nice and it took that
+00:52:13.920 eight I mean it's eight eleven but you
+00:52:15.960 call it eight one we call it so it's one
+00:52:18.599 and 911 they couldn't have called it 911
+00:52:21.059 otherwise would have been the emergency
+00:52:22.020 example in America right so not that
+00:52:24.180 most people in India have no no concept
+00:52:26.760 of 9-1-1 tell us what 811 does broadly
+00:52:29.640 like if you had to categorize it in a
+00:52:31.260 bucket
+00:52:32.520 you can open a bank account in three
+00:52:34.079 minutes sitting in your living room on
+00:52:35.819 your phone it's a partial kyc account
+00:52:37.740 and you get a virtual debit card you can
+00:52:39.960 start transacting immediately so element
+00:52:42.480 one of the proposition is that it's uh
+00:52:45.359 fully you know straight through we do
+00:52:46.859 around
+00:52:47.819 uh six lakh accounts a month so they
+00:52:50.640 will take 20 000 or a day which is
+00:52:52.800 considerably so 811 now contributes
+00:52:55.260 seventy seventy to seventy five percent
+00:52:56.940 of the total accounts that quota Gobles
+00:52:59.000 uh and that's just the power of digital
+00:53:02.099 and why I'm in Bangalore so much the
+00:53:04.319 second element of the value proposition
+00:53:05.700 is that we are an unbundled offering
+00:53:07.980 think of it like how Indigo disrupted
+00:53:10.680 Jet Airways we have zero balance we are
+00:53:13.440 the only large Bank in India to offer a
+00:53:16.079 bank account with zero minimum balance
+00:53:17.700 which is very compelling for most of
+00:53:19.859 India that does not have ten thousand so
+00:53:21.839 would you like summarize and say it is
+00:53:23.880 banking focused on the young in a fast
+00:53:26.880 efficient
+00:53:28.319 near zero cost manner
+00:53:31.079 yes I guess that's a good way to
+00:53:33.839 summarize it the one thing I have to add
+00:53:35.579 like you know especially for a very
+00:53:37.260 underbanked Nation yeah the one thing I
+00:53:39.660 have to add about Jay is before the
+00:53:42.180 story about him meeting is now to be
+00:53:44.579 wife and all of that
+00:53:46.920 the very first time I met Jay is when I
+00:53:50.460 had gone to the kotak bank office where
+00:53:53.099 Jay was sitting and pitched their family
+00:53:56.339 a product which would a product of ours
+00:53:59.099 which would manage a part of their money
+00:54:01.319 and this was a few years before that and
+00:54:04.680 uh
+00:54:05.760 I will say this about Jay right
+00:54:08.280 a lot of people look at
+00:54:12.300 people who are popular
+00:54:13.940 personalities kids and
+00:54:17.099 make up preconceived notions in their
+00:54:19.200 mind
+00:54:19.980 but
+00:54:22.500 Jeff was refreshingly different he is
+00:54:25.500 not
+00:54:27.200 somebody's son alone but Jay on his own
+00:54:31.800 is extremely impressive uh like for the
+00:54:36.599 for the first I don't know how many
+00:54:37.800 times we met he would never even like
+00:54:40.140 mention his dad once or you know that
+00:54:42.780 he's the son of this person he owns this
+00:54:44.579 bank and all of that
+00:54:46.079 and I hope personally because we have a
+00:54:50.280 relationship and you know whatever
+00:54:52.440 I hope that one day when that
+00:54:54.720 opportunity comes uh I hope that
+00:54:57.780 opportunity comes to Lead kotak Bank but
+00:55:01.619 I can't think of somebody who has more
+00:55:05.099 you know natural ability he so calm
+00:55:07.859 stable uh has so many facets which would
+00:55:11.640 serve well
+00:55:13.040 in leading a institution of that size
+00:55:15.720 yep couldn't agree with you Mom yeah so
+00:55:17.640 I appreciate that but yeah
+00:55:21.300 um
+00:55:26.000 it's not just about regulation it's it's
+00:55:28.140 a large business we are 26 shareholder
+00:55:30.960 yeah there are 74 other
+00:55:33.059 and uh leadership and future has to be
+00:55:37.020 decided in the context of what is best
+00:55:38.880 for all I am committed in what I'm doing
+00:55:41.880 right now and of course by virtue of
+00:55:43.800 being uh the largest shareholder we are
+00:55:48.420 aligned with the future of the business
+00:55:50.160 but for me I don't see that as a
+00:55:52.920 necessary do you think he's not taking
+00:55:54.300 compliments well either like you asked
+00:55:56.280 me no I I think this is he's taking it
+00:55:59.760 better than you I must say because you
+00:56:01.680 have like this aversion where you
+00:56:03.000 rejected blanket but he's trying to like
+00:56:06.059 you know incorporate another facet he's
+00:56:08.040 adding to it I don't agree with a lot of
+00:56:09.839 your compliments because I do think that
+00:56:12.140 uh this is the best compliment of them
+00:56:14.819 all no not that you're not agreeing with
+00:56:16.319 my compliment it's
+00:56:18.119 having a head start from being born in
+00:56:22.380 what was when I was much younger I was
+00:56:24.900 you know we were not very affluent but
+00:56:27.059 still you know privileged uh parents
+00:56:28.980 that value your education being able to
+00:56:31.200 send you to an American school and not
+00:56:33.119 have to worry about scholarship uh you
+00:56:35.880 know not having to worry about paying
+00:56:37.680 Education Loans and that kind of sets
+00:56:40.980 off a positive cycle right that
+00:56:44.400 definitely kind of uh is a is an unfair
+00:56:47.300 Advantage so to speak that I've had
+00:56:50.220 that's a good way to come back to this
+00:56:52.079 they say that
+00:56:53.819 what was the number of somebody was
+00:56:55.440 telling me 40 to 50 percent
+00:56:57.720 of school going children in India go to
+00:57:00.900 private schools
+00:57:04.020 if Government schools in their form
+00:57:06.960 today
+00:57:09.240 don't function do you think that is a
+00:57:11.160 testament to how they don't function
+00:57:13.619 as to how they have to change the very
+00:57:15.240 fact that 50 of India and we are talking
+00:57:18.000 about India where you know like maybe
+00:57:21.420 three four percent of our country pays
+00:57:23.400 tax so that 50 is not affluent which is
+00:57:26.760 taking the additional hassle of paying
+00:57:29.460 school fees and the expenses and all of
+00:57:31.980 that sending their children to private
+00:57:35.160 schools does that talk about public
+00:57:38.339 schools in a I wouldn't say that okay is
+00:57:41.700 that number true I'm not sure about the
+00:57:43.680 number but I'll just say it in two parts
+00:57:45.180 firstly I think the U.S by the way the
+00:57:47.220 school the schooling is not so great I
+00:57:49.260 was going to say exactly yeah there's
+00:57:50.760 enough people to come back from the US
+00:57:51.960 in the fifth standard yeah and here
+00:57:53.880 we'll have to go in the third standard
+00:57:55.260 right so that should give you a pretty
+00:57:57.300 quick Benchmark on that and look we
+00:58:00.599 worked with about 1200 schools in rural
+00:58:02.460 India and I can tell you since you're
+00:58:03.839 bringing that when this
+00:58:05.480 is what you would call the the schools
+00:58:08.579 but I think there is a sense of
+00:58:11.400 infrastructure that also pulls it down
+00:58:12.900 it's not just that it's the faculties
+00:58:14.460 the teaching and whatever else you go
+00:58:15.960 there but I can tell you when we started
+00:58:17.940 opening a library in each of the rural
+00:58:20.640 schools magic happened the attendance
+00:58:22.800 went from 60 to 95 that's yes but that's
+00:58:27.240 one single situation of opening a
+00:58:29.339 library because for most people the
+00:58:30.720 library was a locked cupboard behind the
+00:58:33.720 principal's door was a key which nobody
+00:58:35.819 had access to and you couldn't take away
+00:58:37.140 a book home right so if you look at the
+00:58:39.960 singular paths what are the triggers of
+00:58:41.880 what people do because at the end of the
+00:58:43.500 day it's about aspiration right I mean
+00:58:45.119 education is about growing aspiration
+00:58:47.400 what do you think is tomorrow going to
+00:58:49.200 be brighter and better than yesterday
+00:58:50.760 and I think we spoke a little bit
+00:58:53.579 earlier about uh patriotism in India I
+00:58:56.520 mean I can best say that today people
+00:58:58.380 are thinking very genuinely that
+00:59:00.059 tomorrow is better than yesterday and I
+00:59:01.980 think the soft part that America went
+00:59:03.540 through was exactly that that softball
+00:59:06.359 gave you the sense that tomorrow is
+00:59:08.160 going to be better than yesterday I
+00:59:09.420 think today the United States is
+00:59:10.740 reviewing um
+00:59:12.000 they may not want to admit it but
+00:59:13.619 they're reviewing whether tomorrow is
+00:59:15.059 better than yesterday for them right and
+00:59:17.040 if you just look at that as one and I
+00:59:18.599 know I'm straying from your specific
+00:59:20.099 question on that but
+00:59:21.720 I think you have to look at education
+00:59:23.760 now or anything to do with learning with
+00:59:25.680 that little bit broader perspective than
+00:59:28.440 just attendance just learning just
+00:59:30.720 grading private versus public
+00:59:33.420 and I think it's all about teachers
+00:59:35.460 right in many sense of the word right is
+00:59:37.559 that the opportunity the two of you saw
+00:59:40.020 the quality of Education
+00:59:42.720 in government
+00:59:44.940 or private in or some private
+00:59:46.920 institutions as far as upgrad was
+00:59:48.299 concerned I think we are in higher
+00:59:49.500 education so I didn't think we didn't
+00:59:50.940 look at the K-12 market for for a
+00:59:53.280 multiple of reasons you also gave us
+00:59:55.319 like 30 seconds on what upgrad does and
+00:59:57.599 I'll come to you next yeah so I've ever
+00:59:59.880 sort of Define it I think education is a
+01:00:02.520 very calendar event and it's a very
+01:00:04.140 preconceived notion where you go through
+01:00:06.420 a certain portion of your life and it's
+01:00:08.099 over and I think we want to disrupt that
+01:00:10.260 space in today's for us the definition
+01:00:12.540 of what we want to build is a sort of a
+01:00:15.240 book called learning Skilling and a
+01:00:16.859 Workforce Development company and do you
+01:00:19.619 also skill people who are already
+01:00:21.119 working yes in fact most of the people
+01:00:23.339 we skill have to be in some sense of a
+01:00:26.819 job in working and the earliest we do as
+01:00:28.859 College Learners or the last year of
+01:00:30.540 college people so you take people in
+01:00:32.520 when they're 18 19 that kind of age
+01:00:34.319 groups we don't take but they come to us
+01:00:36.299 but yeah
+01:00:40.980 no see the beauty about technology and
+01:00:43.920 online is it's amazing because you don't
+01:00:46.140 do a pull you don't do marketing
+01:00:47.700 advertising as much no for two reasons
+01:00:49.920 one is it's an option at that stage you
+01:00:52.380 know that's why the calendar event it's
+01:00:54.599 not an option it's programmed in your
+01:00:56.040 life you have to go to school you have
+01:00:57.480 to go to college or you're going to be
+01:00:58.440 called a Dropout or you're less
+01:01:00.119 privileged but here the optionality of
+01:01:03.000 Life Starts and therefore I think it was
+01:01:04.859 more we're talking about the fact that
+01:01:06.660 optionality starts there right because
+01:01:08.819 that's the time when you need to carry
+01:01:10.079 on and take it Forward right how is an
+01:01:12.180 academy different
+01:01:13.799 so an academy is
+01:01:15.720 I don't internally also we don't think
+01:01:17.819 we are in the education business we
+01:01:19.200 think we are in this tournament business
+01:01:21.119 so what happens is today whether it's 60
+01:01:24.240 million people give these competitive
+01:01:27.119 examinations you have your UPS you have
+01:01:29.520 your need you have J
+01:01:31.859 and
+01:01:33.180 for a huge
+01:01:35.099 like for almost everyone who comes to 11
+01:01:37.500 standard or 10 standard the only way to
+01:01:40.619 change their socio-economic status is by
+01:01:43.500 getting selected into these examinations
+01:01:45.119 because I I like to think that uh and
+01:01:48.480 and this is what similar to
+01:01:51.000 um
+01:01:51.540 but upgrad also does is it helps people
+01:01:53.640 get better jobs makes them better
+01:01:56.040 skilled so I think that's are you both
+01:01:58.740 at the same price point in a way no but
+01:02:00.660 we are in different markets very
+01:02:01.799 different very different similar price
+01:02:03.660 points uh no no no which would be higher
+01:02:07.559 and lower no no so so you know be it
+01:02:09.900 cater for SSC examination where uh
+01:02:12.420 annual subscription would cost 5000
+01:02:14.280 rupees but we have a j examination where
+01:02:17.099 an annual subscription would cost 1.2
+01:02:19.079 lakhs so we are sort of in that
+01:02:21.480 tournament business where let's say if
+01:02:24.480 people get selected and they go into an
+01:02:26.700 IIT
+01:02:27.660 their life will change IIT is like a
+01:02:30.720 lottery you say tournament because so if
+01:02:32.280 you get in yes it's fair to call it a
+01:02:34.079 lottery though no I'm not calling it a
+01:02:35.640 lottery I'm calling it a tournament yeah
+01:02:37.380 like we do in India game of skill
+01:02:39.960 no no no but it's not a I mean you I
+01:02:42.839 mean the kind of people who end up
+01:02:44.640 qualifying and the kind of uh questions
+01:02:47.040 that come in these examinations I mean
+01:02:49.380 we can debate that is this the right way
+01:02:51.720 to measure Etc but we have to all agree
+01:02:53.579 to some way of measuring a person's
+01:02:56.400 ability and if uh hard work is by the
+01:02:59.460 way I couldn't clear any of those
+01:03:00.599 examinations if people don't know but I
+01:03:02.700 got rejected by a coaching Center in
+01:03:05.280 Jaipur there was this coaching Center
+01:03:06.599 called resonance where there was this
+01:03:08.940 teacher Ashish Arora who eventually
+01:03:10.920 joined an academy uh two years ago but
+01:03:14.940 I my father takes me to the coaching
+01:03:17.520 Center and they rejected me because uh
+01:03:21.240 to get into that teacher's batch you
+01:03:24.839 have to clear a test which I couldn't
+01:03:26.099 clear so one of the things that an
+01:03:28.079 academy now does is and some of our
+01:03:29.819 teachers are paid a million dollars
+01:03:31.319 million US Dollars we got the best quota
+01:03:34.200 and Jaipur teachers and they would start
+01:03:36.660 teaching at ten thousand or twenty
+01:03:38.099 thousand people paid a million dollars
+01:03:40.079 that's why he started by saying venture
+01:03:42.059 capital is that the difference no no by
+01:03:45.180 the way
+01:03:46.380 I think without Venture Capital nobody
+01:03:48.119 gets paid a million dollars
+01:03:50.420 these teachers
+01:03:52.460 never getting paid similar amounts by
+01:03:56.220 offline coaching centers who
+01:03:58.260 collectively were doing 20 000 crores in
+01:04:00.119 Revenue so between chaitanya between
+01:04:02.700 Allen between Akash and between narayana
+01:04:05.040 and I don't want this to become the
+01:04:07.200 rameshwaran cafe type
+01:04:09.839 shocked but between these four coaching
+01:04:12.240 centers these do twenty thousand
+01:04:14.099 corrosion Avenue and there are let's say
+01:04:16.140 some of these coaching centers would
+01:04:17.460 have at least 40 50 teachers who get
+01:04:20.579 paid more than two crores per annum and
+01:04:22.319 some of them can I interject funds is
+01:04:25.500 that the differentiation why one ethic
+01:04:28.619 platform works over another quality of
+01:04:30.540 teachers is it syllabus is it teaches
+01:04:33.119 but again see you need to do this
+01:04:34.920 segment it would be different I mean for
+01:04:37.079 me and for the overall working
+01:04:39.180 professional it's a lot of plus plus
+01:04:41.220 it's not necessarily teachers and
+01:04:43.859 faculty which is the epicenter is it the
+01:04:45.780 syllabus like if you had to pick one at
+01:04:47.819 upgrad would you say syllabus have more
+01:04:49.980 weightage or do teachers do no I think
+01:04:52.680 learning experience and the whole
+01:04:54.180 process of learning because it's online
+01:04:55.980 is the most important part of it and
+01:04:58.079 connecting otherwise I mean just a
+01:05:00.000 lecture today is not going to move the
+01:05:01.920 needle from All Points of View if you
+01:05:03.480 have just have a TED Talk that's not how
+01:05:05.099 you're going to learn for the next level
+01:05:06.359 of what you want to basically do right
+01:05:07.980 so I think that is the pivotal part so
+01:05:10.020 for us learning experience
+01:05:12.059 right now to me what I think is going to
+01:05:14.099 revolutionize learning is peer-to-peer
+01:05:17.160 learning so while we are talking about
+01:05:19.079 teachers and faculty
+01:05:21.059 I can see that Trend in the next five
+01:05:23.160 years the power of everything that's
+01:05:24.660 going to go to the next level and maybe
+01:05:26.099 not in school because you do need that
+01:05:27.960 basic element you can't start any app
+01:05:29.640 peer-to-peer is peer-to-peer learning I
+01:05:32.099 actually wanted to ask Jay that question
+01:05:33.540 because I agree with this yeah did you
+01:05:36.240 go to Harvard because the teachers were
+01:05:38.940 good and after you went to Harvard did
+01:05:41.940 you learn more from your teachers or
+01:05:43.619 your classmates so Harvard is actually a
+01:05:46.260 Harvard Business School is a very
+01:05:47.700 interesting kind of education model
+01:05:49.380 because it is a combination of teacher
+01:05:53.280 to student and peer-to-peer because
+01:05:56.000 every class is almost like a conductor
+01:05:59.280 with an OP to an orchestra where the
+01:06:00.960 conductor is only kind of which is the
+01:06:02.579 professor he gives you a case everybody
+01:06:04.799 has to read it before the class you
+01:06:06.299 assume everybody's read it it's usually
+01:06:07.920 a very interesting case on a topic based
+01:06:10.680 on what the class is and they have you
+01:06:12.299 know millions of cases and then the
+01:06:14.640 professor
+01:06:15.720 has a road map of what he or she wants
+01:06:18.660 to get out of that discussion but he
+01:06:20.520 pushes different members of the class
+01:06:22.220 and because it's a very diverse class
+01:06:24.780 like for example on a case where you're
+01:06:27.359 talking about Disney the media company
+01:06:29.119 there was a girl who was a child actress
+01:06:32.579 who became a very successful child
+01:06:35.039 actress and then a media executive
+01:06:37.200 and then came to Harvard Business School
+01:06:38.940 and had an interesting perspective to
+01:06:40.740 share
+01:06:41.579 with the rest of the class and likewise
+01:06:43.500 on other topics that's to me I learned a
+01:06:46.680 lot more what was most valuable was it
+01:06:49.799 the network the classmates and what you
+01:06:52.680 learned of them or was it the teaching
+01:06:55.079 staff like for him it would be different
+01:06:58.559 than for what it would be for a normal
+01:07:01.740 person
+01:07:03.299 no I I disagree no no but because the
+01:07:06.000 normal person is going there for an
+01:07:07.500 intent to eventually get a very high
+01:07:10.200 paying job in Harvard I don't think I
+01:07:12.180 don't think no I don't think so no that
+01:07:14.160 wouldn't necessarily be there I think
+01:07:15.599 that uh that's normally a given by the
+01:07:18.299 time I think that for most people
+01:07:21.059 they already have some form of
+01:07:24.240 reasonable paying job before they come
+01:07:26.220 for an MBA because in the U.S unlike in
+01:07:28.440 India you don't do an MBA right after
+01:07:30.299 your undergrad it's usually anywhere
+01:07:31.859 from three to six years of work
+01:07:33.359 experience and because the school is so
+01:07:35.940 selective these folks tend to have gone
+01:07:38.520 to iits or you know very good schools
+01:07:43.099 so the intent is to go
+01:07:47.280 to up level yourself into being a
+01:07:49.859 business leader and to being a more
+01:07:53.700 well-rounded professional and person but
+01:07:56.039 so what I had heard and maybe you can
+01:07:58.799 correct me if I'm wrong
+01:08:00.859 the most sought after jobs after after
+01:08:03.839 somebody completes HPS or private Equity
+01:08:06.299 firms hedge funds uh Venture capitalism
+01:08:10.700 you're the youngest is a lot but you're
+01:08:12.720 10 years you're 10 years behind I would
+01:08:14.400 say I graduated six years ago and it had
+01:08:16.920 already started to change so what is it
+01:08:18.540 entrepreneurship uh
+01:08:21.000 software product management
+01:08:22.979 yeah you're you're hanging around too
+01:08:24.960 much with the investment bankers
+01:08:25.979 management of course there is a large
+01:08:28.620 cohort of people that are going into
+01:08:30.960 private Equity that are going into
+01:08:32.279 Investment Banking there is always you
+01:08:33.779 know those are important pillars but
+01:08:35.279 even there it's with an entrepreneurial
+01:08:36.420 mindset and there it's within most
+01:08:38.460 people do that as a hey none of that
+01:08:40.080 career mindset but so you are
+01:08:41.759 essentially saying that people are going
+01:08:44.100 into HPS to become entrepreneurs but if
+01:08:47.399 you see the people who are like I don't
+01:08:49.319 think we should single it out in an hist
+01:08:50.939 manner all of these kind of uh like you
+01:08:54.600 and nikhil mentioned I mean you became
+01:08:57.120 entrepreneurs because of who you were
+01:08:58.859 and not because of the education no no
+01:09:00.779 no no no not at all it was the same
+01:09:02.759 human emotions greed yeah hunger
+01:09:05.640 insecurity exactly and not because of a
+01:09:08.640 college education no no it's not an
+01:09:11.100 education as much as is that it's an
+01:09:13.259 immersion into a pool of very
+01:09:16.140 interesting people and you go as a
+01:09:18.238 sponsor the question I was asking you is
+01:09:20.460 that your biggest takeaway from that
+01:09:22.080 hands down as a leader you need to be a
+01:09:24.660 great Catalyst and I think what you just
+01:09:26.279 defined is the network is a phenomenal
+01:09:28.738 Catalyst you know their ability too and
+01:09:30.479 you know coming back to we were talking
+01:09:32.339 about kotak being a a a large company
+01:09:35.359 and we're very small if we compare to
+01:09:38.460 truly large companies uh you know around
+01:09:40.979 the world and one of the things I see
+01:09:43.560 looking at that and looking at us and
+01:09:45.779 larger companies is that
+01:09:47.698 the skill sets you need is so much more
+01:09:50.580 about people managing people leadership
+01:09:54.000 motivation uh and I can say that just
+01:09:56.940 from the outside and I've interacted
+01:09:58.739 with many people but I've interacted
+01:10:00.480 with them for 10 and 15 years and the
+01:10:02.640 continuity of that culture that is there
+01:10:05.100 right comes from somebody being a
+01:10:07.620 phenomenal Catalyst that is therefore
+01:10:09.960 sprouted enough owners within an
+01:10:12.480 organization so there's an interesting
+01:10:14.160 question for the two of you if
+01:10:17.040 the biggest USB of colleges I will I
+01:10:20.760 let's not pick on Harvard let's say IV
+01:10:22.620 colleges in the US for example Ivy
+01:10:25.080 League colleges
+01:10:26.340 is the network the connections all of
+01:10:29.580 that
+01:10:30.480 occur there can attack where you learn
+01:10:35.219 through a medium without human
+01:10:37.320 interaction with your peers in a way
+01:10:39.360 ever truly compete with that
+01:10:41.880 the vision for us is to be inclusive the
+01:10:45.060 vision there is to be exclusive so the
+01:10:47.820 two different tracks
+01:10:49.580 it's a much larger experience for a
+01:10:52.380 larger set of people but do you think
+01:10:54.659 larger I mean much larger but do you
+01:10:56.640 think this can compete with that so let
+01:10:58.800 me let me just give you an example
+01:11:01.440 so we have products for people ranging
+01:11:04.560 from 17 year olds to 29 30 year olds
+01:11:07.020 there is this examination people prepare
+01:11:08.699 for called neat PG if you became a
+01:11:10.860 doctor and you want to do your
+01:11:11.820 postgraduate post graduation
+01:11:14.640 um and get your md Etc you give this
+01:11:16.500 neat PJ examination
+01:11:18.600 now
+01:11:19.679 the younger you are you need more
+01:11:22.620 coaching you need more intervention you
+01:11:24.300 need somebody to call you and tell you
+01:11:25.800 please study you need more discipline
+01:11:30.080 market share the problem there is people
+01:11:32.520 say we don't need offline coaching
+01:11:34.140 centers and even if you give them great
+01:11:37.800 content but boring content
+01:11:40.080 they will open the app because they
+01:11:42.480 intent so high they will study it
+01:11:44.580 without even building social
+01:11:46.860 interactions
+01:11:48.300 so if your question is on whether this
+01:11:51.719 can be done
+01:11:52.860 that you don't need let's say without a
+01:11:55.260 network Etc can you build that that
+01:11:57.480 depends on how much Intel what are you
+01:11:59.820 building
+01:12:01.260 at this point
+01:12:03.420 the government of India has or even some
+01:12:06.540 private institutions have these
+01:12:08.699 tournaments if you crack these
+01:12:10.440 tournaments uh your life changes we are
+01:12:13.380 coaches of that tournament now
+01:12:15.600 and and no I'm I'm totally with you up
+01:12:18.179 until here whether you need to compete I
+01:12:21.719 think it and that was your real question
+01:12:23.880 the firstly I'm saying let's say let's
+01:12:26.400 say education
+01:12:27.960 is a priority is a precursor to having a
+01:12:31.860 certain kind of individual a certain
+01:12:34.199 kind of 30 year old man for example
+01:12:35.940 which is also changing yeah that's also
+01:12:38.280 true yeah yeah there's no longer that
+01:12:40.739 formal context has not got the same
+01:12:42.420 weightage that it had before I
+01:12:45.020 agreement that you mean the degrees Etc
+01:12:47.820 yeah part of that is experience part of
+01:12:50.219 that is
+01:12:51.360 for the lack of a better word somebody's
+01:12:53.940 motivation to learn on their own so I
+01:12:55.980 think many skill sets today to be job
+01:12:57.540 ready yeah very different yeah but do
+01:13:00.120 you think
+01:13:01.860 a person who takes this medium
+01:13:05.340 I'm talking about using upgrad using an
+01:13:07.980 academy clearing a certain exam uh
+01:13:12.300 if education was online if the
+01:13:15.000 distribution of Education they're not
+01:13:16.620 going to a college eventually they're
+01:13:18.360 consuming all of the education online
+01:13:20.580 through a medium through a device can
+01:13:23.460 that compete or compare with real life
+01:13:26.159 education if I'm competing in terms of
+01:13:28.140 outcomes and I just want to say that
+01:13:29.520 what am I competing on if I'm competing
+01:13:31.140 in terms of final outcome report card
+01:13:33.300 being outcome absolutely right
+01:13:35.280 absolutely because you're visualizing a
+01:13:37.260 brick and mortar space and and I'm
+01:13:39.900 visualizing a a surreal space and if I
+01:13:43.440 and people who operate in all spaces
+01:13:45.179 today yeah I think the outcome I'm
+01:13:46.679 looking for is not necessarily Mark's
+01:13:48.659 card do you do you have you it's not
+01:13:50.340 necessarily Mark Scott yeah it's success
+01:13:52.500 in life yeah absolutely and and if your
+01:13:55.199 question is more about online do you
+01:13:57.360 know about Roblox
+01:13:59.400 so there is an app called Roblox in us
+01:14:02.360 every kid between 6 to 16.
+01:14:06.380 like one in every three kids spend more
+01:14:09.540 than two hours on the app so it's a
+01:14:11.520 metaverse gaming metaverse where you can
+01:14:13.199 play games with your friends Etc
+01:14:15.480 that is now replacing some of the
+01:14:18.120 offline experiences so you can go to an
+01:14:21.060 amusement park with your friends and
+01:14:22.920 it's a mobile app it's not a VR headset
+01:14:24.900 you can go to an amusement park with
+01:14:27.780 five of your friends have social
+01:14:29.699 interactions and then there are these
+01:14:31.739 game developers which are building
+01:14:32.940 experiences
+01:14:34.260 so my belief is that if you have
+01:14:38.100 built that or what Minecraft has done if
+01:14:41.040 you have built those kind of experiences
+01:14:42.900 and you are seeing kids addicted to
+01:14:45.480 those experiences and they are doing
+01:14:46.980 experiences online it's actually
+01:14:48.900 interesting I saw this on an Elon Musk
+01:14:50.820 interview he said it's easy to get kids
+01:14:54.000 to play video games the question is can
+01:14:56.940 you tweak the video games just enough
+01:15:09.020 the reason why that's a great learning
+01:15:12.120 medium is you don't need an intermediary
+01:15:13.679 you don't need that one pontiff you
+01:15:15.900 don't need somebody on the pulpit right
+01:15:17.580 and then Roblox is exactly peer-to-peer
+01:15:19.739 yeah a game developer developed a
+01:15:21.900 chemistry lab experience that if you mix
+01:15:23.640 these two things a reaction will happen
+01:15:25.440 you go there with five of your friends
+01:15:27.600 and you are doing experiences you can
+01:15:29.940 also collect virtual selfies Etc and
+01:15:32.100 you're posting there so I think like
+01:15:34.500 that will happen and if you have to
+01:15:36.659 crack online education you won't say
+01:15:38.219 that I will have boring content is that
+01:15:40.380 the next big thing in online education
+01:15:42.060 make it big there is no big things in
+01:15:44.219 life you have to make them big so the
+01:15:45.900 next thing
+01:15:47.179 I mean this is
+01:15:49.400 consistent yeah I'm telling you that
+01:15:53.400 it's not about whether it's time is
+01:15:54.960 arrived you're gonna make its time
+01:15:56.040 arrive from that perspective and it's
+01:15:57.960 absolutely ready to be there so if I'm
+01:16:00.480 uh so the only thing about thing is
+01:16:02.219 acceptance or open-mindedness when you
+01:16:04.080 look at these two things and I think yes
+01:16:06.120 and and my belief is that you have to
+01:16:08.040 make some
+01:16:10.199 you know I wrote this blog post long
+01:16:12.120 back about
+01:16:13.560 good addiction products like how some of
+01:16:16.260 the best minds of the world are working
+01:16:17.640 on GTA or FIFA or you know making every
+01:16:21.000 experience or Instagram so addictive
+01:16:23.580 yeah but some of the best finds are not
+01:16:25.679 working on education being super
+01:16:28.199 addictive
+01:16:29.280 so once why is why is GTA FIFA Etc
+01:16:32.400 addictive and by the way that's recorded
+01:16:34.440 content so if you can make recorded
+01:16:36.540 content multiplayer so addictive you can
+01:16:38.820 do that with education why why is it
+01:16:40.380 addictive and why is education not what
+01:16:42.360 needs to change gamification like like
+01:16:44.640 if you you know there's this game called
+01:16:47.280 Jailbreak on Roblox
+01:16:48.960 simple game super simple Graphics but
+01:16:51.540 one is the social aspect element of it
+01:16:53.760 the second is the gamification element
+01:16:55.560 of it
+01:16:56.940 um if you read this book called
+01:16:58.080 actionable gamification it breaks down
+01:17:00.659 every single aspect of why you get
+01:17:02.520 addicted to a game
+01:17:04.739 you people play games that they win
+01:17:08.100 so today if they are sitting in a
+01:17:10.620 coaching Center where you don't even get
+01:17:13.679 entry to a best teacher's class because
+01:17:15.960 they say you are number hundred that
+01:17:18.480 won't work but if there is an AI app
+01:17:20.880 that says that so the AI app can
+01:17:23.699 actually say that Nicole you want to
+01:17:25.080 learn this it can real time generate a
+01:17:28.140 lesson for you by the way this is not
+01:17:30.060 happening but we have to make it happen
+01:17:32.340 and can start giving you questions so
+01:17:34.620 basically and they have to give you some
+01:17:36.120 positive reinforcement because if you
+01:17:37.920 start playing if FIFA only had
+01:17:40.020 world-class mode and then have a amateur
+01:17:43.199 mode you would never play FIFA that's
+01:17:45.360 right this is a sharp word but I think
+01:17:47.520 if you look at I mean I come from a
+01:17:49.320 media background so I think storytelling
+01:17:51.300 is a very important aspect of what Hooks
+01:17:54.179 you on right and I think I mean the very
+01:17:56.820 fact that that same narrative is coming
+01:17:58.380 there is because there's a storytelling
+01:17:59.940 element to that conference and that's
+01:18:01.980 why that's why some of our top Educators
+01:18:03.659 work absolutely if you see that that's
+01:18:05.400 the ability if you see their classes
+01:18:07.260 yeah
+01:18:08.340 um
+01:18:09.179 and I think when Jay gave the example of
+01:18:11.040 this young girl who came in she was a
+01:18:12.420 child artist and whatever else we look
+01:18:13.980 at that
+01:18:14.760 you know and it stuck with him yeah it
+01:18:16.679 stuck with him in that element of a
+01:18:18.239 storytelling and I think if you can
+01:18:19.679 bring that element to your learning and
+01:18:23.520 hold on to people's attention so I'm
+01:18:25.860 thinking like I'm thinking in the manner
+01:18:28.020 that a 24 year old starting a business
+01:18:30.540 and a tech would think today so I need
+01:18:33.480 to incorporate peer-to-peer
+01:18:35.600 gamify the experience in some manner and
+01:18:39.120 storytelling has to be a more integral
+01:18:40.980 part of it is
+01:18:43.159 a very important thing because all of
+01:18:45.239 this if you don't figure out therefore
+01:18:46.739 what's the end thing because what do you
+01:18:48.420 think the outcome should be see because
+01:18:49.500 in school there's a defined outcome
+01:18:51.000 either it's in March or you move from
+01:18:52.440 one standard to the other so there's a
+01:18:54.000 calendared event that's done there here
+01:18:56.340 you have to set your own benchmarks for
+01:18:58.620 that and it is road to to some sense of
+01:19:01.860 success entrepreneurship or job
+01:19:04.500 enablement to move forward in your
+01:19:06.840 career it's as simple as that yeah that
+01:19:08.640 definitely it's simple do you think our
+01:19:11.400 current benchmarks
+01:19:13.320 are not well placed to cope with the
+01:19:15.900 changes that are happening like
+01:19:17.820 education makes in my view I'll give you
+01:19:20.580 my experience of Education right
+01:19:22.800 I went to a terrible school I hated my
+01:19:25.260 school hated my teachers
+01:19:27.840 grew up being scared of things I should
+01:19:30.420 not have been scared of I was probably
+01:19:31.800 scared of my class class teacher this
+01:19:34.199 teacher that teacher
+01:19:36.480 stopped going to school beyond the 10th
+01:19:39.060 I didn't go I started working and stuff
+01:19:40.679 like that but
+01:19:42.600 what I remember of school is it taught
+01:19:47.040 me to be conformist
+01:19:49.920 in a manner where their idea of what I
+01:19:54.000 should be their idea of what I should
+01:19:56.280 learn
+01:19:57.179 their idea of what is required to get
+01:20:00.719 the outcome we just spoke about being
+01:20:02.520 job success entrepreneurship whatever
+01:20:06.179 that was met but that idea seems to be
+01:20:09.120 changing
+01:20:10.320 very quickly in the world I don't think
+01:20:12.719 you become successful 10 years from now
+01:20:15.719 by being conformist anymore
+01:20:18.420 so my my view on that is that the
+01:20:21.239 definition of school is also changing
+01:20:22.800 for example if you ask an 11th or 12th
+01:20:25.320 year 12th standard student
+01:20:27.600 especially if they're not preparing for
+01:20:29.699 test prep or if they are because of
+01:20:30.960 their parents had so if you truly ask
+01:20:32.699 them what they want to be
+01:20:34.800 being a YouTuber would be a like a lot
+01:20:38.040 of people would say they want to be a
+01:20:39.239 YouTuber yeah yeah and and why why does
+01:20:41.880 that work or a social media celebrity of
+01:20:44.040 some kind and I think that cycle is
+01:20:46.140 turning no no but why that works is you
+01:20:48.540 need to realize YouTube is sort of like
+01:20:50.100 a school with instant gratification and
+01:20:52.800 which is non-linear at school you could
+01:20:55.380 get x marks on YouTube If you crack
+01:20:57.900 something you can get like 500 000 marks
+01:21:00.900 in a way you know that those are the
+01:21:02.400 kind of views that we get so that's why
+01:21:04.560 I also start thinking that
+01:21:06.540 if people eventually want to play
+01:21:08.880 non-linear games
+01:21:10.860 these platforms that have opened up
+01:21:12.840 there there are 15 year old kids who are
+01:21:15.300 making games on Roblox there are there
+01:21:17.820 is a kit one of the most a YouTuber who
+01:21:21.179 owns fifth largest YouTuber in the world
+01:21:23.460 who earns the most money is a kid who
+01:21:25.380 reviews toys
+01:21:26.820 and he makes like 30 million dollars so
+01:21:29.100 what are you saying about education so
+01:21:30.780 we are saying school no what I'm saying
+01:21:32.400 teaches you to be too conformist so what
+01:21:34.380 what I'm saying is that YouTube in a way
+01:21:36.900 has become sort of like a parallel
+01:21:39.960 school right people might not start when
+01:21:42.480 they are in school you think that's the
+01:21:43.679 future more democratized peer-to-peer
+01:21:45.960 education I don't think schooling we
+01:21:47.460 should be in our lifetimes also forget
+01:21:49.860 mine
+01:21:51.020 it's not going to get disrupted to that
+01:21:53.760 level why and I'm and I'm not saying
+01:21:55.560 that will be if it does it'll be at that
+01:21:57.300 very top one percent I agree with it
+01:21:59.219 it's not going to get this I think and
+01:22:01.020 actually in some ways it shouldn't I
+01:22:03.360 agree with that it needs to be why
+01:22:05.699 because you need to layer you need to
+01:22:07.679 build on situation one of the reasons
+01:22:10.140 where I reached where I reached was
+01:22:12.000 because I found YouTube yeah I didn't
+01:22:15.060 crack any examinations yeah so if you if
+01:22:17.520 you see what are these tournaments
+01:22:20.520 one tournament is that in a traditional
+01:22:22.679 fence if you become good at physics
+01:22:24.239 chemistry maths and you crack that
+01:22:26.400 examination I think that's powerful but
+01:22:28.980 I couldn't I went to a college which had
+01:22:31.860 too much fees where the best job you
+01:22:34.020 could get was in one of these IIT
+01:22:35.460 services companies three and a half
+01:22:37.440 lakhs
+01:22:38.580 and there was no way I wanted to get
+01:22:40.560 that job not saying that's a bad job but
+01:22:42.540 that's not that was not for me so in a
+01:22:45.659 way
+01:22:46.679 and and this is why I think upgrad and
+01:22:50.280 higher ed needs to change
+01:22:58.560 how do you change that no okay if you if
+01:23:00.900 you didn't go to a good college how do
+01:23:02.460 you change that and I think YouTube is
+01:23:04.560 one way upgrade me if I can get a good
+01:23:07.440 degree and that gives me exposure that's
+01:23:09.960 one way so what I'm saying is that think
+01:23:13.380 of a kid who didn't crack let's say top
+01:23:16.320 three top three percent of kids get into
+01:23:18.239 these good colleges
+01:23:19.800 what about the 97 they go into these
+01:23:22.800 engineering colleges in let's say tier
+01:23:24.840 two tier three cities
+01:23:26.340 their job placement rate is two percent
+01:23:28.739 five percent ten percent
+01:23:32.280 so they their capability is there but
+01:23:35.640 they don't get the exposure
+01:23:37.500 but is that a problem that there are not
+01:23:39.840 enough jobs or is that a problem that
+01:23:42.060 they're not well enough educated both
+01:23:44.340 see education doesn't solve for exposure
+01:23:49.040 you know why people prepare for upsc
+01:23:51.480 examinations there is a friend of mine
+01:23:53.520 she gave the upsc examinations four to
+01:23:55.500 five times extremely smart friend
+01:23:58.140 I'm like you gave the examination five
+01:24:00.600 times why because of the predictability
+01:24:03.540 okay once I crack it I will get this
+01:24:07.620 wealth or this status or this
+01:24:09.600 credibility or my father would give me
+01:24:11.880 validation
+01:24:13.260 so at the end of the day
+01:24:15.600 you know it take I mean it takes a lot
+01:24:17.940 of years for you to come out of the
+01:24:21.000 shell that was created for you Etc and
+01:24:22.800 you are always seeking that validation
+01:24:24.239 but and this is my question to all of
+01:24:27.179 you think of a kid and this is huge
+01:24:29.820 chunk of our population the kid does not
+01:24:32.100 crack a good examination the kid goes to
+01:24:34.739 a average college
+01:24:37.260 the college does not give get the kid a
+01:24:39.480 job what does he or she do but that's
+01:24:42.120 changing in many ways I feel like one
+01:24:44.820 more light because I think people look
+01:24:46.080 at a broad topic like we are about
+01:24:47.760 changing a job it's quite Universal and
+01:24:50.880 we won't draw the best examples and
+01:24:52.920 inspiration for the people who are kind
+01:24:55.260 of listening to this unless we take a
+01:24:56.640 little bit more of a Global Perspective
+01:24:57.960 without being just completely Global
+01:24:59.400 correct and Global does not mean the U.S
+01:25:01.199 because
+01:25:02.100 Africa Vietnam some other markets like
+01:25:06.000 that very very very unique and different
+01:25:07.920 but if you take the cluster of all of
+01:25:09.659 that together you'll actually find some
+01:25:12.600 very clear parallels that actually can
+01:25:15.300 make you give you so I think I just
+01:25:16.679 wanted to put that into perspective that
+01:25:18.960 some of the challenges on a Country-Wide
+01:25:21.060 basis is not going to be able to solve
+01:25:22.739 but if you put a lot of those
+01:25:24.000 perspectives you can have a bigger
+01:25:25.679 solution and then it'll start applying
+01:25:27.420 to a lot of stuff yeah I'm going to keep
+01:25:28.739 everything a little more concise mindful
+01:25:30.659 of time but I would like to you know
+01:25:34.080 maybe add here that today companies like
+01:25:36.600 Facebook Google Tesla even us here in
+01:25:40.199 India
+01:25:41.219 we don't care about educational
+01:25:43.440 qualification in the manner that once we
+01:25:45.719 once did yeah like we don't ask for
+01:25:47.880 people to tell us what qualification
+01:25:49.199 they have I have not hired anybody ever
+01:25:51.659 looking at their degree in their mouth I
+01:25:54.060 think that's a sliver at the top in more
+01:25:56.460 evolved parts of our job ecosystem I
+01:25:59.340 think the moment you go one level down
+01:26:00.719 you being an IIs officer or being an IIT
+01:26:03.060 grad absolutely matters but I have a
+01:26:05.639 separate question
+01:26:07.199 if the system was good and the test was
+01:26:10.500 meritocratic in the right set of ways
+01:26:13.199 and everybody had equal opportunity
+01:26:15.780 what's wrong with the test
+01:26:18.000 or a way that kind of
+01:26:21.360 tells folks who are looking to hire that
+01:26:24.360 from this pool this is the most capable
+01:26:26.880 I agree it's not where it is right now
+01:26:28.620 and that's where you know a lot of
+01:26:29.760 that's all has to do but I think the
+01:26:31.679 test is good I'm talking about folks
+01:26:34.080 yeah but capable is the key word so I
+01:26:36.480 think you know today more and more we
+01:26:39.360 are now hard driving those ones what is
+01:26:42.239 capability what is Readiness what is
+01:26:44.100 whatever else what are you at the cusp
+01:26:46.620 of so I think that all those are
+01:26:48.780 changing which is why I still believe
+01:26:49.980 there are some fundamental things that
+01:26:51.960 need to be built on but yeah just for
+01:26:56.100 the sake of disrupt everybody creates a
+01:26:57.900 little bit more chaos what skill set do
+01:26:59.639 you need to Ace these tests
+01:27:02.280 and is that relevant to you doing the
+01:27:05.340 job excuse for us here it's very
+01:27:07.739 sophisticated word I mean I call them
+01:27:09.179 super skills and I don't even call them
+01:27:10.739 soft skills yeah because I just realized
+01:27:12.659 as a marketing person that as soon as
+01:27:14.940 you add shaktimaan to something then
+01:27:16.620 there's a little bit more attention
+01:27:17.820 right so you say super skills versus
+01:27:19.320 soft skills obvious sounds very soft
+01:27:21.239 yeah super sounds I've already like more
+01:27:23.699 important situation the soft skills yeah
+01:27:26.340 the higher up you go in terms of
+01:27:29.420 metaphorically the success ladder which
+01:27:31.560 is a crude way of putting it soft skills
+01:27:34.080 becomes more important indeed super
+01:27:35.400 skills but you are a product of soft
+01:27:36.659 skills yeah I'm a product of soft skills
+01:27:38.820 what does that mean otherwise after 10
+01:27:41.219 standard if you haven't done it what
+01:27:42.659 else would have got you through life it
+01:27:44.760 is your it is those soft skills it is
+01:27:47.159 that super skills that you manage to
+01:27:49.020 build on to that start with it whatever
+01:27:51.120 else through a background through a
+01:27:52.800 financial whatever else and you built on
+01:27:54.780 it no matter but don't do this
+01:27:56.340 realizing it civilizing the issue to
+01:27:58.800 like for example or shining the light on
+01:28:01.139 it okay I mean yes I mean trivializing
+01:28:04.020 it by saying is it so simple yeah we are
+01:28:06.960 but I think when you really find big
+01:28:08.940 Solutions when you simplified not when
+01:28:10.440 you complicate it I agree things like
+01:28:12.179 empathy things like leadership are and
+01:28:16.320 the ability to kind of
+01:28:18.480 be with seven people that have different
+01:28:20.460 backgrounds and Lead that team or you
+01:28:22.260 know figure out what motivates who is a
+01:28:24.840 very different skill than solving an
+01:28:27.480 extremely complicated alphanumeric five
+01:28:29.340 years back if I was looking to back a
+01:28:31.199 founder of hire somebody which is as a
+01:28:33.600 partner with me I would say problem
+01:28:35.280 solving skills is important today I'm
+01:28:37.199 saying spot the problem before you can
+01:28:39.000 solve it because I'm not looking for
+01:28:40.260 problem solvers anymore right I'm
+01:28:41.880 talking about problems spotters I'm
+01:28:43.260 looking for the guy who looks around the
+01:28:44.580 Ben and sees is the train going to hit
+01:28:45.960 me or the truck going to hit me right
+01:28:47.400 and not somebody's going to solve it
+01:28:48.900 because even that time and density we
+01:28:51.719 don't have right it makes sense see if I
+01:28:53.699 take a simplistic View
+01:28:55.679 my belief is that
+01:28:58.020 everyone is collecting these Badges and
+01:29:00.659 these credentials which is what
+01:29:02.400 education is about
+01:29:04.260 now
+01:29:05.340 if somebody takes an online degree from
+01:29:08.280 upgrad
+01:29:09.840 degree
+01:29:11.219 that's a badge because some like like I
+01:29:13.980 was talking to a SVP of mine and his
+01:29:17.340 wife had taken an upgrad course
+01:29:19.860 I asked him why did she take that
+01:29:23.719 she said he said that for her the moment
+01:29:27.239 she put that on her LinkedIn profile
+01:29:30.000 suddenly she started getting more
+01:29:31.800 requests
+01:29:33.060 so in a way what test prep is also doing
+01:29:36.000 is you're collecting these badges
+01:29:40.800 I have this degree I went to this
+01:29:42.840 college or I have so many subscribers so
+01:29:46.139 or I built this game which was played by
+01:29:48.900 so many people
+01:29:50.280 in a way I like to think that that's
+01:29:52.260 what education is becoming about on how
+01:29:55.080 and and then you can say that
+01:29:58.080 our system currently is limited
+01:30:00.739 available but
+01:30:03.840 what online can solve foreign
+01:30:08.659 is not that different it is an inclusive
+01:30:11.219 medium because
+01:30:12.900 exclusive is a problem here I have to
+01:30:15.540 get a test prep to get into IIT exactly
+01:30:18.060 perfectly fine phenomenal world out
+01:30:20.159 there but hello with 10 billion people
+01:30:22.800 in the world right now 8 billion going
+01:30:24.540 to 10 billion people right so obviously
+01:30:27.060 that opportunity of being very
+01:30:28.440 Democratic on what we want to do is
+01:30:30.000 gonna happen it's gonna have to change
+01:30:31.440 quite radically I think education has to
+01:30:33.840 solve for so one part of it is the badge
+01:30:36.300 gets you into the room with the
+01:30:37.679 recruiter and the HR and then you know
+01:30:39.300 the job
+01:30:40.380 the far bigger challenge is once you're
+01:30:42.600 in the job how are you good at it are
+01:30:44.820 you good at it because there's only so
+01:30:46.860 much that you can you know I think I
+01:30:48.900 think I think the opposite is true I
+01:30:50.880 think today getting into the room is a
+01:30:53.100 bigger challenge people are still there
+01:30:54.719 are like if if like for example nikhil
+01:30:57.480 said that they don't look at the IIT tag
+01:30:59.520 if you don't look at that tag there are
+01:31:01.380 still great people a bigger challenge
+01:31:02.880 for who and when sure for 20 for 18 to
+01:31:06.179 23 year olds probably and yes it is a
+01:31:08.580 challenge because there are not that
+01:31:09.960 many jobs which is a separate problem to
+01:31:12.420 solve but being good at something
+01:31:14.940 anything
+01:31:16.320 is very important and education should
+01:31:18.600 be solving for
+01:31:20.580 how to make people passionate about
+01:31:22.860 things without using the word education
+01:31:24.960 because again you get back into a little
+01:31:26.340 bit
+01:31:27.139 yeah it's very unstructured that's not a
+01:31:31.020 education issue that's a motivation
+01:31:33.120 issue
+01:31:44.120 you do need you do need that prompt you
+01:31:47.040 need the prompt sheet you need that from
+01:31:48.659 sheet you need that hack you need that
+01:31:50.460 element my belief is and we we can agree
+01:31:53.940 to disagree here instead of Bottoms Up
+01:31:56.699 the top-down approach works
+01:31:58.620 and that's how people think for example
+01:32:00.840 for that
+01:32:02.100 um person who bought that upgrad course
+01:32:03.900 it was like I want a job and this
+01:32:06.840 particular product helps me get more
+01:32:09.239 exposure so I think it starts from the
+01:32:11.639 fact
+01:32:14.600 that's why I want to crack an IIT
+01:32:17.340 examination and that's why if you I I
+01:32:20.400 was on a flight and I was seeing you
+01:32:22.679 know Indigo or vistara magazine
+01:32:25.739 every single College ad now had
+01:32:28.440 placements with amount of packages
+01:32:31.380 people were getting yeah because I think
+01:32:33.659 is
+01:32:37.860 because I'll I like to believe that it's
+01:32:40.860 not oversimplication but it's the
+01:32:42.780 reality okay
+01:32:44.460 if you say that you will get X after
+01:32:47.520 doing y
+01:32:48.840 then people are more motivated so I
+01:32:51.179 don't think it's a education issue I
+01:32:53.280 think it's a motivation issue
+01:32:55.320 yeah and it's not maybe it's not an
+01:32:56.880 either all so I don't think it's about
+01:32:57.900 us disagreeing or agreeing in that
+01:32:59.400 context because it's such a it's such a
+01:33:01.800 massive Challenge and such a massive
+01:33:03.239 opportunity frankly but but do you think
+01:33:05.940 that would anybody learn anything for
+01:33:08.100 the sake of learning for example yeah
+01:33:09.900 yes yeah
+01:33:12.139 that's myopic I think maybe absolutely
+01:33:14.520 Society has kind of conditioned us into
+01:33:16.560 that but can I tell you like personal
+01:33:18.239 example
+01:33:20.159 my initial phase of learning was based
+01:33:22.500 out of insecurity
+01:33:23.940 I didn't go to school I didn't go to 11
+01:33:25.860 standard 12th standard all my classmates
+01:33:28.560 did
+01:33:29.699 that insecurity drove me to learn but
+01:33:32.639 another selection by SPS see where there
+01:33:34.800 is also a lot of selection biases
+01:33:37.760 we talk about any product that has no
+01:33:40.860 not selection bias but where I'm getting
+01:33:42.659 to today is
+01:33:43.920 I've stopped reading the kind of stuff
+01:33:46.080 that I read back then which will help me
+01:33:48.239 be better at a job yeah and today I keep
+01:33:50.520 reading about history and psychology and
+01:33:53.100 philosophy and these things I do not for
+01:33:55.739 a job this is just because I find them
+01:33:58.500 but I think that stuff does help you be
+01:34:00.840 wetter yeah in life and job is part of
+01:34:03.600 life yeah in terms of identifying you
+01:34:05.400 just want to be more rounded every
+01:34:07.440 single day of your life to simplify it I
+01:34:10.440 read it because I enjoy it but
+01:34:13.260 but again I would say that's like a very
+01:34:15.960 very small subset of the population but
+01:34:18.780 I think more more of the population has
+01:34:20.820 to move there and yeah
+01:34:24.179 that I agree that how do we because
+01:34:26.159 otherwise we'll get stuck at the entry
+01:34:27.780 gate yes we're not at the Gate of Heaven
+01:34:29.520 yeah we're going to try and experience
+01:34:31.139 the whole thing so all I would say is
+01:34:32.820 you're right at the entry gate but
+01:34:34.920 there's much more than the entry gate
+01:34:36.360 and I think we might be all saying the
+01:34:38.219 same thing but at different positions
+01:34:40.080 the root of this is at some level
+01:34:41.760 something you said maybe five minutes
+01:34:42.960 earlier but you said education and
+01:34:44.280 exposure are different
+01:34:45.900 to me I think if I think about education
+01:34:48.900 as a lifelong process exposure is an
+01:34:51.780 integral part of Education that becomes
+01:34:53.760 a larger piece of that pie it just
+01:34:56.040 depends on what the context of education
+01:34:57.840 is here if we're talking about education
+01:34:59.460 in the context of
+01:35:01.020 companies solving for a piece of the
+01:35:03.900 value chain to make profit then it's
+01:35:05.760 probably a different education than a
+01:35:07.440 you know more abstract idea
+01:35:10.080 yeah I mean this conversation we are
+01:35:12.000 having is a is a learning curve of some
+01:35:14.280 way I mean I I keep being not wanting to
+01:35:17.100 use the word education because the
+01:35:19.260 perception comes back into a little bit
+01:35:20.760 about formal structure part exactly yeah
+01:35:22.800 and and I get two hours if I can pick up
+01:35:25.620 three nuggets and go away I'm not gonna
+01:35:27.179 remember the whole two hours of the
+01:35:28.380 conversation
+01:35:30.120 like digress this conversation into
+01:35:32.340 another place altogether
+01:35:34.080 let's say
+01:35:35.820 the world evolves
+01:35:37.679 tomorrow
+01:35:39.179 a lot of the jobs get replaced by
+01:35:41.520 computers and so on and so forth
+01:35:44.280 there are not enough jobs in the world
+01:35:47.340 to immaterial of house kill the person
+01:35:49.920 applying for the job is let's say that
+01:35:52.199 equilibrium is not met world
+01:35:55.159 transforms into some kind of
+01:35:58.739 socialism but by choice capitalism right
+01:36:03.179 like Thomas spaghetti spoke about donate
+01:36:05.699 economics where we're in Equanimity with
+01:36:08.400 nature in a way growth for the sake of
+01:36:10.380 growth is not good let's say Universal
+01:36:12.120 basic income is there yeah Ubi is there
+01:36:14.580 people are getting paid
+01:36:16.620 people to not then have global warming
+01:36:18.960 will come in sooner than that one if you
+01:36:21.120 ask me here I I personally uh like I
+01:36:24.840 know a lot of people are very critical
+01:36:26.280 of global warming like we have a big fun
+01:36:28.620 rain matter climate we do a lot of uh
+01:36:31.739 work around climate change
+01:36:33.960 I tend to be more sanguine about it
+01:36:36.840 in many ways when I look at the world
+01:36:38.880 today I feel we are the luckiest we have
+01:36:42.659 the best version of the world any of our
+01:36:45.360 ancestors ever did we live for 40 years
+01:36:48.600 longer than we lived 100 years ago we
+01:36:51.239 didn't have to see world wars we didn't
+01:36:53.040 have to see racism we didn't have to see
+01:36:55.980 uh disease malnutrition all of this in
+01:36:59.400 the manner that our predecessors had to
+01:37:02.520 uh so sure global warming is a problem
+01:37:04.920 we have to work on it we have to like
+01:37:06.780 you know work on negating the effects of
+01:37:09.719 climate change
+01:37:11.040 but
+01:37:12.860 notwithstanding that
+01:37:15.000 I think in the future if Ubi were to
+01:37:17.400 come in
+01:37:18.960 I feel the kind of learning that we are
+01:37:21.360 talking about will become the only kind
+01:37:23.460 of learning where people choose to learn
+01:37:25.679 a certain thing because they want to
+01:37:28.380 learn it totally I agree yeah yeah and
+01:37:30.179 to get on with what they want to do with
+01:37:31.620 life absolutely and that that to me is
+01:37:33.600 the is the fun part of it it's a
+01:37:35.580 limitless and this is living like if you
+01:37:38.820 go back 2000 years ago
+01:37:40.800 philosophy was not something
+01:37:43.560 people spent like a ancillary subject
+01:37:46.139 like the Greek way of living philosopher
+01:37:48.480 today's Turning inwards is giving you a
+01:37:50.880 much different depth and that's why I'm
+01:37:52.560 saying therefore let's not Tinker with
+01:37:54.480 the opening part of what we keep saying
+01:37:57.360 that all of this can only happen if you
+01:37:58.980 go back to the foundation yeah sure yes
+01:38:01.380 of course we can teach sex education
+01:38:03.300 better in school we can teach
+01:38:05.340 entrepreneurship we can teach
+01:38:06.659 competitive virtue of where the world is
+01:38:08.520 going maybe sex education yeah suddenly
+01:38:11.040 has become
+01:38:12.600 a very meta thing we need people to have
+01:38:14.820 more kids all over again so yeah we're
+01:38:16.679 doing pragmatic again maybe sex
+01:38:19.199 education
+01:38:20.420 look at that that context where you're
+01:38:22.860 moving in because of your other
+01:38:24.060 exposures in life and that's why I was
+01:38:26.100 saying there's a certain cost to an
+01:38:28.260 event let that be there because it's
+01:38:30.719 evolving in itself but I think the
+01:38:32.820 important part that we brought up here
+01:38:34.199 also was are there going to be that many
+01:38:36.120 jobs and therefore what's everyone's
+01:38:37.440 doing in this entire space to be able to
+01:38:39.300 do that and water does find its level of
+01:38:42.600 course it goes through troughs in many
+01:38:44.760 ways but water does find its own level
+01:38:46.500 in many ways hopefully I wouldn't say
+01:38:49.739 hopefully that's the wrong word for it
+01:38:51.840 likely there would also be lesser people
+01:38:54.420 in the future I think the value of
+01:38:56.639 everything formal I wouldn't be able to
+01:38:58.800 survive and create opportunities but
+01:39:00.480 because I'm gonna have this informal
+01:39:02.520 approach to a situation the more
+01:39:04.320 likelihood I'm going to succeed in an
+01:39:06.120 environment which is fragile yeah and
+01:39:08.639 unpredictable because actually today
+01:39:10.199 what I think the next 100 years is going
+01:39:13.080 to face is much more fragility much more
+01:39:15.480 uncertainty I'm not sure as a student of
+01:39:18.239 History
+01:39:19.320 um I think that there's enough
+01:39:20.520 historical Parables to say that this is
+01:39:22.679 indeed what is happening but I my
+01:39:24.179 personal instinct is I believe in
+01:39:25.620 capitalism I believe in our ability to
+01:39:28.199 solve problems in the context that I
+01:39:29.940 actually don't think either
+01:39:32.159 we're going to run out of jobs yeah
+01:39:34.260 because I think that for every job that
+01:39:36.060 gets taken away for sure new jobs are
+01:39:38.040 coming and it's been happening for the
+01:39:39.300 past 100 years was more that extremes of
+01:39:42.060 extreme negative extreme positives may
+01:39:44.159 become a little bit more polarization
+01:39:46.020 may happen to a a larger extent but I
+01:39:48.659 fully agree I'm not a pessimist on the
+01:39:51.060 fact that we're going to run out of jobs
+01:39:52.260 also on climate change which is the one
+01:39:54.300 that maybe we disagree yeah I think yes
+01:39:56.400 there will there will be an impact yeah
+01:39:58.139 I think we all agree on science and all
+01:40:00.300 of that but we will solve when it
+01:40:03.179 becomes okay there is precedent for that
+01:40:06.060 right like we solved the ozone layer
+01:40:07.739 issue yeah the world together did we
+01:40:09.780 yeah yeah
+01:40:11.219 you remember like 10 years ago everybody
+01:40:13.020 was like ozone ozone ozone layer hole in
+01:40:15.120 the ozone layer nobody talks about it
+01:40:16.620 more than our control because we were
+01:40:18.780 creating it and therefore we could
+01:40:19.980 control it couldn't you also argue
+01:40:21.659 climate change we're creating yeah it
+01:40:23.340 can it could it could but it's a little
+01:40:26.340 bit in that space But I think what will
+01:40:28.920 happen before this climate change
+01:40:32.120 inevitability that a lot of people
+01:40:34.080 prophesize is I think jio engineering
+01:40:37.920 will become such a big field in itself
+01:40:39.780 like if we were to like very simply talk
+01:40:42.780 about climate change right Sun hits
+01:40:44.460 Earth its surface reflects a certain
+01:40:46.739 kind of heat pack yeah it gets trapped
+01:40:49.139 in the atmosphere Albedo effect
+01:40:51.360 based on what gases are in the
+01:40:53.100 atmosphere that much heat does not go
+01:40:54.659 out but things like adding sulfur into
+01:40:58.560 the stratosphere technology around
+01:41:01.199 covering the ice caps with some form of
+01:41:03.780 limestone
+01:41:04.940 geoengineering in itself
+01:41:07.440 like everything else like if you've been
+01:41:09.239 resilient as humans for hundreds of
+01:41:11.460 thousands of years I don't see why in
+01:41:15.480 that minute 67 years that we are around
+01:41:18.179 will the world collapse in front of my
+01:41:20.400 eyes mathematically the odds of that to
+01:41:22.800 me are meniscus collapse maybe not
+01:41:25.260 deteriorate could be but the world's
+01:41:27.900 always changing yeah I agree I agree did
+01:41:31.380 you do it as a very relative world like
+01:41:33.300 if you talk about relative to the
+01:41:35.400 previous hundred years we should be
+01:41:36.900 happy with where they are now yeah and
+01:41:39.119 hopefully 100 years down the line we are
+01:41:40.920 there and we're coming back to a topic
+01:41:42.780 that we were talking here I'm saying
+01:41:44.280 therefore in that environment it's even
+01:41:46.860 more that you need that flexibility
+01:41:48.480 versus the formality of it yeah so what
+01:41:51.000 we are saying to summarize the last bit
+01:41:53.040 of our conversation
+01:41:55.380 what needs to change about education or
+01:41:58.320 what people looking to build around
+01:42:00.719 education need to bear in mind
+01:42:03.320 is the near future
+01:42:06.360 could be a time of increased
+01:42:08.940 gamification
+01:42:11.880 changing
+01:42:13.980 not replacing the bricks of Education if
+01:42:17.880 we were to consider it a wall
+01:42:19.920 but a lot of tweaking of the bricks to
+01:42:22.800 make it less conformist in the manner
+01:42:26.520 where your ability to regurgitate
+01:42:29.340 information is not as valuable as it was
+01:42:31.619 20 years ago that change will likely
+01:42:34.020 happen and people need to bear that in
+01:42:35.639 mind
+01:42:36.659 and another point you brought up
+01:42:38.760 if peer-to-peer will become increasingly
+01:42:41.639 relevant like Jay also said going to
+01:42:45.420 Harvard is as much about the other
+01:42:47.639 people who went with him to Harvard then
+01:42:50.400 it is about syllabus teachers teaching
+01:42:54.300 stuff yeah in the interest of time
+01:42:56.820 moving on you brought up by juice for a
+01:42:59.580 second would you like to because it's
+01:43:01.320 all over the news if you guys have an
+01:43:03.480 opinion like would love to hear it since
+01:43:05.340 you're both in the space no I think I
+01:43:08.280 don't have a particular opinion on
+01:43:09.659 bedroom but I will make a more generic
+01:43:11.820 statement I think what has happened is
+01:43:14.219 that any new employee I'm interviewing
+01:43:16.260 any new investor who comes and talks to
+01:43:18.480 me there is this sort of negativity
+01:43:20.400 about edtech
+01:43:21.900 and the people who are in edtech know
+01:43:25.139 that it's a phenomenal sector
+01:43:27.179 I mean the kind of pools Revenue pools
+01:43:30.119 that it has whether it's in higher
+01:43:32.159 education or in test prep or in K-12
+01:43:34.080 it's amazing I mean I was giving you the
+01:43:36.600 example that the top 10 offline coaching
+01:43:39.780 centers of the country do 20 000 crores
+01:43:41.940 in Revenue annually
+01:43:43.679 but if you don't even go top 10 if you
+01:43:45.960 go localized
+01:43:47.280 in madhya Pradesh there is an exam
+01:43:49.679 called mppsc there is a coaching Center
+01:43:53.219 six or seven Institutes
+01:43:55.440 that help people prepare for that
+01:43:57.480 examination does 150 crores a year and
+01:44:00.840 there are hundreds of such examples so
+01:44:03.239 that Revenue pool exists offline you can
+01:44:05.760 bring that online similarly in higher
+01:44:07.739 education whether any kind of college
+01:44:10.080 that helps people getting get better
+01:44:12.420 skilled or get a better job there is a
+01:44:15.179 huge opportunity to disrupt don't take
+01:44:17.040 this from a perspective where
+01:44:20.580 somebody is comparing one company with
+01:44:22.739 another it is not about an academy it is
+01:44:28.639 where do you think as a cycle every
+01:44:32.280 stock every sector has Cycles so if you
+01:44:36.060 were to paint the cycle like this where
+01:44:38.100 do you think edtech is it right now very
+01:44:40.560 simple concise answer I think in covert
+01:44:42.480 we were at the peak and then uh last
+01:44:45.780 year I think at least for us we would
+01:44:48.000 say that we were going through a lot of
+01:44:49.920 tough times now we are climbing back up
+01:44:52.560 right now and and that's more an academy
+01:44:55.139 and I can't say for others but that's
+01:44:57.179 what we are yeah look there is no this
+01:45:00.600 at all because the opportunity and what
+01:45:04.080 the need is is absolutely massive the
+01:45:07.500 there's a Revolution going on in
+01:45:09.000 reskilling today there's a dire need for
+01:45:10.860 it it's like a Clarion fall in many ways
+01:45:13.560 so there's no opportunity for anything
+01:45:15.840 to go up and down here when we look at
+01:45:18.000 this up and down we only categorize it
+01:45:20.040 in terms of uh investment bankers or
+01:45:22.980 valuation which are so irrelevant
+01:45:24.780 capital is not going to change learning
+01:45:28.139 Skilling and and and ten times more
+01:45:30.960 Capital coming is not going to give you
+01:45:32.280 10 times fast result in fact it's going
+01:45:34.260 to slow the process stuff that because
+01:45:36.300 you don't need Capital to make the
+01:45:37.679 changes that you need to make not
+01:45:38.820 everything is about capital
+01:45:40.320 so I think Capital afford you
+01:45:42.960 larger
+01:45:45.000 distribution in a manner where you can
+01:45:47.040 reach more people no no I think like if
+01:45:49.560 you're not talking about zero Capital
+01:45:50.760 but I'm not talking about the capital
+01:45:52.020 that everyone thinks that that Capital
+01:45:53.520 if you throw at this is a this is an
+01:45:56.520 overall Have You Ever Raised money at
+01:45:58.080 upright yes we have raised money yeah
+01:46:00.300 but I'm saying the cap capital for most
+01:46:02.880 people sounds like if you're looking at
+01:46:04.739 such a large sector and since you're
+01:46:06.840 talking about your core group that will
+01:46:08.280 want to listen to this one go there one
+01:46:10.619 of the things I would say is you don't
+01:46:12.239 need to have that kind of capital to
+01:46:14.639 make the change in this sector and
+01:46:16.380 that's going to be the fun part of it
+01:46:17.580 because then it'll be longer lasting
+01:46:19.500 it'll be a lot more permanent right and
+01:46:22.739 I think the foundation will be even
+01:46:24.060 stronger what about physics voila right
+01:46:26.159 like what is he doing which is so
+01:46:28.139 different I hear so much about physics
+01:46:29.760 well have you heard of him so there is
+01:46:31.980 this guy who is not spending
+01:46:35.940 money
+01:46:37.500 in the same amount and extend as other
+01:46:40.380 attack players but is able to gather an
+01:46:44.159 audience a paying audience based on his
+01:46:47.460 popularity based on some say the quality
+01:46:50.520 of his
+01:46:51.659 teaching in physics or whatever like
+01:46:54.000 the other way to look at that is he
+01:46:55.739 built a business very frugally accepted
+01:46:58.199 that you don't need money on it and it's
+01:46:59.820 taken a fair bit of time to come to
+01:47:01.440 where he has and I think that's where
+01:47:03.119 the credit comes versus anything else
+01:47:05.159 because so you like him then yeah I like
+01:47:07.679 everybody who's an entrepreneur because
+01:47:09.360 yeah so bloody difficult to do anything
+01:47:11.520 in life so everyone needs incredible
+01:47:14.040 amount of respect
+01:47:15.600 and at the point in which you are
+01:47:17.280 obviously as you rightly said there'll
+01:47:18.780 be ups and downs but my question here is
+01:47:21.239 what he did write is not put Capital
+01:47:24.199 epicenter took a long-term View and the
+01:47:27.719 result you're seeing right now so if you
+01:47:29.639 go back for the last eight years and
+01:47:31.080 analyze that and you see that report
+01:47:32.699 card and you see somebody else's report
+01:47:34.920 card of a chess thumping moment or
+01:47:37.080 raising a billion dollars
+01:47:39.139 this thematically is true across you
+01:47:42.480 know
+01:47:43.500 mature companies newer companies
+01:47:46.380 folks they don't talk as much sometimes
+01:47:49.080 can quietly build something and when
+01:47:51.060 they come out it feels like it just
+01:47:52.920 happened it just happened and another
+01:47:54.420 part took link to something we said much
+01:47:56.460 earlier not fundraising immediately puts
+01:48:00.239 you outside of that uh you know media
+01:48:03.320 Spotlight and this Spotlight of oh wow I
+01:48:08.040 Am a Unicorn because I fundraised at a
+01:48:10.080 certain valuation and you know now I'm
+01:48:12.239 emotionally at that value you know
+01:48:13.860 valuation there's a lot of companies in
+01:48:16.320 India and around the world that are
+01:48:18.420 quiet
+01:48:19.800 and just to put this in the sector that
+01:48:22.139 Jay is in I mean you've seen that I mean
+01:48:24.780 you don't need to go into the startup
+01:48:26.100 world to do that you've seen banks have
+01:48:28.199 a different situation and how levels of
+01:48:30.719 corruption excess transparency have come
+01:48:33.480 in there just based on being funding so
+01:48:36.000 it's not an ecosystem here it's mature
+01:48:38.820 ecosystems like banking where you can
+01:48:40.500 have that highly regulated systems just
+01:48:43.080 remembered something since you're here
+01:48:44.340 what do you think of the new TCS on lrs
+01:48:49.260 I think it's complicated because at one
+01:48:52.619 level
+01:48:54.540 if we want the rupee to be competitor to
+01:48:58.260 the dollar to the Yuan we want to be
+01:49:02.760 free float as much as possible and you
+01:49:05.100 want to be Capital again you want to be
+01:49:06.960 completely convertible but
+01:49:09.000 it's very easy to say that can I ask you
+01:49:11.760 to prophesize if India were to become
+01:49:14.880 truly convertible Capital account
+01:49:16.800 convertible
+01:49:18.119 let's say lrs the money going out of the
+01:49:20.639 country is maybe 22 billion dollars
+01:49:22.920 let's make our assumption it's somewhere
+01:49:24.239 around that this year yeah
+01:49:26.460 do you think more money would go out or
+01:49:28.500 more money would come in I ask you this
+01:49:30.719 while I preface that every International
+01:49:34.380 Bank and investor I meet today wants to
+01:49:37.320 come to India money would come in money
+01:49:39.719 is coming in India is doing better I
+01:49:41.520 actually agree with you and to on on the
+01:49:44.580 uh lrs TCS point there is the real fact
+01:49:48.540 that this was a loophole the fact that
+01:49:51.239 that's what I'm saying in that context
+01:49:52.679 we look at it in that loophole element
+01:49:54.420 is the question is the question did they
+01:49:57.480 plug the loophole or did they make it
+01:49:59.460 significantly harder for people I think
+01:50:02.340 they did it in three doses which then
+01:50:04.020 got into an element of miscommunication
+01:50:05.880 if you ask me but beyond the third dose
+01:50:08.100 you still have to 20 TCS when you spend
+01:50:11.400 your lrs but you can you can claim it
+01:50:13.440 back yes it's I would say that is it the
+01:50:16.619 most elegant solution yeah one could
+01:50:18.420 argue not is the owners going to be on
+01:50:20.340 you guys as a banker my understanding is
+01:50:22.920 that Banks anybody if somebody spends on
+01:50:25.980 On A bank's credit card the bank is
+01:50:27.659 accountable to implement regulation and
+01:50:29.760 that's part of being a regulated entity
+01:50:31.199 and that's in significantly
+01:50:35.480 no that's the case at all there is lots
+01:50:39.480 of Regulation we also uh
+01:50:42.420 the word Bank comes with a lot of trust
+01:50:45.860 and that trust file is a good thing in
+01:50:49.800 terms of attracting customers attracting
+01:50:51.480 deposit comes with responsibility great
+01:50:54.659 power comes great responsibility that is
+01:50:56.880 The Regulators can make a change that
+01:50:58.920 they see fit for for policy and I think
+01:51:01.080 sometimes you get irritated because of
+01:51:02.580 the communication level and when you do
+01:51:04.020 it in three Doses and then everyone
+01:51:06.060 thinks now this is just enough like why
+01:51:07.980 do you want to get there but at the end
+01:51:09.179 of the day the report card is quite
+01:51:10.560 clear yeah if if you are spending 250
+01:51:13.980 000 a year which means you should be a
+01:51:16.199 high tax paying back or a sufficient
+01:51:18.239 good tax paying bracket yeah in which
+01:51:20.040 case you'll be cash neutral at the end
+01:51:21.540 of the year yeah my point here is I
+01:51:24.179 actually truly believe right this is not
+01:51:27.000 for the sake of euphemizing some other
+01:51:29.340 thought of mine but
+01:51:31.320 every International investor I talked to
+01:51:33.840 today
+01:51:34.800 is really critical especially in America
+01:51:37.020 in the West in Europe
+01:51:38.699 they're they're really critical about
+01:51:40.860 their own economy but I would say 80 90
+01:51:43.920 percent are sanguine about the prospect
+01:51:46.020 of India and wanting wanting some form
+01:51:48.420 of participation
+01:51:50.060 we're not one of the highest
+01:51:52.460 taxation but if we open up I truly
+01:51:54.960 believe more money will come in but I
+01:51:57.119 don't think this has got to do with open
+01:51:58.440 up it's not about it's sure sorry carry
+01:52:00.900 on I'll go after no because I think this
+01:52:02.699 if there was a reverse GST on it and for
+01:52:05.639 every 250 you are gone with you know
+01:52:08.520 this is not that it is just about saying
+01:52:10.619 we don't know whether you've necessarily
+01:52:12.000 paid your tax and therefore take it at
+01:52:14.100 the end of the year if you open up
+01:52:15.659 completely you also become Mercy even
+01:52:19.560 more to something the FED may do that is
+01:52:22.619 really silly that causes violent Capital
+01:52:24.900 flight that was nothing to do with you
+01:52:26.400 and we've seen over the past 30 40 years
+01:52:28.860 financially right foreign Capital flight
+01:52:30.960 because of nothing but that can happen
+01:52:34.199 with the Norms because they are not
+01:52:35.639 subject but less has come in
+01:52:40.880 is coming and how if you open a
+01:52:44.460 Floodgate very quickly and this would be
+01:52:46.260 an I would say how policy makers would
+01:52:48.659 argue it are you bringing in stable
+01:52:51.300 long-term capital that's looking at
+01:52:54.179 investing in the country or are you
+01:52:56.699 bringing in short-term you know quick
+01:52:59.760 profit seeking Capital so
+01:53:01.980 I think we've ridden the storm quite
+01:53:04.619 well through three of these ones because
+01:53:06.480 I think we've been a little bit more
+01:53:08.340 prudent right do you think this funnel
+01:53:10.679 of money which came into India attack
+01:53:14.639 many other sectors in the last decade
+01:53:17.580 when say the cost of borrowing in the
+01:53:19.739 West Was a fraction of what it was what
+01:53:22.440 it is now maybe it was one percent now
+01:53:24.239 it's maybe five and a half percent
+01:53:26.580 how long do you think this winter will
+01:53:28.320 continue for and when you look at large
+01:53:31.440 numbers of companies like SoftBank and
+01:53:35.060 temasek and all these big guys tiger
+01:53:37.679 Global they all seem to be down so much
+01:53:40.980 what you think will incentivize the
+01:53:44.820 fresh
+01:53:45.900 risk
+01:53:47.460 chasing money to come into India and in
+01:53:50.400 turn into a tech I think a lot of that
+01:53:52.199 money came in actually came in from the
+01:53:53.820 East Coast but went to the West Coast
+01:53:55.139 guys because most of the money got spent
+01:53:57.000 on advertising and spending out of the
+01:53:59.340 West Coast guys in America so actually
+01:54:01.080 some sense of in and out happened there
+01:54:03.780 I wouldn't put temasek and SoftBank and
+01:54:05.820 tiger all in the same bracket one is a
+01:54:07.380 sovereign fund one has a lot more the
+01:54:09.480 same individually run one has got a
+01:54:11.520 great track record no stand sense of
+01:54:13.380 judgment on it actually not domestic I'm
+01:54:15.119 talking about tiger yeah tiger SoftBank
+01:54:17.100 whatever else see I think it's a little
+01:54:19.320 bit like if I'm if I gave you this
+01:54:21.119 example if I want to do eight risk
+01:54:22.920 because the two that I want to win I win
+01:54:24.719 at 40x
+01:54:26.219 that's a point of view and if you want
+01:54:28.260 to play that you will have good years
+01:54:29.580 and you'll have bad years you may have
+01:54:30.900 good five years and 10 bad years but
+01:54:34.020 in eventually if you're looking at that
+01:54:36.920 20x30x40x they may want to do exactly
+01:54:39.119 what they want to do and today
+01:54:42.420 a lot of these people are burnt in the
+01:54:44.340 public markets not in the private
+01:54:45.719 markets but the question of yours was a
+01:54:47.639 lot more in the private Market than the
+01:54:49.139 public market so we have to keep that in
+01:54:51.600 mind also there's nothing listed really
+01:54:53.100 right in India in their Tech sector no
+01:54:54.960 no but the the mindset of these and the
+01:54:58.619 winter is set in because in the public
+01:55:00.719 markets they've lost more money much
+01:55:02.580 less than they've lost in the private
+01:55:03.960 market and that has created this
+01:55:06.480 perceived program not just about edtech
+01:55:08.699 this is about yeah I think what will
+01:55:11.159 also happen is that
+01:55:13.380 um even even when the winter is over
+01:55:16.560 the the disciplined ways the disciplined
+01:55:19.679 ways of building companies will come
+01:55:21.719 back and people will start building
+01:55:24.260 higher valued companies with much less
+01:55:27.060 Capital well why do we classify winter
+01:55:29.820 with the inflow versus the winter will
+01:55:33.060 be if
+01:55:34.260 the market is closed down the prospects
+01:55:36.960 of consumer spending is slowed down
+01:55:38.520 there would be a snowstorm sorry that
+01:55:40.500 would be like
+01:55:42.900 but but the thing is for a lot of young
+01:55:45.060 people I don't know why at the Starting
+01:55:46.560 Gate everyone's calling in the winter
+01:55:48.060 just because
+01:55:49.340 no no but
+01:55:51.179 the situation in Bangalore is quite bad
+01:55:53.460 in the startup ecosystem no no but what
+01:55:55.560 you guys are not understanding maybe in
+01:55:57.060 this skyscraper yeah no no no no no it
+01:56:00.420 is but it also compared to 2019
+01:56:05.580 India is bad it's just compared to 21.
+01:56:08.719 no see a lot of people who want to start
+01:56:11.520 up the first check that they get is will
+01:56:15.300 be from like an angel fund or an
+01:56:16.860 Institutional fund or not
+01:56:18.960 the nine out of ten people that we're
+01:56:20.880 talking about don't get a check to start
+01:56:23.340 but that doesn't mean they don't start
+01:56:25.800 and I think we should be just a little
+01:56:27.540 bit realistic about that thought process
+01:56:29.219 so you are saying that it is possible to
+01:56:31.500 build a fairly large tech company
+01:56:33.719 without raising capital I think in media
+01:56:36.300 one did it for eight years without
+01:56:38.400 raising one rupee
+01:56:45.139 yeah exactly but ninety percent of the
+01:56:48.300 large tech companies and especially I'm
+01:56:50.219 talking about tech where you have to
+01:56:52.500 have some sort of an advantage to scale
+01:56:54.780 fast to speed first I think Venture
+01:56:56.820 Capital plays a huge role what is fast
+01:56:59.520 it's a subjective definition created by
+01:57:02.760 philosophy velocity set by some other
+01:57:05.040 people but ours is not fast I've been
+01:57:06.659 doing the same job I do today for 19
+01:57:08.639 years full-time trading investing and
+01:57:11.639 people are losing the thing that it
+01:57:13.139 takes it takes time it takes time it
+01:57:15.179 takes time you lose the value of it
+01:57:16.800 takes time you're in trouble like exact
+01:57:19.440 same job same schedule same routine
+01:57:21.420 everything same for 19 years even big
+01:57:24.659 Tech took time and you know one of the
+01:57:26.159 things I look at big Tech I look at
+01:57:27.540 Google or Facebook the founders still
+01:57:29.340 own large shares yeah because they
+01:57:31.500 didn't dilute the way current Founders
+01:57:33.480 are diluting it's crazy
+01:57:35.599 you know where at Series E or at nine
+01:57:38.820 percent
+01:57:39.780 okay guys again mindful of eight minutes
+01:57:42.239 or whatever we have left
+01:57:44.580 maybe take the last couple of minutes
+01:57:46.980 each
+01:57:48.780 to say
+01:57:50.219 what have you learned
+01:57:53.460 that you wish you knew before starting
+01:57:55.440 upgrad before starting an academy before
+01:57:57.840 everything Jay has done in the realm of
+01:58:00.780 Education something for people starting
+01:58:02.699 off today to watch out for and if you
+01:58:05.400 had two choices to change about
+01:58:07.320 education overall what would they be
+01:58:11.340 so
+01:58:12.659 I think
+01:58:14.460 I've said this before and I'll say it
+01:58:16.320 again we don't have the liberty for
+01:58:18.360 hindsight and I think anyone starting up
+01:58:20.520 needs to understand that that if the
+01:58:22.139 formula is one about hindsight it
+01:58:23.760 doesn't happen that way if in 1995 I did
+01:58:27.060 this this and this I would have been a
+01:58:28.619 10x value of my media company doesn't I
+01:58:30.719 could have been bankrupt because five
+01:58:32.400 other things would have happened there
+01:58:34.320 so to me it is a learning process it's
+01:58:37.139 an iterative process and if you look at
+01:58:38.880 it always fast forward and forward
+01:58:40.820 versus hindsight you're going to be able
+01:58:44.219 to actually better your odds of success
+01:58:47.099 so for anyone who's looking for what
+01:58:49.800 would I do in the rear view mirror the
+01:58:52.199 the possibility is that you'll do a lot
+01:58:54.420 more wrong if you keep looking in the
+01:58:55.800 rear view mirror because one thing I
+01:58:57.659 gather from you a lot is you take a
+01:59:01.080 certain amount of pride in the wrong
+01:59:03.179 that you have done and you speak about
+01:59:04.679 it yeah I think so in a way what you're
+01:59:08.400 also saying is not having an ego about
+01:59:11.280 the mistakes you have made is very
+01:59:12.780 important but we don't talk about it
+01:59:14.940 that often and we should talk about it
+01:59:16.679 I'm not saying we need to bang the table
+01:59:18.239 about it but we do need to talk about it
+01:59:19.860 and I think part of what we have thawing
+01:59:22.080 the icebergs here of the not the next
+01:59:25.199 thousand entrepreneurs but the next
+01:59:26.639 million entrepreneurs are going to come
+01:59:27.780 if you thought the iceberg not throw in
+01:59:30.420 a couple of ice cubes nice nice and two
+01:59:33.480 things you would like to change about
+01:59:34.679 education overall
+01:59:36.900 two specific things what needs to change
+01:59:39.119 what will likely change okay give me one
+01:59:40.860 that needs to I think there is one level
+01:59:42.659 of structure in the formal education
+01:59:45.239 space which we need to respect because
+01:59:47.699 if we go disrupting that it's not going
+01:59:50.040 to be there we need to layer it we need
+01:59:52.080 to augment it we need to have a much
+01:59:53.940 more rounded element to that thought
+01:59:55.860 process that will make a world of a
+01:59:58.500 difference because it'll get people at a
+02:00:00.659 much younger age to be a lot more aware
+02:00:03.060 and second I think in education whether
+02:00:04.560 we like it or not there is the Haves and
+02:00:06.179 The Haves and not and I emotionally and
+02:00:10.320 passionately believe that if we fix the
+02:00:12.239 have-nots a little bit more disc
+02:00:13.920 proportionately will all be in a
+02:00:16.739 different Marketplace so for me at this
+02:00:18.960 stage in my life Market making and
+02:00:20.699 opening up at scale is quite an
+02:00:22.739 obsession
+02:00:23.760 so I think those are two macro points
+02:00:25.800 for me
+02:00:27.000 so for me
+02:00:28.679 two themes one is theme at a system
+02:00:31.260 level and one is at an individual level
+02:00:33.540 at a system level I think I agree with
+02:00:36.300 Ronnie don't break parts of what is
+02:00:38.639 traditional
+02:00:41.580 simply
+02:00:45.199 widen the number of people that can
+02:00:48.239 access what is traditional for me a far
+02:00:51.179 bigger problem is
+02:00:52.800 not necessarily the quality of the
+02:00:54.780 education I'm coming from outside their
+02:00:56.219 Tech sector so it's easier for me to say
+02:00:58.020 that because I'm uh
+02:01:01.020 not you know biased towards necessarily
+02:01:04.560 thinking the opposite way maybe I'm
+02:01:06.360 wrong
+02:01:07.260 and widen just giving everybody more
+02:01:10.320 making it meritocratic and then allowing
+02:01:12.179 Merit to take cause the challenge right
+02:01:15.119 now is that most people struggle to get
+02:01:16.860 access to Basics that make even access
+02:01:20.699 to education and then the brand name
+02:01:22.500 kind of spiral so that for me is the
+02:01:24.659 individual side uh at the system side at
+02:01:27.840 an individual side it's much more again
+02:01:29.940 the theme we've touched on learning from
+02:01:31.920 people not learning from courses and
+02:01:34.320 learning from books I think learning
+02:01:37.080 from people is
+02:01:38.460 it's
+02:01:39.800 harder to surround yourself but at some
+02:01:42.360 level we make decisions of who we
+02:01:44.820 surround ourselves with and those are
+02:01:48.000 semi-conscious at least I know some
+02:01:49.679 people have less of a choice in them
+02:01:51.719 and I think that that to me is lifelong
+02:01:54.239 learning
+02:01:55.500 after the age of at the latest 30 but
+02:01:58.679 for most people 23 or 24 is learning
+02:02:00.599 from people yeah
+02:02:02.820 can you repeat the question
+02:02:04.860 one thing you've learned in your journey
+02:02:06.900 in the journey around education
+02:02:10.500 that you would like to share so the new
+02:02:12.780 budding entrepreneurs can keep that in
+02:02:14.880 mind second part of the question if you
+02:02:18.000 could change arbitrarily one one very
+02:02:21.599 fundamental first principles
+02:02:24.780 kind of thing about education what would
+02:02:26.699 you change so I'll start with the second
+02:02:28.380 one first what I would like to change is
+02:02:30.719 that even today
+02:02:33.060 I think
+02:02:35.159 everybody there is a lot more focus on
+02:02:37.920 content and education Etc
+02:02:40.520 I like to believe that technologists are
+02:02:43.080 not coming in the sector I like to
+02:02:45.000 believe that the way a Duolingo has
+02:02:47.760 solved a problem where it's a completely
+02:02:50.360 computer generated program or a game
+02:02:53.119 teaching people and obviously there is
+02:02:56.159 humor intervention that has gone into it
+02:02:58.880 or there is Roblox where
+02:03:01.760 every third kid is using in U.S like or
+02:03:05.760 playing a game on Roblox
+02:03:07.440 I think people are not building enough
+02:03:09.000 technology stuff so one thing I would
+02:03:10.679 like to change is that I would request
+02:03:12.599 entrepreneurs that education is a big
+02:03:14.880 sector uh don't just be stuck in fintech
+02:03:18.380 uh look Beyond fintech every other
+02:03:21.239 founder I meet is I'm doing fintech this
+02:03:23.820 I'm doing fintech that yes fintech is a
+02:03:25.980 big Market fintech is fun yeah yes yes
+02:03:28.800 fintech is a big Market but there are
+02:03:31.739 other sectors also where a large part of
+02:03:34.920 large companies will be created
+02:03:39.020 and second thing which I have a huge
+02:03:42.119 problem with is that uh
+02:03:44.099 and this is nothing to do with that Tech
+02:03:46.320 this is more uh I think the ambition of
+02:03:50.040 Founders in India is very low
+02:03:52.020 I think uh I see some co-founders
+02:03:55.260 exiting after taking some minor
+02:03:57.480 secondary I see uh people getting
+02:03:59.880 satisfied very less but let's say if you
+02:04:02.820 if you if you look at a dependent office
+02:04:05.219 Nola
+02:04:07.380 and the kind of aspirations they have
+02:04:09.960 for their act two
+02:04:12.840 amazing aspirations so what what we also
+02:04:15.139 like we want super duper ambitious
+02:04:18.239 people and Technology people to uh also
+02:04:21.540 come to Ed Tech and uh be ambitious in
+02:04:24.540 general so um and and more than
+02:04:26.699 education see I believe that yes
+02:04:28.260 peer-to-peer learning and people
+02:04:29.639 learning from people is good uh but my
+02:04:33.000 view is which is completely different I
+02:04:35.580 I don't think that's practical I don't
+02:04:37.199 think that's what will scale
+02:04:38.900 Duolingo now has 60 million Maus
+02:04:43.080 there is no other person on the app
+02:04:46.219 there are 8 million paid users this is
+02:04:49.679 from their last earnings report stock is
+02:04:51.719 trading at 15x Revenue six billion
+02:04:54.000 dollar company
+02:04:55.080 no human is involved no social
+02:04:57.420 experience there is gamification and a
+02:05:00.060 computer teaching you
+02:05:01.619 and I think lifelong learning though
+02:05:04.320 theoretically sounds good I don't think
+02:05:06.840 anybody wants to you have to solve for
+02:05:08.940 motivation in an ideal scenario I yes
+02:05:12.119 people should do lifelong learning
+02:05:14.639 but they don't so how do we solve for
+02:05:16.860 motivation that you know you study
+02:05:19.860 psychology
+02:05:21.119 for Learning and not because you want to
+02:05:23.400 correct this examination so I think
+02:05:24.599 these are the few uh thoughts that I
+02:05:27.659 have but and one last prediction I would
+02:05:30.060 like to make is that we don't realize
+02:05:31.800 that how much AI will change education I
+02:05:35.340 think every most of the stuff that we
+02:05:37.080 discussed today would look irrelevant
+02:05:39.179 one year from now and we don't realize
+02:05:41.280 that five years from now every household
+02:05:43.500 will have a robot like personal
+02:05:45.900 computers changed everything if you look
+02:05:48.420 at the latest product that ring has
+02:05:50.639 introduced the doorbell cam now ring has
+02:05:54.000 a drone which can value our away access
+02:05:56.520 your entire home and what Tesla bot is
+02:05:59.280 doing I think we are maybe three or four
+02:06:01.440 or five years away where every household
+02:06:03.420 in the world especially starting with
+02:06:05.280 the uh people who can afford it will
+02:06:08.760 have a robot so I think that will also
+02:06:10.500 change a lot of things super
+02:06:13.080 my thing I can paint a optimistic
+02:06:16.440 picture or a very dystopian one I'm
+02:06:18.780 gonna pick the latter
+02:06:20.639 uh I feel like the modern construct of a
+02:06:24.719 family
+02:06:26.040 husband wife child or non-child or
+02:06:30.119 non-child
+02:06:31.320 is not
+02:06:33.840 is not the best to Fester education in
+02:06:38.340 the manner that I would dream for it to
+02:06:40.500 be
+02:06:41.340 I think if you go back in time before
+02:06:44.040 organized religion and many other things
+02:06:46.860 each kid learned from the community
+02:06:50.580 and he fixated upon
+02:06:53.040 what skill set he might like in the
+02:06:55.679 community what he would like to
+02:06:57.119 inculcate I feel the modern
+02:07:00.239 notion of a family we tell our kids what
+02:07:02.880 religion to follow we tell our kids what
+02:07:04.739 it is okay to study maybe not
+02:07:06.960 consciously but subconsciously
+02:07:09.239 uh
+02:07:10.739 I don't know how this will work but
+02:07:13.020 going back to a world
+02:07:15.179 where
+02:07:17.040 the mimetic influences of the world are
+02:07:20.280 lesser on the child and the child
+02:07:23.820 is allowed an environment to be more
+02:07:26.219 organic about the learning choices he
+02:07:28.380 makes is something that should change
+02:07:30.119 about education
+02:07:32.400 make sense yeah well put yeah
+02:07:35.280 yeah done so thank you everyone and
+02:07:38.480 look forward to seeing you guys next
+02:07:40.619 time thank you guys for coming thank you
+02:07:42.900 hi I'm nikhil ComEd I'd love to know
+02:07:45.420 what you thought of the episode comment
+02:07:47.880 like And subscribe and thank you for
+02:07:50.639 watching

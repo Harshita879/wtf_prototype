@@ -1,0 +1,3084 @@
+# tactiq.io free youtube transcript
+# Ep #3| WTF is E-commerce: Kishore Biyani, Udaan & Meesho Founders Reveal What Sells and What Doesn’t
+# https://www.youtube.com/watch/UKag4LVAEdU
+
+00:00:01.580 so you have to go to an airport in a
+00:00:04.080 burger shop
+00:00:07.099 two seasons in India both harvesting
+00:00:09.780 post harvesting marriage starts because
+00:00:11.519 that's the resource for them so people
+00:00:12.960 are just discovering something and say
+00:00:14.940 hey this looks cool I want to buy this
+00:00:16.320 what are you saying in summary like if
+00:00:18.779 I'm building a product for today what is
+00:00:20.760 that inside I have seen children of uh
+00:00:22.980 abundant family doing phenomenally well
+00:00:25.019 and building new categories and new
+00:00:27.060 products
+00:00:31.260 the first thing we were talking about
+00:00:33.480 before you arrived is are the products
+00:00:36.360 from your e-commerce company as late as
+00:00:38.399 you arrive like
+00:00:40.140 too late
+00:00:47.760 you're kidding you won't put this part
+00:00:49.260 in the podcast that's where he he's
+00:00:52.079 saying that he's late because he was
+00:00:53.340 managing on time
+00:00:57.059 so hi guys welcome everyone to episode
+00:01:00.660 three
+00:01:01.800 uh
+00:01:03.120 I think to begin maybe we can all like
+00:01:05.519 speak about what we do in one minute and
+00:01:08.760 since we all know each other already
+00:01:11.100 uh we can intersect and we can say
+00:01:14.100 different things we know about each
+00:01:15.659 other the idea is just to get everybody
+00:01:17.580 to know who we are so let's start with
+00:01:20.159 with it
+00:01:22.200 hey I am micho Me shows not like that
+00:01:26.460 not what you give in college interviews
+00:01:28.500 and stuff what do you say then
+00:01:31.220 I'm with it
+00:01:33.360 I was born here I was this kind of a
+00:01:36.479 child
+00:01:37.920 and that's exactly what the college
+00:01:39.659 interview is you know at this age
+00:01:42.900 College
+00:01:46.640 so I have to give something different
+00:01:48.600 right okay basically you have to see the
+00:01:51.840 absolute blatant truths
+00:01:54.060 you're saying that anybody will find
+00:01:56.220 about your like who you are you run
+00:01:58.140 something which is not on yeah yeah
+00:02:00.479 that's a good point so I yeah I'm with a
+00:02:03.299 tatri I grew up in Delhi in that part of
+00:02:06.840 daily that people don't know as much
+00:02:08.098 which is rohini I was born in meerut so
+00:02:10.619 my entire family comes from meerut and
+00:02:12.840 Harper so
+00:02:14.400 I was the first engineer in my entire
+00:02:16.980 family rights it's a what was everyone
+00:02:18.840 else doing farming so my both my mom and
+00:02:21.660 dad side like everyone like all my
+00:02:22.980 cousins most of them still do farming
+00:02:25.560 and so do the very different upbringing
+00:02:28.440 when I was growing up my dad used to
+00:02:29.879 tell me the only two kinds of
+00:02:30.900 preventions professions one someone who
+00:02:33.420 does a government job or second who sits
+00:02:35.220 on the purchase so if you don't want to
+00:02:36.840 send a person you better study
+00:02:42.140 so if you don't want to sit there you
+00:02:44.580 better study and become an ice offset
+00:02:46.260 someday so all my life I was like told
+00:02:48.720 this and I used to believe it for a very
+00:02:50.879 long time
+00:02:51.860 and and I grew up went to IIT Delhi all
+00:02:55.860 of that when I went there I realized the
+00:02:57.660 world is not bipolar only two
+00:02:59.160 professions and there's a lot more other
+00:03:01.319 things you can do and that's when I
+00:03:03.420 changed
+00:03:04.560 um
+00:03:05.160 after college went to
+00:03:07.860 um went to ITC no operations heavy roll
+00:03:11.420 very different and from Delhi to Chennai
+00:03:16.440 and I went into a factory where the
+00:03:18.540 where everyone in the factory used to
+00:03:20.280 speak only one language which was Tamil
+00:03:22.620 and I used to I used to go every day in
+00:03:26.159 the office there used to be a morning
+00:03:27.360 stand-up meeting which was about an hour
+00:03:30.540 in Tamil
+00:03:33.180 and I'm standing there like everyone
+00:03:34.860 everyone knows English I'm saying why
+00:03:36.599 don't we speak English because we are in
+00:03:37.980 Chennai so we have to speak in Tamil so
+00:03:40.140 I used to stand there and have no idea
+00:03:42.720 what's happening but I was forced to
+00:03:44.459 kind of pick up some bid I would still
+00:03:46.680 say like the first two years of my
+00:03:49.379 career it was very interesting because I
+00:03:51.599 was put into the most uncomfortable
+00:03:53.400 parts right like you sitting in Delhi
+00:03:56.159 you can do all the nice stuff like you
+00:03:57.720 can do good analysis you understand
+00:03:58.920 Excel but like managing a lot of people
+00:04:02.220 going to a place where you're
+00:04:03.840 uncomfortable or everything language
+00:04:05.519 food over time figuring out your way
+00:04:08.760 around this so I think it was it was
+00:04:11.159 pretty cool if I look back
+00:04:13.560 at that point I'm got connected to a
+00:04:15.599 friend who was in Bangalore Bangalore is
+00:04:17.459 coming up like your flipkarts in your in
+00:04:20.399 movies of the world so moved here and
+00:04:22.860 eventually in 2015 college now yeah yeah
+00:04:25.259 same college but like I think the which
+00:04:27.300 airport to 2012 yeah is like nine years
+00:04:31.080 yeah
+00:04:33.060 yeah it's much much later
+00:04:35.160 so yes I think then I come to came to
+00:04:37.139 Bangalore
+00:04:38.220 and
+00:04:39.600 like everyone else got bitten by the
+00:04:42.060 entrepreneurial bug because there's so
+00:04:44.040 much to do we started me show back in
+00:04:46.440 2015.
+00:04:49.199 um so now coming to like what we do at
+00:04:52.199 me show and why did we even pick what
+00:04:53.880 we're doing so we started in 2015
+00:04:57.180 and doing this because we realized that
+00:04:58.979 e-commerce was coming up and everyone
+00:05:00.479 was talking about hey why how all of
+00:05:03.120 this is moving online
+00:05:04.919 but e-commerce at that point time was
+00:05:06.900 mostly smartphones and white boot
+00:05:09.120 selling online right like which was not
+00:05:11.280 India retail to some extent
+00:05:13.199 small businesses were a very core part
+00:05:15.240 of India retail was still primarily
+00:05:16.740 offline and 85 percent of India retail
+00:05:18.840 happens via a lot of these long tail and
+00:05:21.240 branded small businesses so we said
+00:05:22.860 we'll bring them online if someone asked
+00:05:25.259 me how I had no idea but we said we will
+00:05:26.759 bring them online and that's when we
+00:05:28.740 started misho so we will complete eight
+00:05:31.380 years been a very very interesting
+00:05:33.900 Journey
+00:05:34.979 um now we have
+00:05:36.300 close to 140 million consumers who buy
+00:05:39.000 from us annually across all kinds of
+00:05:41.400 categories from about a million small
+00:05:44.100 businesses
+00:05:46.020 so that's all
+00:05:49.380 super so uh I think Mr Kishore biyani
+00:05:53.580 everybody knows broadly your an icon of
+00:05:58.620 selling both online and offline and I
+00:06:02.400 think each one of us growing up in one
+00:06:04.680 way or another has
+00:06:06.600 somewhere in one way or another
+00:06:08.900 experienced one product that you might
+00:06:11.340 have made or another
+00:06:12.840 so maybe
+00:06:14.539 even though we have seen you we don't
+00:06:16.740 know so much about your childhood where
+00:06:19.919 you were born I've met your family I've
+00:06:22.680 come to your house I've met your
+00:06:23.940 daughters and stuff like that but uh
+00:06:26.759 maybe you can give us a minute or two
+00:06:28.560 yeah foreign
+00:06:33.979 businesses called our group The Future
+00:06:36.360 group
+00:06:37.259 and I was born in Bombay born and bought
+00:06:41.280 up in Bombay
+00:06:42.660 studied
+00:06:44.699 Commerce
+00:06:46.800 was interested in marketing
+00:06:49.020 so used to follow most of the
+00:06:51.780 advertising that used to happen then
+00:06:54.120 and then build my own brand of trousers
+00:06:56.100 to start with
+00:07:00.620 I think that was way back and
+00:07:04.500 which year
+00:07:05.819 I would say
+00:07:08.240 91 or something it
+00:07:11.880 I was supplying garments I was applying
+00:07:14.280 fabric to the government industry that
+00:07:15.600 time the brands were charaked in double
+00:07:17.100 pool they were very different brands
+00:07:18.660 then what year was this this must be 87
+00:07:23.039 and people were just moving into from
+00:07:25.560 TaylorMade to ready-made which it was
+00:07:27.240 not even born and yeah
+00:07:30.660 seniority
+00:07:35.460 he's halfway there
+00:07:37.880 I'm a little bit lower he's upset so a
+00:07:41.880 different world I was born to a very
+00:07:43.199 conservative family we come from
+00:07:45.180 Rajasthan family was very religious
+00:07:47.580 Pious I was an atheist
+00:07:49.800 always what you call I was known as the
+00:07:52.560 black sheep of the family
+00:07:53.880 and contrarian thoughts on everything in
+00:07:56.819 life
+00:07:57.780 and so
+00:07:59.819 I thought I'll not join the family
+00:08:01.319 business we had a small wholesale fabric
+00:08:03.780 trading business that time so when I
+00:08:06.060 joined when I when I just graduated I
+00:08:08.460 did some course in marketing I did my I
+00:08:11.400 did my CA entrance
+00:08:13.139 I never I I think in five years of
+00:08:15.360 college I went to attend the class only
+00:08:18.060 once
+00:08:19.379 one class attended in five years do you
+00:08:21.479 think there is some kind of a
+00:08:22.800 correlation between
+00:08:24.680 rebellious kids or kids who have grown
+00:08:28.199 up with more insecurity than usual to
+00:08:31.979 how well they do later in life
+00:08:34.140 do you think more rebellious insecure
+00:08:36.539 end up doing better
+00:08:38.580 I I believe that today my children are
+00:08:41.458 born in abundance and to more democratic
+00:08:44.339 parents I was not born to democratic
+00:08:46.920 parents and we were born in a shortage
+00:08:49.080 era
+00:08:50.160 so I think shortages or less
+00:08:53.160 availability does definitely makes you
+00:08:55.860 work harder and make you expand your
+00:08:58.380 mind and thoughts so I think abundance
+00:09:01.200 can create something else but what we
+00:09:03.300 got was not abundance in any which way
+00:09:05.760 he also doesn't come from abundance I
+00:09:08.880 don't and by the way I
+00:09:10.440 to some extent I agree with what you
+00:09:12.839 were just asking I believe
+00:09:16.320 the guy come from a family or I would
+00:09:18.180 say even when I was growing up I was
+00:09:19.500 living compliant child rights whatever
+00:09:21.180 my parents tell me I do it until I come
+00:09:24.300 to college and suddenly I have an
+00:09:25.920 independent bent of mine now I question
+00:09:27.959 everything so until then I would say
+00:09:29.519 like my parents would make me do that
+00:09:31.140 Puja every day and I'm in a thief since
+00:09:33.480 college right so everything changed
+00:09:35.580 because until then
+00:09:37.260 I only saw a very small part of the
+00:09:40.200 world and I thought this is right and
+00:09:41.519 wrong and everything is very black and
+00:09:43.380 white
+00:09:44.100 and as you get exposed to more and more
+00:09:46.140 stuff then some people are okay and you
+00:09:49.019 can say rebellious I call it independent
+00:09:51.000 but I feel it happens and it's
+00:09:53.339 definitely one input
+00:09:55.740 to doing something crazy right because
+00:09:57.779 if you do something which is by the book
+00:09:59.279 it's very hard for you to challenge what
+00:10:01.440 has been happening for years but only
+00:10:03.480 one thing I I've observed as a common
+00:10:06.480 like he passed out in 2012 and you are
+00:10:10.920 somewhere in 80s but still the the
+00:10:14.220 feeling of like I have grown in such a
+00:10:17.160 constraint discipline family because how
+00:10:20.760 I see
+00:10:22.200 and that might be that's not the truth
+00:10:24.180 but uh children so these days we say
+00:10:26.940 that no they have a lot a lot might be
+00:10:29.820 you have the same feeling here 2012 kid
+00:10:31.980 is have a lots of excess of information
+00:10:34.640 infrastructure better College better
+00:10:36.720 education but the feeling is similar and
+00:10:39.779 that doesn't matter like my grand
+00:10:43.080 grandfather was always saying that when
+00:10:45.420 I was educated I was studying I was
+00:10:47.820 crossing River walking this much
+00:10:49.920 kilometer and things like that and when
+00:10:52.320 you were studying you are saying that
+00:10:53.519 you guys have everything and we believe
+00:10:55.920 no no this is also tough so I think that
+00:10:58.980 feeling is very common but do you think
+00:11:00.839 that is true then like say my parents my
+00:11:03.000 mom was a music teacher and my dad was a
+00:11:05.100 bank employee but do you think people
+00:11:07.500 who grew up in middle class upbringing
+00:11:09.779 like myself or under
+00:11:11.880 feel more insecure about things like
+00:11:14.720 money things like having the freedom
+00:11:18.120 that can be associated with money and
+00:11:20.880 hence they overcompensate when they grow
+00:11:22.740 older
+00:11:24.420 I I think Money Matters a bit lesser
+00:11:26.820 here like I
+00:11:28.620 it's obviously when I was growing up
+00:11:30.600 coming from a lower middle class family
+00:11:32.339 like if it's a very top of Mind thing to
+00:11:35.640 solve but I don't think that leads to it
+00:11:38.519 like very
+00:11:40.200 hard for me to attribute to it right I
+00:11:43.019 think we'll go by data it's very hard
+00:11:44.640 might be if I we can share our
+00:11:46.140 perspective right but from the
+00:11:47.519 rebellious point of view but I think
+00:11:49.440 that's not true I think it was very
+00:11:51.060 regimental in nature when your middle
+00:11:52.980 class say you have to study there's only
+00:11:55.440 one way you have to get a get into like
+00:11:57.720 some job nice job otherwise your
+00:11:59.880 marriage will not have things like that
+00:12:01.260 I think those are the main issue might
+00:12:03.660 be for us it was never that issue that's
+00:12:05.940 why you can see but by data I'll tell
+00:12:08.459 you we all invest in startups right like
+00:12:10.200 each one of us
+00:12:11.420 uh I didn't realize this for a long time
+00:12:14.700 but very organically you've at least we
+00:12:17.640 formed a filter by V I mean different
+00:12:20.040 funds I'm a part of
+00:12:21.839 that if somebody was a very entitled guy
+00:12:25.200 if somebody was the son or a daughter of
+00:12:27.600 a very rich man
+00:12:29.339 you would have this uh thing in your
+00:12:32.579 subconscious which would make you wary
+00:12:34.440 of investing in that startup
+00:12:36.480 same I've had the same thing actually
+00:12:38.399 it's not true in memory
+00:12:40.500 I believe it's uh nature of a but they
+00:12:43.500 can excel in something else which nobody
+00:12:45.600 else can do some categories they can
+00:12:48.120 Excel much much better so I we have
+00:12:50.220 developed a lot into understanding this
+00:12:51.899 but I think
+00:12:53.880 abundance create something else and
+00:12:55.620 shortages create something else but
+00:12:56.880 rebelliousness definitely creates
+00:12:58.320 something without being a rebel uh you
+00:13:01.079 can't because as a rebellion you like to
+00:13:03.480 destroy something and create something
+00:13:04.740 no I got into I created I went into
+00:13:08.040 business created a fabric which became
+00:13:10.320 quite popular it was called stonewash at
+00:13:12.060 that time then Danny mother fabric came
+00:13:14.220 in how did you create this fabric like I
+00:13:16.680 think
+00:13:17.880 I think there was a fashion which was
+00:13:19.260 going along and I was I did some course
+00:13:22.380 in living and I was very interested in
+00:13:24.060 textile fabric as such
+00:13:25.740 so all how old were you when you were
+00:13:27.839 doing this course 21 22 Yeah was it a
+00:13:30.839 thing back then to do a course in
+00:13:32.339 weaving and try to make a fact I was
+00:13:33.899 trying to do everything I I was not a
+00:13:36.480 great student or had inclination towards
+00:13:39.000 studies my parents never knew whether I
+00:13:40.920 passed or failed also so so we were we
+00:13:44.579 were a joint family we were 13 of us in
+00:13:46.680 our age group my father was six brothers
+00:13:49.740 and if we all came and didn't one of
+00:13:51.959 them didn't sleep also nobody would
+00:13:53.220 notice so we lived very very differently
+00:13:55.740 then
+00:13:57.180 so I think
+00:13:59.579 so idea was to create something and it
+00:14:03.240 started with creating that fabric
+00:14:04.560 supplying to the government industry
+00:14:05.940 building denims then building your own
+00:14:07.380 brand and then it kept on going on and
+00:14:09.600 on so in terms of creation
+00:14:12.019 I it became like building Brands
+00:14:14.760 building retail formats then getting
+00:14:17.700 into nbfc logistic business insurance so
+00:14:21.060 multiple things and then investing into
+00:14:22.680 a lot of entrepreneurs right when was
+00:14:25.800 that moment when you really scaled like
+00:14:28.079 when you guys became really big because
+00:14:29.700 I remember growing up like your Brands
+00:14:32.760 were everywhere and every one of us knew
+00:14:35.100 you you were on the cover of magazines
+00:14:37.320 like you were talking about that book
+00:14:38.700 nah I got like one book it was kind of
+00:14:40.980 Bible at that time so to study the
+00:14:43.500 writing I think if you look at uh if I
+00:14:46.320 look back because I'm in a different
+00:14:48.660 state of mind or in terms of business at
+00:14:52.560 the moment
+00:14:53.699 so I have done it might appear that I
+00:14:56.459 have done what people do in three
+00:14:57.660 generation I created and I destroyed
+00:14:59.339 everything
+00:15:00.180 so creation and destruction and maybe if
+00:15:03.060 there is a chance to create something
+00:15:04.260 more
+00:15:05.220 but uh but it was a process which was
+00:15:07.800 fantastic because first was destroying
+00:15:11.040 your old thoughts destroying your
+00:15:12.540 parents thoughts creating something out
+00:15:14.699 of that and then destroying your
+00:15:17.040 thoughts again and again
+00:15:18.360 because we went into luxury and we went
+00:15:20.399 into masses we went to the lowest end of
+00:15:22.920 the population with a store format
+00:15:24.839 called aadhar which is below 50 000
+00:15:26.639 population and we dealt with the highest
+00:15:29.040 End by creating something called Food
+00:15:31.019 Hall and in terms of departmental store
+00:15:33.420 Central to Brand Factory so we cater to
+00:15:36.660 a lot of audiences and there were a lot
+00:15:38.399 of learning from a like Hindustan liver
+00:15:41.100 at that point of Time how do you create
+00:15:42.660 brands at every segment of the
+00:15:44.579 population so I think branding was
+00:15:46.560 something which interested us and so we
+00:15:50.220 lettered many brands in the retail
+00:15:53.339 formats
+00:15:54.600 and so it was a journey I would say 30
+00:15:57.240 years we compounded at 30 percent
+00:15:59.820 so it was for 30 years we did grow every
+00:16:04.320 year
+00:16:05.220 and uh
+00:16:06.779 so but now it's a different Journey so
+00:16:09.420 another experience so you become more
+00:16:11.100 philosophical than right doing anything
+00:16:14.040 it's an incredible journey and out of
+00:16:16.320 all the things you could have done like
+00:16:17.699 why like
+00:16:19.620 big big Bazaar and future group like why
+00:16:22.260 how did you arrive at kid this is the
+00:16:23.699 thing this is my calling it was it just
+00:16:25.740 weaving thing which led to this
+00:16:28.220 before creating big Bazaar I had a
+00:16:30.540 format in mind that we'll create a
+00:16:33.480 Marketplace for branch so Central was
+00:16:35.699 originally conceptualized much before
+00:16:37.139 big Bazaar for me but then big Bazaar
+00:16:40.740 came about I I started visiting the
+00:16:44.220 bazaars and the hearts which used to
+00:16:45.720 happen in small towns so people used to
+00:16:48.240 take the markets
+00:16:49.620 so we thought why can't we create
+00:16:51.180 markets with that hustle and bustle in a
+00:16:53.940 city I had not seen Walmart then I have
+00:16:56.279 not seen any other retail format so we
+00:16:57.899 thought let's try this and uh so then
+00:17:01.920 that idea was to build scale so we
+00:17:03.480 opened three stores in 22 days so that
+00:17:05.339 we could build some volumes and some
+00:17:07.260 scale
+00:17:08.220 so it was the market hustle bustle we
+00:17:10.559 thought there should be a button brush
+00:17:11.819 effect people should meet each other
+00:17:13.140 people should there should be crowd
+00:17:15.240 because crowd can only get Crown so it
+00:17:18.240 was a you know a different experience
+00:17:19.980 then but we must say that sir uh in this
+00:17:22.619 country somebody who has thought of
+00:17:24.720 organizing retail and started at that
+00:17:26.939 scale and people started believing
+00:17:28.799 because your your format was started
+00:17:31.140 working I think several format and calm
+00:17:34.020 destroyed will come again futuristic and
+00:17:36.360 all but you have given that Genesis
+00:17:39.140 retail can be organized like the kids
+00:17:41.520 say today he's like the OG of Commerce
+00:17:45.380 of organizing retail I think yeah 100 I
+00:17:49.980 think we have learned so much directly
+00:17:52.260 in there
+00:17:54.020 somebody becomes a catalyst to do that
+00:17:56.340 so I think we have we have done that for
+00:17:58.260 retail for sure we got that opportunity
+00:18:00.120 to do it and
+00:18:01.440 I think once you start looking at from
+00:18:03.299 consumer lens you can create something
+00:18:06.360 much much more because you are looking
+00:18:08.039 at the consumer then creates a something
+00:18:09.360 not looking at yourself and creating
+00:18:11.340 something so we created that consumer
+00:18:13.620 understanding thank you we as a group we
+00:18:16.799 have an organization which is called
+00:18:18.840 future Brands wherein we from the last
+00:18:21.360 15 years every six months should we do a
+00:18:23.400 Bharat darshan and we record every
+00:18:25.500 societal change happening in the country
+00:18:27.960 we record every lyrics written in the
+00:18:30.419 country anything which becomes popular
+00:18:31.679 we make it a point
+00:18:33.539 so like when we used to get huge crowds
+00:18:36.299 in big Bazaar stores we went to tirupati
+00:18:38.760 Temple to understand how to manage
+00:18:40.320 crowds so India is a fascinating country
+00:18:43.380 like release this and what did you learn
+00:18:45.720 from tirupati unbelievable management
+00:18:48.020 crazy how to manage crowd for something
+00:18:51.600 how do you create that
+00:18:55.340 make people stand in the queue give them
+00:18:58.020 water give them everything make them
+00:18:59.760 patient
+00:19:00.780 and so you you learn from everywhere
+00:19:03.059 everywhere India has all the experiences
+00:19:05.220 which you can experience and learn from
+00:19:06.660 Wow incredible learning tirupati to
+00:19:10.559 retailer so I mean the title of the book
+00:19:13.140 my first retail store experience where
+00:19:15.240 we got inspired was Savannah stores in
+00:19:16.919 Chennai
+00:19:31.280 that's a food thing but the store is
+00:19:33.660 huge huge
+00:19:35.940 appliances everything this yeah
+00:19:37.919 everything so because that was in fact
+00:19:39.720 conceptualized from inspiration or seven
+00:19:41.580 now more than anything else
+00:19:44.840 foreign
+00:19:53.179 together
+00:19:57.020 uh if he was not married
+00:20:01.400 people would have the wrong idea
+00:20:05.160 but we end up spending I think we travel
+00:20:07.440 at least once into three months
+00:20:08.700 somewhere together yes I think last one
+00:20:11.220 year yeah okay so I know him very well
+00:20:21.080 so I come from a place called bhagua in
+00:20:24.059 Bihar it's a very small uh town I've
+00:20:26.520 grown up there I studied there till 12
+00:20:28.799 in Hindi medium from Bihar board
+00:20:32.640 and I don't know how I have gone to IIT
+00:20:35.760 because I came to know about IIT only in
+00:20:39.299 people get the 12th we call it
+00:20:41.100 intermediate yeah so it was a part of
+00:20:44.340 college at the time when after 10th you
+00:20:46.380 go to college and it's not 10 plus two
+00:20:48.720 it's a intermediate then ba BSC whatever
+00:20:52.020 so I have from Hindi medium converted to
+00:20:55.320 English just for exam uh somehow landed
+00:20:59.580 in IIT Delhi I never planned to go to
+00:21:02.520 IIT Delhi I wanted to win itbhu
+00:21:13.820 something happened
+00:21:15.780 um
+00:21:19.760 I landed in Delhi uh
+00:21:23.340 and that was my first big city
+00:21:26.580 and I have exposed to like okay school
+00:21:29.640 or college
+00:21:31.860 foreign
+00:21:37.720 [Laughter]
+00:21:43.380 foreign
+00:21:52.430 [Laughter]
+00:21:57.320 so many things I never saw even like I
+00:22:00.299 had a smaller school I would say until
+00:22:01.799 12th and when I came
+00:22:04.520 I have no idea right like you have all
+00:22:06.840 kinds of sports you have all kinds of
+00:22:08.220 extra calligas to do so you get exposed
+00:22:10.980 to this right after college or right
+00:22:13.440 after school people go crazy so I can
+00:22:15.900 totally connect with this feeling so
+00:22:17.400 India people play cricket badminton
+00:22:25.640 and you will not believe even Billiards
+00:22:29.039 and all I was spending so much of time
+00:22:30.840 by second or third year I was in The
+00:22:33.179 Institute
+00:22:34.280 so even I was playing billiard pool so
+00:22:37.799 like like I said still got good marks in
+00:22:39.900 ID no
+00:22:46.159 foreign but at that time in uh Y2K you
+00:22:51.000 were passing in 2003
+00:22:52.980 or 2001 2002 the whole job scenario was
+00:22:57.539 so bad campus computer science
+00:23:03.900 otherwise people go out all the mncs
+00:23:07.200 come to campus they take those first
+00:23:09.659 like electricals computer all these and
+00:23:12.720 then rank wise and even like even you
+00:23:15.480 are lost from the bottom you you'll get
+00:23:19.080 some job
+00:23:21.960 and it was a kind of character
+00:23:25.559 and then I had somewhere I thought yeah
+00:23:31.640 and I remember
+00:23:41.600 I wanted to be become a upsc
+00:23:45.120 ope
+00:23:46.760 then you have to take some optional
+00:23:49.140 subject like history public ad geography
+00:23:52.559 you have to study all the general uh uh
+00:23:55.559 uh knowledge and then you have to core
+00:23:58.200 subject like physics math as a science
+00:24:00.299 boy you can choose one otherwise you can
+00:24:02.220 choose any subject
+00:24:05.299 then I spend almost six months there and
+00:24:08.520 then decided and this is not my interest
+00:24:12.720 somehow
+00:24:14.220 I decided to join some
+00:24:17.220 small form where I can learn
+00:24:20.580 some of the friends have connected me to
+00:24:22.860 some person he has agreed to take me as
+00:24:25.919 a co-founder at that time kpo in 2000
+00:24:28.320 I'm talking about 2004 2005. so we have
+00:24:31.620 started a kpo taking a project
+00:24:33.299 delivering the project we were like 25
+00:24:35.520 26 people
+00:24:37.080 and doing that for almost like die
+00:24:39.299 things all
+00:24:40.980 and in 2008 recession came no project no
+00:24:44.880 money
+00:24:46.260 and Sachin Sachin in 2007 uh even my one
+00:24:50.700 year Junior tonight in same hostel
+00:24:58.040 [Laughter]
+00:25:02.720 I was in love with that Delhi okay
+00:25:07.799 I will settle there
+00:25:10.080 um
+00:25:11.460 then he he I think he got married early
+00:25:14.039 in 2008 he called me for in marriage and
+00:25:16.919 then and I would decided to close kpo
+00:25:19.740 because project
+00:25:22.260 um yes
+00:25:25.320 foreign
+00:25:51.240 foreign
+00:25:57.520 [Laughter]
+00:26:20.419 and somehow like it has I like the uh I
+00:26:25.140 like the business model and then decided
+00:26:27.720 to again go went back to Delhi because I
+00:26:29.820 have to so I was taking care of all the
+00:26:32.700 business supply operation
+00:26:35.640 then I went back to Delhi solving those
+00:26:38.220 problems sorry Publishers
+00:26:48.260 I think
+00:26:49.980 at that time we were inspired by your
+00:26:52.440 journey and then we are let's say right
+00:26:54.539 saying that we are studying our books
+00:26:56.100 also books
+00:27:00.460 [Laughter]
+00:27:08.700 and then I I finished that book in
+00:27:11.039 Flipkart started 2008 uh so started in
+00:27:14.159 October 2007
+00:27:15.679 I joined in 2008 but I was like
+00:27:22.159 look something when I went there it was
+00:27:26.000 seven eight books
+00:27:32.120 so yeah so the journey has started by
+00:27:34.679 the way when I joined it was not even a
+00:27:37.380 company it was a proprietorship
+00:27:39.840 online
+00:27:44.340 so Sachin father was a Trader in in in
+00:27:48.020 Punjab Chandigarh so he had some
+00:27:51.000 balanced so
+00:27:54.650 [Laughter]
+00:27:59.400 um 2009
+00:28:01.080 it was got registered by the way
+00:28:02.760 Flipkart were transition in 2009 but it
+00:28:05.460 started in 2000 October 2007 I came on
+00:28:07.740 board in 2003. so we started our journey
+00:28:10.320 I I taken care of all the supplies and
+00:28:13.020 operation category
+00:28:14.700 uh first Fourier I was managing all
+00:28:16.919 these things and then after that mostly
+00:28:19.080 focusing on building supplies and
+00:28:20.880 capabilities operation so it started the
+00:28:24.419 e-card within Flipkart in 2010.
+00:28:27.299 uh yeah we have built that that Journey
+00:28:30.720 was amazing so from 0 to 15 so I left in
+00:28:35.460 2016. I started Buran uh with uh Baba
+00:28:39.480 and amod again I met Baba or in Flipkart
+00:28:44.100 he was CTO or Flipkart and amod
+00:28:47.659 world I know he was my senior in iital
+00:28:51.299 so a good friend but he was also working
+00:28:54.179 in Flipkart yeah it is
+00:29:15.980 [Laughter]
+00:29:22.100 is it because of the network of alumni
+00:29:25.559 that it helps IIT
+00:29:27.240 but it really has that thing Mumbai
+00:29:30.919 alumni like people yeah but in my case
+00:29:35.460 like my all of my angel was done by a
+00:29:38.039 lot of identities
+00:29:45.799 nobody was knowing at that time so I
+00:29:48.840 think
+00:29:49.640 that's why I'm saying 2012
+00:29:52.880 we got some exit
+00:29:58.520 how many companies have you invested in
+00:30:04.220 how many have become big
+00:30:07.080 like serious skin on Academy is that
+00:30:10.080 even this uh grow for now it's a blanket
+00:30:15.240 um
+00:30:23.000 investing in something else coffee I
+00:30:25.860 have now because I believe there are too
+00:30:28.740 much on one sector tech tech so I found
+00:30:31.559 something
+00:30:33.120 qsr
+00:30:36.600 so from last one and a half year I'm
+00:30:38.700 experimenting like third wave so when I
+00:30:41.220 came there there were nothing in last
+00:30:42.960 one and a half year we have a scale
+00:30:45.000 I think somewhere now they are valued
+00:30:47.279 around 200 million something like that
+00:30:49.919 um and it's good because they're they're
+00:30:51.600 profitable business that's what I'm
+00:30:52.860 saying it's good to see that some
+00:30:54.779 business is profitable and they're
+00:30:57.000 making money uh then I have a view uh in
+00:31:01.260 India Beyond tier two tier 3 city
+00:31:04.620 um
+00:31:05.460 like Domino's kind of business can be
+00:31:08.039 built uh macd also can be built but I
+00:31:11.279 found some great entrepreneur who were
+00:31:13.260 already building I'm backing them
+00:31:16.679 um and I I believe they will open two
+00:31:19.140 thousand three thousand store in this
+00:31:20.520 country
+00:31:21.659 um so I'm experimenting on that same
+00:31:23.760 view I have for the South Indian food
+00:31:25.559 because of if you'll see rameshwaram and
+00:31:28.200 I'll give an example so they cut like 7
+00:31:31.740 500 bills a day crazy and they one store
+00:31:35.460 dues five crores so this is like 10 by
+00:31:37.980 10 kind of 10 by 15 kind of store store
+00:31:40.260 in a hole do do like 4.5 crore a month
+00:31:45.440 one store
+00:31:47.279 of 10 by 15. and with decent margins and
+00:31:50.279 all of them this is margin I'm just
+00:31:51.600 saying it's a 70 gross margin
+00:31:55.260 they must be doing a beta and monthly
+00:31:57.360 level generating around 30 minimum
+00:32:00.779 oh
+00:32:02.100 so with its wife is uh again a very
+00:32:06.000 successful entrepreneur she has this
+00:32:08.279 brand of clothing called my Bliss Club
+00:32:11.220 Bliss Club yeah you want to say
+00:32:13.799 something yeah so so basically she
+00:32:15.840 started this business about two and a
+00:32:17.220 half three years ago and like it's a
+00:32:19.799 very Mission driven business what she's
+00:32:22.380 trying to solve is she's fundamentally
+00:32:24.120 building the first women focused Fitness
+00:32:26.279 brand right because in India most
+00:32:28.860 Fitness brands have always been
+00:32:30.059 associated with men right like no one
+00:32:31.919 solved women focus problems so she
+00:32:34.380 started this two and a half three years
+00:32:36.240 ago and she wants to kind of build a
+00:32:37.919 culture of movement in her own words
+00:32:39.899 right so if she wants people to move a
+00:32:41.940 lot more Fitness is not just about
+00:32:44.220 having like some crazy sick pack abs But
+00:32:47.159 like everyone whatever you do every
+00:32:49.020 single day even if you walk 100 meters
+00:32:50.580 you're moving and how can you make that
+00:32:52.559 Journey more fulfilling so she started
+00:32:54.240 this two and a half three years ago and
+00:32:56.220 it's been doing pretty well I see her
+00:32:58.559 every day because we live in general
+00:33:00.500 religiously they're like see comes every
+00:33:03.179 day yeah
+00:33:08.299 it's a I think it's one of the
+00:33:10.500 principles is that like Hey how do you
+00:33:13.200 again go against body shaming which
+00:33:14.640 happens again a lot in India so we have
+00:33:16.440 we had a brand we built a brand called
+00:33:17.880 all little larger ah that became very
+00:33:21.360 big actually it was the most profitable
+00:33:23.220 business we ever created
+00:33:26.580 but majorly we were in wovens
+00:33:29.340 not in Nets as much so before I met Nino
+00:33:32.340 like one and a half two years ago me and
+00:33:34.679 vedith had gone for a conference so I
+00:33:37.080 had never met his wife and uh
+00:33:40.039 we had one week to kill and we used to
+00:33:42.659 spend a lot of time having breakfast
+00:33:44.100 lunch dinner every day
+00:33:46.080 and he would describe Mino to me
+00:33:50.659 the thing about with it right
+00:33:53.940 he's very certain about
+00:33:57.179 what he wants in life
+00:33:59.159 and there is a weird kind of contentment
+00:34:01.980 I'm talking not professionally but
+00:34:03.899 personally which makes him I think more
+00:34:06.360 complete as an emotional human being
+00:34:08.159 which is
+00:34:09.418 fairly unique because
+00:34:11.820 many people I know including myself we
+00:34:14.639 live
+00:34:16.679 through a lot more ambiguity when it
+00:34:18.899 comes to forming our Notions about these
+00:34:21.119 subjects where you're so certain about
+00:34:23.339 what you believe in and what you want
+00:34:25.500 and so early in life I think that's
+00:34:27.359 something gifted and you're the youngest
+00:34:29.040 amongst all of his friends yeah
+00:34:38.480 to anyone
+00:34:40.320 yeah I'm thinking where we both don't
+00:34:43.739 get into trouble it's not that he will
+00:34:45.359 get into it but I want Masala story you
+00:34:47.940 know like we don't want to say story we
+00:34:49.500 want an interesting story we'll talk
+00:34:51.359 about a friend of ours okay first
+00:34:55.619 like last month
+00:34:57.980 uh February yeah February we went to
+00:35:00.599 Riyadh we were there for one entire week
+00:35:03.480 and one very nice gentleman invited us
+00:35:07.740 to his house for dinner and uh his
+00:35:09.960 family his name was
+00:35:17.760 uh you say the next part
+00:35:22.079 that is so again marwadi or uh
+00:35:28.380 so then uh like
+00:35:40.859 um hi honey
+00:35:43.700 good night
+00:35:45.839 like his name is honey
+00:35:52.200 but Riyadh was such a fun experience
+00:35:56.839 great investing opportunities you guys
+00:35:59.700 should go check it out so we made a
+00:36:01.200 group of friends and we went to Riyadh
+00:36:03.300 for a week
+00:36:04.260 and uh we met people in different
+00:36:08.460 departments in business in government
+00:36:10.560 all of that the scale of the projects
+00:36:13.680 they are doing is madness
+00:36:17.240 called Roshan you know how many Villas
+00:36:19.680 they're building 45 000 yeah
+00:36:23.180 in one project they're spending three
+00:36:25.859 trillion dollars on that new
+00:36:45.320 we all have done it and then we want to
+00:36:47.700 do something like India
+00:36:49.859 so that itself sometimes it's is it a
+00:36:53.099 great thing or a I think I think the
+00:36:55.920 Dynamics and the demographics of the two
+00:36:58.200 country countries are so different I
+00:37:01.020 think Saudi Arabia probably has less
+00:37:03.420 than 10 percent of our population
+00:37:06.740 like three percent yeah yeah
+00:37:15.859 correct I think for that point to arrive
+00:37:19.140 we need to have kind of like reached a
+00:37:21.960 certain GDP per capita I think but you
+00:37:24.960 know when like when we started going
+00:37:26.820 abroad and some stores
+00:37:29.480 okay we would have met every
+00:37:31.320 entrepreneur who has created something
+00:37:33.420 in the world
+00:37:38.480 then we start making mistakes
+00:37:44.339 I was coming to that point
+00:37:46.560 I agree with you I think what have you
+00:37:48.359 seen a lot of examples like this like
+00:37:49.800 where people get inspired too much
+00:38:01.260 maybe with a 15-year line
+00:38:03.800 but because human beings are human
+00:38:05.940 beings like I'm talking about e-commerce
+00:38:07.859 at large I'm talking about but
+00:38:10.140 e-commerce also in India since the
+00:38:12.599 subject is getting discussed
+00:38:21.980 localization has to happen I agree like
+00:38:25.380 sometimes people try to like copy paste
+00:38:27.180 with the
+00:38:28.579 exactly which I believe we are in
+00:38:32.220 broking asset management and stuff like
+00:38:34.020 that there have been examples very
+00:38:36.119 similar in the US for a long time if you
+00:38:38.820 talk about Ola Uber has been there for a
+00:38:41.400 long time if you talk about Airbnb
+00:38:43.619 Internet
+00:38:45.140 it's a financial services the other one
+00:38:48.359 is mobility so they are they're Natural
+00:38:50.220 Things
+00:38:51.500 what what is that new thing you can do
+00:38:54.060 in India with an Indian reference point
+00:38:55.740 is something which
+00:38:57.540 should be more interesting in India do
+00:39:00.000 you think it's not about how you tweak
+00:39:02.339 what has worked elsewhere but create
+00:39:03.960 something is that what you're saying you
+00:39:05.339 are asking like Instagram of India or
+00:39:07.079 Google of India something like that
+00:39:10.099 India can only Prosper if we we are able
+00:39:13.440 to create value addition in the economy
+00:39:15.540 of course by just selling commodities
+00:39:17.280 without value addition because
+00:39:18.359 valuations
+00:39:25.099 which is
+00:39:26.970 [Music]
+00:39:30.480 foreign
+00:39:42.180 let's say to about 1000 crores in sales
+00:39:44.460 what are the first five brands that come
+00:39:47.040 into your mind and why do you think
+00:39:48.780 there are few so few Brands I think
+00:39:50.640 brands
+00:40:00.300 so but now you look at both
+00:40:05.160 I I am looking at uh Beauty may be
+00:40:08.160 equipped Brands okay
+00:40:13.339 certain level but not thousands but they
+00:40:15.900 are all getting there so new age brands
+00:40:18.420 are happening but old age Brands though
+00:40:19.920 I think levers Nestle they all they've
+00:40:22.380 all built Brands yeah look at the brand
+00:40:23.880 Maggie has been yeah yeah it's crazy one
+00:40:26.280 single category one single product is
+00:40:29.359 the ones which have really scaled have
+00:40:32.099 been the foreign Brands which have come
+00:40:33.420 into England that's why India maybe but
+00:40:35.099 India I think America has done well ITC
+00:40:37.680 I would rate it as an Indian company
+00:40:39.480 they are building up a lot of brands
+00:40:42.560 in a way
+00:40:51.440 for this yeah
+00:40:56.160 I think for this conversation let's not
+00:40:58.260 focus or fixate upon e-commerce alone
+00:41:00.720 but Commerce at large because we have
+00:41:03.300 the digital Commerce is a very
+00:41:04.800 interesting subject and ultimately
+00:41:07.079 digital to buy anything it will be a
+00:41:09.900 digital use in whether it will influence
+00:41:11.760 you whether you have seen the brand
+00:41:12.900 digitally so digitally the part of your
+00:41:15.000 life now
+00:41:18.320 it's not about physical or digital I
+00:41:20.880 think digital digital influencing
+00:41:23.060 physical Bank
+00:41:26.960 you decide what to buy in that local
+00:41:29.040 market is a part of your life now I I
+00:41:31.560 don't see them as two separate things
+00:41:34.440 so you think
+00:41:36.720 in the future for these consumer facing
+00:41:39.060 Brands let's say for example the 405
+00:41:42.060 brands that you were talking about
+00:41:45.180 what is the split right now of people
+00:41:47.460 buying them online and what is the split
+00:41:49.260 offer firstly I'm not building my
+00:41:50.640 daughters are doing I'm maybe a mentored
+00:41:53.160 they are because I don't belong to that
+00:41:54.720 generation who think digitally
+00:41:57.119 the last thing digitally we did was to
+00:41:59.040 build a whole thing around data had
+00:42:11.700 along the same time yeah I think a
+00:42:14.400 little bit delay but yeah around 2000 at
+00:42:16.320 the same time 2008 nine yeah
+00:42:18.900 so we attempted digital being physical
+00:42:21.660 attempting digital was the biggest
+00:42:23.280 mistake because you can't think the
+00:42:24.839 digital people who are born digital
+00:42:26.220 think digital
+00:42:27.900 so if you were born physical and
+00:42:29.400 thinking digital was adding one more
+00:42:30.900 layer but that doesn't work and what do
+00:42:32.640 you think the recipe is now what could
+00:42:34.140 work you have to think digital now you
+00:42:36.660 also have a physical presence physical
+00:42:38.700 you sell through every medium but you
+00:42:40.980 have to think digital everything when we
+00:42:43.800 used to build Brands earlier it was
+00:42:45.119 newspaper advertising television
+00:42:47.599 now you can't build a brand on newspaper
+00:42:50.460 advertising or television advertising or
+00:42:52.260 outdoor I mean
+00:42:56.180 the digital marketing targeting digital
+00:42:59.640 so you have to think digital the
+00:43:01.500 consumers are different codes
+00:43:04.859 so even before we talk about e-commerce
+00:43:07.319 or digital buying something
+00:43:10.319 why do you think from a very
+00:43:12.660 psychological standpoint why do you
+00:43:15.359 think
+00:43:16.380 somebody buys a product what in their
+00:43:19.020 psyche instigates them to buy a certain
+00:43:21.119 product
+00:43:22.260 why do some products do better than
+00:43:24.180 other products
+00:43:25.560 and do you think
+00:43:27.720 see I'm not talking about the essentials
+00:43:30.599 that we all need but I'm talking about
+00:43:32.460 shopping shopping in the sense of the
+00:43:34.619 word that we know it today
+00:43:36.720 do you think the power dynamic in a way
+00:43:38.760 shifts from the seller of the product to
+00:43:41.940 the from the seller from the buyer to
+00:43:44.700 the seller each time somebody buys a
+00:43:46.319 product like why does somebody buy a
+00:43:48.300 product and why does a product work
+00:43:50.280 so I'll tell you like at least what we
+00:43:52.260 see now right like now
+00:43:54.839 because of social there's massive fomo
+00:43:57.240 in the world right so there's people
+00:43:59.099 call it inspiration but a lot of this is
+00:44:00.839 fomo right like no one wants to be left
+00:44:02.400 out we see lots and lots of shopping
+00:44:05.520 gets inspired by social media right like
+00:44:08.880 by Instagram buy this and that one of
+00:44:11.220 the very common
+00:44:12.780 products that people use on the misho
+00:44:14.760 app is people take photographs and they
+00:44:17.339 search that same photograph and buy and
+00:44:19.859 most of those photographs come from
+00:44:21.060 Instagram so how big is social media as
+00:44:25.140 an influencer Part of Me shows overall
+00:44:27.180 sales I would say it's very hard to
+00:44:28.680 attribute because in many cases people
+00:44:30.420 come in but it's a lot by the way even
+00:44:32.819 the way we design what kind of Trends
+00:44:35.040 are coming up what kind of things you
+00:44:36.300 see everything is driven a lot by what
+00:44:38.640 data we see on social it's a big part
+00:44:40.859 something direct attribution we can see
+00:44:43.440 when people are really searching that
+00:44:44.579 image and it's an Instagram image so
+00:44:45.960 that mean when that's a large part
+00:44:47.940 but even otherwise we see everyone
+00:44:50.220 deciding what to buy and what not to buy
+00:44:52.260 driven a lot from social media so you're
+00:44:54.180 saying there is this one central body in
+00:44:56.640 a way of influential people who decides
+00:44:59.040 what is cool and then everybody decides
+00:45:01.619 they need that product in their life
+00:45:03.780 to some extent yes right like that's
+00:45:05.700 happening now people are seeing a lot of
+00:45:07.740 celebrities now they are also seeing
+00:45:09.359 these influences come up and how how
+00:45:11.220 high does that chain go let's say we
+00:45:13.079 look at the influencer who does the
+00:45:15.359 influencer look at who in turn does that
+00:45:18.060 person look at is it a corporation which
+00:45:20.579 is setting trends that are cool or is it
+00:45:23.339 organically evolving from people
+00:45:25.980 so at least from what we see now it's it
+00:45:29.040 may have started with being very
+00:45:30.359 concentrated but now even like I see
+00:45:32.640 like Bliss Club starting right like they
+00:45:34.619 leverage influences quite a lot if that
+00:45:36.420 entire brand was by the way built on
+00:45:37.740 Instagram like everything was built on
+00:45:39.540 Instagram and they found people so now
+00:45:42.000 the influences that people can relate
+00:45:43.740 with hey this influencer looks like me
+00:45:45.900 where the kind of things I like and I
+00:45:47.640 follow that person and some of the
+00:45:49.500 influencers are very original kind of
+00:45:51.000 products they choose and they recommend
+00:45:52.680 and so on so it's not like very
+00:45:54.660 concentrated that hey this person looks
+00:45:56.339 at this and that person looks at this I
+00:45:58.020 feel now it's very decentralized to some
+00:46:00.720 extent and everyone knows what kind of
+00:46:02.400 person
+00:46:03.660 feels like a body double to me right
+00:46:05.460 like hey this person has the same belief
+00:46:07.619 same liking same kind of body and I like
+00:46:09.420 this person I want to buy what they
+00:46:11.400 would look in
+00:46:12.480 so I feel that's happening at the very
+00:46:14.579 core of this distinction you're saying
+00:46:18.000 people are mandating or people are
+00:46:21.180 governing what becomes cool and it's not
+00:46:23.099 the brands of cooperation correct
+00:46:25.140 leading and brands are following to some
+00:46:27.359 extent now I see this to be very strong
+00:46:29.160 and I feel this is only getting bigger
+00:46:31.140 and bigger and I bet if there is a
+00:46:33.300 reason for it we'll see like he was
+00:46:35.099 saying
+00:46:35.880 the social media especially this video
+00:46:39.540 platforms let's say you can say tick
+00:46:41.460 tock shows whatever like Instagram
+00:46:43.579 Facebook there are so many distribution
+00:46:45.780 big platform
+00:46:47.160 where more than hundreds of millions of
+00:46:49.859 users
+00:46:51.359 Egypt tier 2 tier three cities or in May
+00:46:55.619 um
+00:46:58.920 and they
+00:47:00.300 they like those videos it's very hard
+00:47:02.880 for us to relate to why these guys are
+00:47:05.040 watching so much and ultimately some
+00:47:08.160 Styles some products something
+00:47:11.060 and they wanted to look like it because
+00:47:13.500 they spend so much of time
+00:47:15.119 so I think like he was saying that
+00:47:17.220 social I think it is becoming a
+00:47:18.839 mainstream
+00:47:20.839 I I was just telling you when we were
+00:47:23.579 solving this predictability hey the
+00:47:25.920 goods were going to be delivered within
+00:47:27.839 a one day two days or in one week depend
+00:47:30.599 on the location and all
+00:47:32.579 I think this generation for them it's
+00:47:34.800 given
+00:47:36.180 that they are not thinking about it hey
+00:47:38.460 how I was talking about a payment
+00:47:40.619 Gateway integration
+00:47:47.819 uh
+00:47:49.140 I think people now are wanted to look
+00:47:52.140 good wanted to look different if you are
+00:47:55.380 asking who are the influencer if in
+00:47:57.900 their society they know some guys who
+00:47:59.940 have like thousand uh people follower 10
+00:48:03.000 000 follower and they are getting
+00:48:04.920 inspired guy can become influencer they
+00:48:07.859 are endorsing the brand local brand
+00:48:09.420 chips some shop something and they are
+00:48:12.839 Innovative if because they they wanted
+00:48:14.819 to look different in every video because
+00:48:16.740 they are creating reels also so what
+00:48:19.200 they do go to mall go to changing room
+00:48:22.140 just change and take one video because
+00:48:24.599 they cannot spend that much of money say
+00:48:27.420 I think now they endorse in a different
+00:48:29.640 way
+00:48:30.839 so is that the future instead of
+00:48:32.760 marketing on newspaper TV we look at it
+00:48:36.119 because being a part of the old economy
+00:48:38.400 the
+00:48:39.180 we believe that whenever a dominant
+00:48:41.339 Media or communication method Changes
+00:48:43.260 Everything Changes around it
+00:48:45.240 so when when there was a newspaper then
+00:48:48.000 the radio then the television television
+00:48:49.740 commoditized build Brands now that's
+00:48:52.560 social media and social interaction and
+00:48:55.619 I think mobile phone makes you very
+00:48:58.440 individualistic because now at at any
+00:49:01.260 every home everybody has a different
+00:49:02.579 breakfast everybody has a different meal
+00:49:04.940 used to sit together and had one kind of
+00:49:08.040 meal things have changed and we have
+00:49:10.079 become very individualistic because of
+00:49:11.460 everybody other personal phone so things
+00:49:14.099 are changing around it you so every
+00:49:16.260 person has a personal preferences of
+00:49:17.760 influencer unit you need so many people
+00:49:20.099 now
+00:49:21.180 to get influenced mother if somebody
+00:49:23.099 will get influenced by something
+00:49:24.000 somebody will get in informed by
+00:49:26.040 something earlier it was mass
+00:49:27.480 advertising I remember we we made a
+00:49:29.579 movie and there was a particular dress
+00:49:31.980 which was made by Biba and they still
+00:49:34.200 sell the dress after 14 years or 15
+00:49:36.000 years and that virtually that dress made
+00:49:38.640 Diva as a brand also to a great extent
+00:49:40.980 so earlier there were other influences
+00:49:42.900 but it was it was commoditized to a
+00:49:45.359 great great extent but today things are
+00:49:47.460 different it's getting individualistic
+00:49:49.500 more and then you have to find that kind
+00:49:51.599 of users together and make them into a
+00:49:53.880 group so for the future of building a
+00:49:56.640 product for the new consumer brands that
+00:49:58.440 are coming up today
+00:49:59.880 is the go-to strategy just that paying
+00:50:02.940 influencers to promote your product no I
+00:50:05.339 think it's a
+00:50:06.680 for Brands I think now it's a very core
+00:50:09.900 part like if you don't like align with
+00:50:12.300 information you don't have a message
+00:50:13.260 like I could be saying
+00:50:15.420 my brand is sustainable my brand is XYZ
+00:50:18.180 my brand does a certain kind of fashion
+00:50:21.359 does the brand try to build their
+00:50:24.240 distinction through that brand message
+00:50:26.040 or
+00:50:27.780 is the lower hanging fruit going to the
+00:50:30.540 influencers who have the widest reach in
+00:50:32.880 paying them money to adopt the brand in
+00:50:34.980 a way
+00:50:36.359 it's happening a lot and by the way it's
+00:50:38.280 just not about finding the biggest
+00:50:39.660 influencer as I was saying now
+00:50:41.400 influences stand for different things
+00:50:43.020 yeah so you have to find someone who is
+00:50:45.420 very close to the philosophy then the
+00:50:47.940 brand wants to build
+00:50:50.000 a brand yeah yeah by the way people have
+00:50:52.859 become very conscious they look at
+00:50:54.660 everything hey who have you picked what
+00:50:56.579 does this person believe in you say
+00:50:58.020 sustainable I see this person using a
+00:51:00.119 plastic water bottle I don't believe
+00:51:01.440 this person's sustainable my point is
+00:51:03.480 like everything every detail somehow
+00:51:05.040 matters now right because people spend
+00:51:06.780 so much time so it's just not you can't
+00:51:09.900 go and that's why influencers work in
+00:51:11.940 very very small influence are very
+00:51:13.500 effective because it just not go to the
+00:51:16.440 celebrity with millions of followers you
+00:51:18.720 have to find someone who connects with
+00:51:20.940 the principle of the brand if you see I
+00:51:23.400 think it's just
+00:51:24.900 earlier like you said the unidimensional
+00:51:27.240 control Channel even like newspaper TV
+00:51:30.240 and we were control because of this
+00:51:32.339 social media Revolution multiple access
+00:51:35.339 yeah uh Innovations are happening
+00:51:37.619 multiple access it's very hard to pick
+00:51:40.140 one trend
+00:51:41.400 some Trends are working Links at tier
+00:51:43.260 one some tier two some like high high
+00:51:45.540 paying capacity some Genji's some uh uh
+00:51:48.540 Millennials and and it's very hard to
+00:51:51.300 pick Trends but if you see the
+00:51:53.819 the platform which are
+00:51:56.099 responsible for this social media let's
+00:51:58.260 say Instagram or Facebook now they are
+00:52:01.319 creating a fund
+00:52:03.000 so to engage these influencers because
+00:52:05.880 if the commercially they will not
+00:52:07.440 commercially
+00:52:09.240 if they will not be engaged it's very
+00:52:12.000 hard for them to come again and innovate
+00:52:14.520 so now they're creating a fund for it
+00:52:16.800 and somehow they are creating economics
+00:52:19.559 currently those are broken uh because
+00:52:21.900 the people who are finding those numbers
+00:52:24.780 of influencers they are creating those
+00:52:26.520 infrastructure but currently it's broken
+00:52:28.200 so these are Big Innovations are
+00:52:30.119 happening how to create that font so
+00:52:31.680 that all these influencer at multiple
+00:52:33.599 access keep engaged with the platform
+00:52:36.420 so I think and I see retail as becoming
+00:52:40.380 a byproduct of that and do you think
+00:52:42.240 celebrities like I'm talking about old
+00:52:44.700 school celebrities Bollywood
+00:52:47.160 cricketers
+00:52:49.140 do you think that connection has
+00:52:51.000 somewhere gotten lost because people
+00:52:53.400 have assumed in their minds that they
+00:52:56.760 are for sale in a way and readily ever
+00:52:59.400 do they believe in the product they are
+00:53:01.260 selling
+00:53:02.460 and will the trend in the future be that
+00:53:05.099 brands do not go to Bollywood or Cricket
+00:53:07.319 but they go to more micro influencers in
+00:53:10.559 a way who are more authentic I think
+00:53:14.460 it is happening slightly but I think
+00:53:17.220 that's still not the prominent reason
+00:53:18.599 like the reason people go to influencers
+00:53:20.460 because earlier by the way it was binary
+00:53:22.079 either you have a big celebrity or you
+00:53:23.760 don't right and until you become large
+00:53:25.740 enough to afford a celebrity you can't
+00:53:27.300 do it now people can start on day one
+00:53:29.400 you could be a very small one you find a
+00:53:31.020 small influencer who connects with your
+00:53:32.220 philosophy and people keep graduating
+00:53:34.200 there's still very few influencers who
+00:53:36.960 have the same following as celebrities
+00:53:38.280 so what you're saying still hasn't
+00:53:39.599 happened but I believe by the way will
+00:53:41.280 happen soon in the next few years some
+00:53:43.680 large celebrities will have the same
+00:53:45.059 following as some large influences same
+00:53:47.760 following as celebrities you guys do a
+00:53:49.500 lot of marketing we do and we are seeing
+00:53:51.420 by the way like marketing budget how
+00:53:53.579 much do you spend last year it's a it's
+00:53:55.380 a large amount I won't mention the
+00:53:56.520 number here but I think it does not
+00:53:57.839 matter I want you to see but I won't
+00:53:59.760 mention still
+00:54:01.440 but let's say a misho spent something
+00:54:03.540 like 2000 crores a year to Market
+00:54:05.640 what I'm wondering is
+00:54:08.220 how do you decide the allocation of that
+00:54:11.160 money
+00:54:12.000 what have you learned say for example
+00:54:14.099 last year you sponsored IPL and this and
+00:54:16.440 that and stuff like that and actors and
+00:54:18.720 stuff what have you learned from that
+00:54:21.540 experience
+00:54:22.740 and what will you change going forward
+00:54:25.319 yeah so the one thing which we have
+00:54:26.760 always seen very effective is we are
+00:54:28.319 very local
+00:54:29.280 we go as local as possible because our
+00:54:31.740 audience space is very heterogeneous
+00:54:34.140 unlike tier one which also is also like
+00:54:36.420 very if you look at Instagram looks very
+00:54:38.940 homogeneous right like tier one tends to
+00:54:41.339 behave very similarly as soon as you go
+00:54:42.960 beyond it does not so you've always been
+00:54:45.359 very local so we go
+00:54:47.900 and pick an actor or pick an actress or
+00:54:50.819 a celebrity that connects with that
+00:54:52.200 person something we've always been very
+00:54:54.420 local we have seen that to be very
+00:54:55.740 effective
+00:54:56.819 um but I mean it's at the end of the day
+00:54:59.220 it's Capital allocation right you spend
+00:55:01.200 x amount you spend y amount you see
+00:55:03.839 where the ROI happens we've seen over
+00:55:06.780 time
+00:55:07.740 like it's not that you need to have a
+00:55:09.660 celebrity all the time right like so we
+00:55:11.700 keep changing celebrities so that click
+00:55:14.460 the company's image is not attached to
+00:55:15.839 one person right like that that is also
+00:55:18.240 risk at the end of the day can you use a
+00:55:19.619 celebrity huh how much does your Roi go
+00:55:21.960 up
+00:55:22.980 while you're using a celebrity versus
+00:55:24.839 not using is there a tangible difference
+00:55:26.940 very hard to estimate yeah super hard
+00:55:28.920 like if someone asks you this question
+00:55:30.359 it's all anecdotal it's like people
+00:55:33.000 build stories around it it's not an
+00:55:35.220 estimate
+00:55:37.140 um
+00:55:37.859 which was the biggest hit of marketing
+00:55:39.720 last year what worked best
+00:55:42.180 Diwali campaign did very well which is
+00:55:44.160 where we did localization so we kind of
+00:55:46.680 we had different
+00:55:48.059 celebrities for different parts of the
+00:55:49.980 country right like we'll had sorrow
+00:55:52.319 Ganguly for West Bengal we had Ram
+00:55:54.359 Charan for
+00:55:55.800 uh certain state in South India so I'm
+00:55:57.960 saying it's a it's basically we went
+00:56:00.180 very local we saw that to be much more
+00:56:01.800 effective than have one person who
+00:56:03.359 appeals to all the country because you
+00:56:04.800 realize it's close to impossible to find
+00:56:07.380 one person who appeals to everyone you
+00:56:09.119 can find cricketers but they still
+00:56:10.200 appeal to males and not to females so
+00:56:12.420 it's it's very very hard so I'm saying
+00:56:14.160 we have we found localization to be very
+00:56:17.160 effective should we eat off and then
+00:56:19.319 continue you want to say something I
+00:56:21.720 just think that we even celebrity
+00:56:24.240 they are want they are investing like
+00:56:27.000 significant time to become influencer if
+00:56:29.640 you'll see the trend like cricketer is
+00:56:31.980 showing I'm going to bed singing uh um
+00:56:37.640 you'll see all those and they're like
+00:56:39.960 serious amount of time they they spend
+00:56:42.119 they also understand those trends
+00:56:45.359 so they wanted even in that space they
+00:56:47.640 wanted they're competing they wanted to
+00:56:49.319 become one of the largest influencers
+00:56:52.880 in our space in fintech there are some
+00:56:56.579 people that are sharing there is
+00:56:59.180 there is things cool I think these guys
+00:57:02.579 are especially people like things School
+00:57:06.119 uh I think there is a
+00:57:08.880 there is a big divide between the
+00:57:11.160 quality of content they're doing and
+00:57:13.500 other people are doing I don't know how
+00:57:14.940 they've arrived at that point I'm not an
+00:57:16.920 investor in things school I'm not
+00:57:18.300 promoting them in any way whatsoever but
+00:57:21.740 I think the future of information
+00:57:25.339 dissemination even about Finance is
+00:57:29.099 going to move from traditional channels
+00:57:31.619 to people like them
+00:57:33.359 like I don't think the days far five
+00:57:36.300 years from now somebody will not be
+00:57:37.920 watching news they will be watching
+00:57:39.660 things cool for their news
+00:57:42.599 and I wonder how this entire equation
+00:57:45.059 changes and who becomes celebrities of
+00:57:48.240 10 years from now
+00:57:49.859 it'd be quite interesting to see how the
+00:57:51.660 world changes though
+00:57:53.160 I think celebrity
+00:57:55.440 I think earlier because
+00:57:57.740 most of the followers were related to
+00:58:00.240 celebrity I think my mind if let's say
+00:58:02.040 if I like Cricket or let's say some
+00:58:04.079 sports it's a skill game I think it will
+00:58:06.960 not going to change still I will going
+00:58:08.940 to prefer that but how commercially I
+00:58:12.420 can associate
+00:58:13.680 I think might be it will be different
+00:58:15.119 but lots of things I like because that
+00:58:17.579 guy is doing I wanted to be seen like
+00:58:19.980 him or something like Fitness or or some
+00:58:23.040 some of the clothing styles but who will
+00:58:25.980 sell those products might be different I
+00:58:28.500 think like we were speaking let's get
+00:58:30.119 some insights from yes so you want to
+00:58:33.420 know the past the present and the future
+00:58:36.180 of Commerce in the country
+00:58:42.380 not whatever 30 35 years we have worked
+00:58:45.780 there is a lot of things which you
+00:58:47.280 learned during the journey
+00:58:48.960 and journey is a lot of people believe
+00:58:52.200 India is infinite Market because of our
+00:58:53.940 20 percent of the world's population
+00:58:56.400 and I think that's India is a very very
+00:58:59.339 interesting country the most
+00:59:00.540 heterogeneous country you can ever
+00:59:02.280 believe in I'll give you an interesting
+00:59:03.780 example of a temple
+00:59:05.700 or a religious economy India small
+00:59:09.059 shrines
+00:59:11.520 Temple
+00:59:18.359 pants
+00:59:21.599 Temple economy
+00:59:24.180 microeconomics
+00:59:30.420 and I believe 20 percent of India or 30
+00:59:32.760 percent of India in some sense lives on
+00:59:34.619 government Aid
+00:59:36.540 so when you look at the entire Market of
+00:59:38.760 ethics
+00:59:43.260 and what unfortunately the reports with
+00:59:46.559 the Consulting companies make
+00:59:48.240 I was just I was reading all the data
+00:59:50.280 okay e-commerce careers
+01:00:00.380 foreign
+01:00:01.920 and to make that happen it can't happen
+01:00:04.619 with commodity play or it can't happen
+01:00:06.240 with uh
+01:00:07.559 where the valuation is not there
+01:00:09.839 so my theory which we I wrote it also a
+01:00:12.599 long time back in my book is anybody
+01:00:14.760 I called that India is divided into
+01:00:16.740 three parts free India consumption India
+01:00:19.260 won India to India three India what is
+01:00:21.480 the consuming class anybody who has a
+01:00:23.400 domestic help is for me is a consuming
+01:00:25.559 class
+01:00:26.280 because consuming Matlab not basic
+01:00:28.319 consumption but some value added
+01:00:29.700 consumption India 2 is the serving class
+01:00:31.980 which makes our lives better the diver
+01:00:33.839 the helpers the peon The Watchmen the
+01:00:35.640 lift men and for everyone India won
+01:00:37.740 there is three to three and a half India
+01:00:39.180 too and unfortunately India one doesn't
+01:00:41.339 give enough money to India to to make
+01:00:43.319 them consume this krishnary products
+01:00:47.880 and then there is India 3 which is Farm
+01:00:50.520 laborers they live on AIDS and effective
+01:00:54.480 workers
+01:01:04.160 I would say like in a city like Bombay
+01:01:06.780 it's a very interesting definition until
+01:01:08.520 some years ago
+01:01:11.040 25 percent of people used to live in
+01:01:13.319 apartments I would say 10 years ago
+01:01:15.240 today it might be 35.
+01:01:17.640 five to eight percent people lives in
+01:01:19.500 lived in Charles
+01:01:20.940 and balance lived in slums
+01:01:23.940 so
+01:01:27.140 India I think every city will represent
+01:01:29.880 in some way or the other but if you had
+01:01:31.859 to aggregate the country what do you
+01:01:33.240 think I would say 11 to 13 percent would
+01:01:35.040 be the consuming class India one India
+01:01:37.559 one which is 20 crore which is around 20
+01:01:40.680 crores
+01:01:42.839 and it might be growing and I think it's
+01:01:45.059 growing
+01:01:46.680 and what pace of growth will depend will
+01:01:49.260 determine everything and unfortunately
+01:01:51.660 we live in that Community only that
+01:01:54.000 India one Ruby Equity investors
+01:02:12.119 I wanted to see India
+01:02:14.160 is
+01:02:20.040 and oh that's why I always say there was
+01:02:23.280 a movie which became very popular during
+01:02:24.780 our time
+01:02:26.660 and there was a song called
+01:02:32.299 in India we want to succeed but I think
+01:02:36.119 India is 20 percent of the world 18 to
+01:02:38.099 20 percent of the world's population it
+01:02:39.720 for the whole world I think it was the
+01:02:42.119 European economy the American economy
+01:02:44.220 which consumed which made the world grow
+01:02:46.079 then the Chinese economy which made the
+01:02:47.700 world grow now it's India's time India
+01:02:49.920 will have to learn to consume much much
+01:02:52.079 more than what they are consuming and
+01:02:54.540 that's what will drive uh
+01:02:57.140 some of the numbers if you'll see sir
+01:02:59.579 I'm just I'm not contesting key a b and
+01:03:03.000 they're a bucket and I uh the places
+01:03:05.700 that we have come from I totally agree
+01:03:08.160 but some of the numbers you'll see if
+01:03:10.440 it's true I think it's mind-boggling
+01:03:12.599 let's say
+01:03:14.099 India GDP when I was passing out in 2003
+01:03:17.520 was around 500 billion dollars
+01:03:20.220 all right
+01:03:23.579 and now it's I'm just checking what the
+01:03:26.160 number published it's around let's say
+01:03:28.020 I'm taking 3.5 trilling seven times has
+01:03:31.140 increased in 20 years
+01:03:34.619 let's say Farm GDP which is 17 18 I
+01:03:37.740 think that's the number 16 18. which
+01:03:40.799 comes around
+01:03:41.960 550 600 billion at this level but that
+01:03:45.599 farm income only happening
+01:03:48.839 in tier 2 Beyond
+01:03:51.240 because
+01:03:55.400 all right
+01:03:59.579 eighty percent of it
+01:04:01.680 and but those numbers even because the
+01:04:04.020 no tax and all
+01:04:05.940 PPE prepay I think it's around if we'll
+01:04:09.480 see 800 900 billion dollar kind of
+01:04:11.880 impact it can create so that's a huge
+01:04:13.740 numbers
+01:04:14.480 value addition value Edition
+01:04:31.760 eleven thousand dollar
+01:04:47.599 even when you're calculating per capita
+01:04:50.220 GDP you're taking total GDP and dividing
+01:04:53.339 by population uh no so some bit of it to
+01:04:55.980 remove so it's around
+01:04:57.559 2700 currently how do you how do you
+01:04:59.940 arrive at that number though do you take
+01:05:01.619 the total total divide by population and
+01:05:04.500 average people use which is 2 000 is
+01:05:06.540 with that that would skew everything
+01:05:07.980 right but yeah the distribution which is
+01:05:09.540 what you come to I think there are so
+01:05:11.160 many economies within that economy which
+01:05:12.540 government said that 2500 recently but
+01:05:15.260 like in GDP plus debt recovery
+01:05:18.920 calculator
+01:05:21.799 you take out the Ambani and adani from
+01:05:24.420 the top yeah it's okay
+01:05:30.500 there is another thing another
+01:05:33.000 Statistics which I want to India is is a
+01:05:36.059 two crore weddings a year Mother one
+01:05:37.740 crore weddings two core of families we
+01:05:40.020 produce two and a half crore children
+01:05:41.940 every year foreign
+01:06:34.920 providing India consumption is driven by
+01:06:38.579 a lot of societal events look at the
+01:06:40.500 harvesting Festival consumption
+01:06:42.319 consumption used to happen during
+01:06:43.980 harvesting which talks about your
+01:06:45.299 agriculture
+01:06:51.260 I think like it business the technology
+01:06:55.140 business created around how many people
+01:06:57.359 nearly crore plus families would have
+01:07:00.480 got uh into their business and that
+01:07:02.880 created a lot of consumption we need
+01:07:04.740 next round of uh what do you think about
+01:07:06.900 me next round will be I think we'll have
+01:07:08.940 to participate in something I think a
+01:07:11.579 creative economy is a big economy which
+01:07:13.260 is greater economy creative economy
+01:07:15.059 India can Excel there also we are
+01:07:17.099 fascinated by the generative AI very
+01:07:19.079 very fascinated imagine in retail
+01:07:20.880 business in a grocery business somebody
+01:07:23.099 will tell okay I want to make this item
+01:07:25.440 for the next five days
+01:07:27.000 the retailer will give exact quantity of
+01:07:29.720 what you want
+01:07:32.099 so the packaging will change Everything
+01:07:33.660 Will Change
+01:07:36.480 so the any new technology will bring in
+01:07:39.539 so many changes and the whole ecosystem
+01:07:41.220 around it changes
+01:07:42.859 also another question like I'm going to
+01:07:45.299 come to both of you and ask what are the
+01:07:47.520 trends for the future and what do you
+01:07:49.020 see changing
+01:07:50.160 but since u3 have worked so much in this
+01:07:53.819 space
+01:07:55.020 at the core of it
+01:07:57.559 products like why does something sell
+01:08:00.780 and why does something not sell if you
+01:08:03.780 had to
+01:08:04.799 provide insights from that what would
+01:08:07.079 you say like maybe you can start first
+01:08:10.140 I think a product uh product sells
+01:08:12.960 because it fulfills the
+01:08:14.599 needs of the customer so what we used to
+01:08:18.000 say is there is a daily want and there
+01:08:19.859 is a daily need of a customer and there
+01:08:21.299 is occasional want and occasional needs
+01:08:23.040 so your product has to fit in somewhere
+01:08:25.319 and there are occasional consumption and
+01:08:27.479 there are daily consumptions
+01:08:28.920 so your product has to solve the needs
+01:08:31.620 of that customer the wants of that
+01:08:33.060 customers
+01:08:34.140 secondly product sales because
+01:08:37.080 you are fulfilling some vanity or some
+01:08:39.359 ego of that person if you are selling a
+01:08:41.100 high value product yeah so how do you
+01:08:43.799 recognize
+01:08:44.880 these needs if I am somebody who wants
+01:08:47.939 to sell a product today how will I get
+01:08:50.460 data on
+01:08:51.839 what cure somebody's ego or vanity what
+01:08:55.439 is his need how do I go about figuring
+01:08:58.198 out what product to design
+01:09:00.660 I think the the society is changing the
+01:09:02.580 world is changing you can look at uh
+01:09:05.880 what is getting popular
+01:09:07.620 so so like we always thought when otd
+01:09:11.580 came in and kovid made it happen that
+01:09:13.620 people watched the longer form of
+01:09:15.179 Storytelling nobody believed that
+01:09:17.040 storytelling can be told in 10 10 hours
+01:09:18.960 or 20 20 hours storytelling was supposed
+01:09:21.540 to be within less than three hours it
+01:09:24.660 changed the whole Market I think the
+01:09:26.219 whole content Market the cinema the
+01:09:28.080 multiplexes it will undergo significant
+01:09:30.779 change so what what now what to produce
+01:09:33.899 with the customer or the audience likes
+01:09:35.939 today the entire Hindi Bollywood film
+01:09:37.859 industry is struggling there was a movie
+01:09:40.080 I'm told it didn't run even for a day
+01:09:43.080 to take it out and it's happening this
+01:09:45.540 kind of mishaps are happening like crazy
+01:09:46.859 yeah and so what do you create for
+01:09:49.319 Multiplex as a content
+01:09:51.359 I think everybody's getting into the
+01:09:53.160 drawing board mother this is true for
+01:09:55.920 retail very very strongly I've seen when
+01:09:58.320 the channel changes what cells also
+01:10:00.480 change absolutely always absolutely
+01:10:02.640 right so because as soon as the
+01:10:04.739 challenge changes like what you discover
+01:10:06.480 first like for example earlier when you
+01:10:08.640 used to go offline you will touch the
+01:10:10.980 product that was a big part of what you
+01:10:12.660 buy now you can't do it right so
+01:10:15.179 suddenly pricing takes a big like I have
+01:10:17.460 seen online pricing suddenly is a lot
+01:10:19.920 more important because touch and quality
+01:10:21.960 is somehow it's very hard to pick now
+01:10:24.780 merchandising inspiration photographs
+01:10:26.940 social matters a lot which was not there
+01:10:28.860 earlier
+01:10:29.760 so as soon as Channel changes like your
+01:10:33.120 what sales change changes like
+01:10:35.760 completely
+01:10:37.199 now internet was a big thing mobile was
+01:10:39.480 a big thing now ai I don't know what
+01:10:41.880 that is right like AIS will also kind of
+01:10:44.100 change some of these channels absolutely
+01:10:45.840 right meta was supposed to be now it
+01:10:48.000 doesn't feel like going to happen
+01:10:48.960 anytime soon but if that happened it has
+01:10:51.000 a good has big potential in shopping
+01:10:53.100 like it should be like if if medium
+01:10:55.739 becomes large by the way then the
+01:10:57.300 channel especially for shopping will
+01:10:58.860 change then what you buy will be very
+01:11:00.900 different like if these guys like meta
+01:11:03.900 with all the access to
+01:11:05.940 so much information is spending 15
+01:11:08.760 billion dollars or 16 billion dollars a
+01:11:10.860 year on creating that ecosystem
+01:11:14.219 would you say it's likely that that will
+01:11:16.620 be the future
+01:11:17.880 it's it's very hard because historically
+01:11:20.520 if you see whenever big technology
+01:11:22.199 shifts come they generally don't come
+01:11:23.640 from large company they come from
+01:11:24.900 startups right so it's very hard that
+01:11:26.580 they will know what people need meta
+01:11:29.640 will know right like that's a like every
+01:11:32.100 single time all of these technologies
+01:11:33.719 have come they never come from existing
+01:11:35.219 large incumbents right so I find it
+01:11:37.620 unlikely it will happen it may happen
+01:11:39.239 like who knows
+01:11:40.620 but historically it's never been
+01:11:44.940 right and what do you think like I was
+01:11:47.219 asking him like
+01:11:48.600 what do you think is working today and
+01:11:51.840 what do you think will work tomorrow
+01:11:53.040 when it comes to selling a product
+01:11:55.980 so I think I again my assessment is
+01:11:59.400 this whole thing of serving need has
+01:12:01.920 become a lot more of serving aspirations
+01:12:03.840 now as I was saying most people come
+01:12:06.300 Society is changing so both people now
+01:12:08.640 have a lot more discretionary income as
+01:12:11.340 people say so it's not that when they
+01:12:13.320 want to buy they buy
+01:12:15.000 now people open the app and they want to
+01:12:17.520 look like the celebrity or look like
+01:12:18.960 this influencers because they feel it's
+01:12:20.699 much better and you fulfill their
+01:12:22.380 aspiration they feel much more happier
+01:12:23.880 right so now I think some bit of the
+01:12:26.219 consumption started to happen and we're
+01:12:27.780 still talking about that 15 20 crore
+01:12:29.580 population of India like so for example
+01:12:32.040 just in the last 12 months 14 Karo
+01:12:33.840 people have bought in Misha so I'm
+01:12:34.980 saying it's a large they go to a much
+01:12:36.480 larger audience right so now it's it's a
+01:12:38.820 lot of people who are like the India too
+01:12:40.739 is
+01:12:42.600 we have a lot of India 2 users on our
+01:12:44.640 platform you're saying is misho
+01:12:46.800 predominantly India one with some India
+01:12:48.960 too or is it like India one plus I would
+01:12:50.940 say both right both balanced we don't
+01:12:53.640 have India one is very broad segment
+01:12:55.440 right so we don't have the top 10 15
+01:12:57.060 million I would say about everyone else
+01:12:58.380 you see India two's discretionary income
+01:13:00.840 Rising
+01:13:01.860 so it's still small and that's why our
+01:13:04.860 job is to like within that small wallet
+01:13:07.140 still help them fulfill those
+01:13:08.219 aspirations they still go on Instagram
+01:13:09.600 they still follow someone and they say
+01:13:11.820 hey no I don't have the same amount of
+01:13:13.140 money can you help me fulfill this
+01:13:14.400 aspiration the very small budget which
+01:13:16.620 is what we've solve but they also have
+01:13:18.600 aspirations very very strong ones so we
+01:13:20.699 had a very interesting uh another thing
+01:13:22.620 like India one consumes uh in their
+01:13:24.900 lifetime I would have consumed uh at
+01:13:27.780 least 10 000 skus or but India too
+01:13:31.860 or India 3 India 3 will be 200 skus
+01:13:35.340 India too would be
+01:13:37.440 I don't know how much but not more than
+01:13:39.239 400 500 in their lifetime
+01:13:42.060 so that's Rising correct I would say
+01:13:44.580 India would have consumed only 100 skus
+01:13:46.679 at one point of time now it's rising
+01:13:48.659 going up now they want from that to a
+01:13:51.179 toothpaste to this to a cream to
+01:13:53.159 everything so that's that's happening so
+01:13:55.620 you're saying it makes sense to build
+01:13:57.600 products which appear to be aspirational
+01:14:00.719 today and what do you think will be
+01:14:02.760 tomorrow
+01:14:05.400 it's very hard I just feel like a lot of
+01:14:08.640 this as per capita goes up this 2000
+01:14:11.640 goes to four thousand most of the
+01:14:13.620 increases happening in discretionary and
+01:14:15.300 not like people fulfill their
+01:14:17.600 non-discretionary needs anyways right so
+01:14:19.980 it's going to come here so I feel that
+01:14:21.780 this aspiration thing is gonna compound
+01:14:23.880 and grow non-linearly going forward
+01:14:26.460 like everyone is doing it and everyone's
+01:14:28.500 doing individually now so early it used
+01:14:30.060 to be a family affair now everyone's
+01:14:31.380 fulfilling their own aspirations
+01:14:32.460 separately everyone follows someone else
+01:14:34.020 on Instagram everyone else has different
+01:14:36.179 things that they Aspire for and they're
+01:14:38.219 fulfilling it again and again and our
+01:14:40.199 job is to basically make it affordable
+01:14:42.659 right like how do we make them
+01:14:45.360 achieve their aspirations affordably is
+01:14:48.000 what we focus on as a company right
+01:14:50.159 right you want to go next
+01:14:52.679 yeah like like it's a very complex thing
+01:14:56.100 I think if you'll see what trend is
+01:14:58.199 working today so if I'm building a
+01:15:00.480 product for today what do you think I
+01:15:02.100 should keep in mind and what trend do
+01:15:04.620 you think will be there tomorrow
+01:15:06.300 I think today
+01:15:09.120 if we'll see it's a how we are if you
+01:15:12.540 are talking about Commerce it drives
+01:15:14.880 from your unit to economics
+01:15:17.600 currently it's making lots of sense to
+01:15:20.640 optimize let's say on supply chain
+01:15:22.679 sourcing inventory calls and everywhere
+01:15:25.800 the technology goes hey uh there's a
+01:15:29.040 festival this skus go so currently we
+01:15:31.440 are picking off which SKU how what and
+01:15:34.860 all those things we are building a
+01:15:37.040 technology infrastructure
+01:15:39.739 consumption predicting next time uh next
+01:15:43.560 year 40 it will grow in this channel
+01:15:46.440 but how channels are changing it's
+01:15:49.800 it's very different like I was just
+01:15:51.840 describing Genji's are thinking in a
+01:15:55.140 very different way about their
+01:15:57.300 consumption
+01:15:58.920 um
+01:15:59.640 Millennials are definitely a bit
+01:16:02.219 thinking and the other people like
+01:16:04.440 traditional consumer who's like price
+01:16:07.199 sensitive quality touch and fail I'll
+01:16:09.840 give one example Genji was saying that
+01:16:12.960 Size Matters too much
+01:16:15.360 to me I will not going to buy online
+01:16:19.219 this clothing size
+01:16:22.199 sorry uh so I'm not going to buy online
+01:16:24.960 because for me I am buying and then
+01:16:28.260 returning again I wanted to look exactly
+01:16:31.199 fit like the celebrity so for me the
+01:16:34.320 price sensitivity is not that much for
+01:16:36.780 me these
+01:16:38.159 site and offline gives me that
+01:16:40.080 flexibility
+01:16:41.760 so I'll see here but I wanted to buy the
+01:16:44.699 what I like offline because that's where
+01:16:47.340 instant I if I'm able to buy offline
+01:16:50.880 so it's a different kind of key I never
+01:16:52.860 imagined because there are so many
+01:16:54.480 policies where saying that hey I will
+01:16:56.640 return within five days ten days again
+01:16:58.860 uh fulfill well the No No it will not
+01:17:01.380 matter
+01:17:02.340 for me it takes lots of time either I
+01:17:05.520 should uh order five six sizes then my
+01:17:09.239 money get stuck
+01:17:11.820 the Insight is uh like we have to be
+01:17:14.820 watch out where the consumers are built
+01:17:17.820 uh spending most of their time
+01:17:20.040 and we have to build some of the
+01:17:21.960 products for according to that channel
+01:17:23.940 so if you'll see most of the evolution
+01:17:26.100 and Sir will agree
+01:17:29.219 has happened technology on back end
+01:17:32.540 rationalizing the technology for
+01:17:34.880 applications like what to give to
+01:17:37.620 Consumers like pricing search things
+01:17:40.560 like the SKU search cataloging things
+01:17:43.260 like that all those investment has
+01:17:44.760 happened in last 15 years I can at least
+01:17:47.040 say that
+01:17:48.600 but nobody knows which channel is
+01:17:51.239 picking up
+01:17:53.040 so I think that's where I'm saying now
+01:17:54.960 the time is to find a consumer
+01:17:57.780 their money where they are liking what's
+01:18:00.540 their liking every like might for
+01:18:02.820 fashion
+01:18:05.159 logically it said let's say social media
+01:18:07.500 is one of the most leading channels but
+01:18:10.380 for Consumer uh for consumer goods like
+01:18:13.020 white goods
+01:18:14.219 is it the performance is it the support
+01:18:16.920 is it the pricing I don't know let's say
+01:18:20.219 buying AC on the social media is very
+01:18:23.340 hard to imagine
+01:18:25.199 mobile phone I am very clear because
+01:18:27.060 it's a feature-led camera LED camera is
+01:18:30.000 dominating let's say mobile as a
+01:18:31.679 category because that that's the
+01:18:33.960 consideration set for for New Generation
+01:18:36.179 as well as for everyone say your son
+01:18:38.520 grows up in five years and he's shopping
+01:18:40.080 I don't know he will buy like a Within
+01:18:42.060 game
+01:18:42.900 he is playing
+01:18:45.620 he can click I wanted to order this I
+01:18:48.659 wanted to look like this
+01:18:50.520 I don't know
+01:18:52.199 or it might be that's not the mainstream
+01:18:54.300 right
+01:18:55.739 another question I wanted to ask is
+01:18:58.860 when aggregation happens even in between
+01:19:01.679 platforms like
+01:19:03.719 soon maybe we will get to a point where
+01:19:05.940 misho is selling everything that is
+01:19:07.860 available Amazon is selling everything
+01:19:10.080 that is available
+01:19:11.760 udon Flipkart everybody
+01:19:14.820 will it come down to curation and
+01:19:18.060 legitimacy in a way as to how I pick
+01:19:21.060 which platform to show up on by the way
+01:19:23.400 it ends up being what your value prop is
+01:19:26.040 right so for example Amazon is very very
+01:19:29.640 focused on about everybody because
+01:19:31.500 you're in this finish with me show what
+01:19:34.020 is Amazon's value proposition Amazon is
+01:19:36.000 like convenience so I want to stand for
+01:19:37.980 communities right so they will make sure
+01:19:39.960 that everything that you order you
+01:19:41.400 always feel like it comes faster here as
+01:19:43.500 compared to anyone else but the flip
+01:19:45.179 side is that often the product is fake
+01:19:47.820 and the quality checks are not at part
+01:19:49.620 it could be right and that's by the way
+01:19:51.540 it's uh it's a thing that they will
+01:19:52.860 continue to improve but one thing they
+01:19:54.300 want to stand for which is this
+01:19:55.560 convenience right and everything else if
+01:19:57.900 you ask me is secondary they'll continue
+01:19:59.340 to make some improvement which not you
+01:20:01.199 have to achieve Excellence here but they
+01:20:03.239 want to do this so they want to stand
+01:20:04.440 for it they will not sell anything where
+01:20:05.820 this somehow gets diluted because the
+01:20:07.440 brand right the value add that people
+01:20:09.540 remember you for is that when they come
+01:20:11.159 to me show people believe that this
+01:20:13.140 selection I will not get for a more
+01:20:16.020 affordable price anywhere else like they
+01:20:17.820 have to believe this and I will get the
+01:20:19.980 largest possible selection in the price
+01:20:21.659 points that I can afford that I also
+01:20:23.760 have to believe now everything that we
+01:20:25.500 do in our business basically
+01:20:27.360 I'm I I don't know I think it's a
+01:20:29.219 category wise difference and maybe what
+01:20:31.500 is Flipkart in Amazon's distinction
+01:20:34.380 I think mostly you can for a long time
+01:20:36.360 if I have to tell you the truth I bought
+01:20:38.760 stuff on Flipkart out of some stupid
+01:20:41.640 notion that they're an Indian company in
+01:20:43.920 nationalism but now after Walmart deal I
+01:20:46.980 don't see any distinction between
+01:20:48.060 Flipkart and Walmart I would just as
+01:20:50.340 well Buy in Amazon as I might in
+01:20:52.980 Flipkart how does Flipkart do things I
+01:20:55.739 think the DNA of the company I can
+01:20:57.600 definitely talk about I think we were
+01:20:59.340 building the
+01:21:02.520 company then it was like how to give a
+01:21:05.100 best value propositional surprise
+01:21:07.219 service let's say Cod building a
+01:21:10.739 logistic around that something like that
+01:21:12.480 right would you put that in the category
+01:21:15.480 of convenience and say Flipkart thought
+01:21:17.699 there is only for two players pricing
+01:21:19.739 price like it's a good price at that uh
+01:21:24.120 definitely a price
+01:21:26.400 has a lots of aspects I'm not going into
+01:21:28.679 that but offering what Indian consumer
+01:21:32.100 wants I think Amazon has it like he's
+01:21:34.800 saying that convenience but that
+01:21:37.380 audience in a bucket even in bucket day
+01:21:40.440 is very narrow what do you think of
+01:21:42.480 multiplexes is a good segue into a very
+01:21:44.460 interesting question I remember you
+01:21:45.900 owned a bit of multiplexes you know I
+01:21:47.940 still have I've reduced my shareholding
+01:21:50.100 but I have about two percent and I keep
+01:21:52.739 asking a lot of PVR I was on the board
+01:21:55.380 of Inox for a long time yeah now they're
+01:21:57.179 merged so you know you should tell us
+01:21:59.699 this year like you are interrogating us
+01:22:01.260 I think you should also answer you tell
+01:22:03.420 what's gonna happen multiplexes I'll
+01:22:05.219 tell you truly what were your relief and
+01:22:07.199 why you would think
+01:22:09.420 my trust with Multiplex company started
+01:22:12.840 many years ago okay like maybe
+01:22:15.540 six or seven years ago I had a very very
+01:22:18.300 bearish Outlook of them six seven years
+01:22:21.000 they were pre-pandemic much much before
+01:22:23.400 pandemic I shorted them to begin with
+01:22:26.100 when say PVR was at 1300 bucks 1400
+01:22:29.400 bucks
+01:22:30.900 there were a couple of policy changes
+01:22:32.880 which were happening the foremost of
+01:22:35.699 them being uh it was in court that
+01:22:39.120 people will be allowed to bring outside
+01:22:41.040 food and water and drink it inside the
+01:22:44.400 multiplex and eat it and food as a
+01:22:47.400 income source for multiplexes is really
+01:22:49.320 high as high as 40 45 percent
+01:22:52.140 then it changed pre-pandemic when I went
+01:22:55.620 long these companies
+01:22:58.020 uh because my reasoning changed to India
+01:23:02.880 too like sir mentioned is growing
+01:23:05.280 in terms of entertainment for a family
+01:23:08.159 of four for three hours at sub 1000
+01:23:12.659 rupees in a safe air conditioned
+01:23:15.600 environment the Alternatives were not
+01:23:18.179 many one could argue Cricket is an
+01:23:20.040 alternative but I thought as India too
+01:23:23.400 grows
+01:23:24.440 the the relevance of Multiplex will go
+01:23:27.840 up and they also become like these
+01:23:30.239 distribution hubs which I don't think
+01:23:31.620 they have up until now but if people are
+01:23:33.480 going there so often it gives them the
+01:23:36.000 opportunity to do other kind of
+01:23:37.440 marketing branding advertising all kinds
+01:23:39.900 of stuff
+01:23:41.100 where I sit today I'm confused like
+01:23:43.920 everything else in my life I'm in I'm
+01:23:46.739 shrouded in ambiguity on both sides
+01:23:48.780 because when I talk to people who
+01:23:53.659 say say when I talk to somebody who's
+01:23:56.520 the CEO of hotstar
+01:23:58.260 like he's now the Bangalore guy right
+01:24:00.480 like Sajid has become the CEO the
+01:24:03.980 exit is also our neighbor yeah so he
+01:24:08.219 would give me an Outlook of why Ott will
+01:24:12.060 kill traditional Cinema
+01:24:14.640 but then I talked to somebody like a UFO
+01:24:18.300 movies which is also another company
+01:24:19.980 I've invested in they've managed the
+01:24:22.080 technology around projecting a movie on
+01:24:25.500 the screen
+01:24:26.400 there I start to think
+01:24:29.100 the number of screens available uh the
+01:24:32.640 density of screens in India is still
+01:24:34.679 like much much lower like I would say in
+01:24:37.440 the US there is one Multiplex screen for
+01:24:39.659 30 40 000 people
+01:24:41.480 in China maybe uh for a few hundred
+01:24:45.480 thousand people in India there is one
+01:24:48.420 screen for many many hundreds of
+01:24:50.580 thousands of people and to a large part
+01:24:53.219 of India watching a movie is still going
+01:24:55.380 you know that truck you know space
+01:24:57.480 screen hotel in The Villages and then
+01:24:59.159 everybody gets together
+01:25:01.320 with no kind of choice as to what
+01:25:03.780 content they get to watch uh so for me
+01:25:07.679 but on this last Point as kishori was
+01:25:10.860 saying like anywhere where you use the
+01:25:12.900 population number is somewhat right per
+01:25:16.020 X number of people has a lot of India
+01:25:17.699 three which skews the metric how do you
+01:25:20.280 get to the right number secondly people
+01:25:22.080 believe that India too wants to come
+01:25:24.179 into India one I don't think so
+01:25:26.659 societally
+01:25:28.340 they don't look down they look down upon
+01:25:31.260 us I also think that's the right I feel
+01:25:34.500 like we follow or we try to follow on
+01:25:37.260 the path of the West in China so much by
+01:25:40.380 thinking that
+01:25:42.000 everybody moving into cities all of this
+01:25:45.420 is good for the economy and growth and
+01:25:47.580 all of that I personally believe for
+01:25:49.260 many reasons fragmentation is actually a
+01:25:52.739 model that could work better for today
+01:25:55.140 than it did for China 20 30 years ago so
+01:25:57.900 nikhil I want to say something on this
+01:25:59.400 Multiplex thing
+01:26:00.780 you know when mobile phone came into the
+01:26:03.360 picture and everybody wanted to buy a
+01:26:05.340 mobile phone
+01:26:06.480 where did the budget come from they had
+01:26:08.280 to reduce some spend somewhere and the
+01:26:10.440 biggest impact came on fashion and we
+01:26:12.120 were a part of the fashion business then
+01:26:14.100 and people were changing phone in the
+01:26:15.900 first six months everybody was changing
+01:26:17.340 phone much much faster now it's slowed
+01:26:19.620 down
+01:26:20.219 so what has happened if you look at the
+01:26:21.719 multiplex industry
+01:26:23.460 that money of spend which was supposed
+01:26:25.620 to go to multiplexes depending to
+01:26:27.420 restaurants now
+01:26:28.800 people are spending two and a half hours
+01:26:30.480 Family sitting together friends sitting
+01:26:32.280 together and spending that one and a
+01:26:33.719 half thousand two thousand rupees per
+01:26:35.040 head
+01:26:36.000 and that money is clearly seen people
+01:26:38.040 don't want to watch yeah can I ask you
+01:26:40.560 another question here like the listed
+01:26:43.260 restaurant chains you take Jubilee and
+01:26:46.020 you take Westlife take the franchisees
+01:26:49.139 of big Western counterparts right like
+01:26:50.820 McDonald's Burger King KFC all of that
+01:26:54.179 they all command
+01:26:56.340 a significant premium to the market
+01:26:58.320 right they Trade It
+01:27:00.060 let's say
+01:27:01.500 they're earning 100 rupees their
+01:27:03.179 valuation is seven thousand eight
+01:27:05.280 thousand in some cases 20 000 all of
+01:27:08.219 that
+01:27:09.719 but the unlisted space in restaurants
+01:27:14.219 what happens if somebody comes in and
+01:27:16.500 Aggregates like we spoke about sarvana
+01:27:19.080 Bhavan there are so many of these in
+01:27:20.940 India right if somebody comes and
+01:27:23.639 Aggregates a bunch of these chains
+01:27:25.580 whether total sales comes up on par with
+01:27:28.860 say the Western counterparts which have
+01:27:30.960 dominance do you think there is a
+01:27:33.480 Arbitrage between the valuation of this
+01:27:35.460 to that or they don't need money enough
+01:27:47.960 but the question is does a business
+01:27:51.179 often need money in order to scale if
+01:27:55.020 that is the case with more money you
+01:27:56.460 don't want skill
+01:27:57.840 we all assume that everybody wants kill
+01:28:00.179 I also thought so similarly okay we
+01:28:03.540 expect everybody from last one and a
+01:28:05.580 half a year I have like spent lots of
+01:28:07.500 time on this
+01:28:09.780 making money businesses especially in
+01:28:12.540 this restaurant maybe most of them make
+01:28:14.040 money especially the good one whom you
+01:28:15.719 know
+01:28:17.520 80 they don't want money yeah
+01:28:20.880 they don't want they don't want to
+01:28:22.199 expand and why don't they want to expand
+01:28:24.300 they simply saying that uh our quality
+01:28:27.179 will deteriorate I don't want these
+01:28:29.639 headaches I don't want to dilute they
+01:28:32.100 don't want I think there are two
+01:28:33.780 categories there are a few people who
+01:28:35.699 are defensive but I'm sure that people
+01:28:37.380 are aggressive also okay by the way
+01:28:38.820 people whom you'll accept go and talk to
+01:28:41.280 that owner and yeah but but you see the
+01:28:43.739 experience such a big brand and you go
+01:28:45.420 there and you have 100 people are
+01:28:46.739 standing outside that guy just does not
+01:28:49.139 know how to monetize the assets The
+01:28:50.639 Experience there are the people going
+01:28:52.080 but I'll tell you why why are temples
+01:28:54.120 career why are temples created where
+01:28:55.920 there is no pain and because without
+01:28:57.540 pain there is no gain
+01:29:07.100 and every time get amazed sometimes it's
+01:29:10.020 200 meter line on the on the building
+01:29:13.040 I go to the one in Whitefield which is a
+01:29:15.900 much larger place you will get to eat I
+01:29:18.239 understand but Indra nagar is a like
+01:29:19.980 icon
+01:29:23.719 I get the point you guys are making but
+01:29:26.400 I like to believe that we live in an
+01:29:29.699 aspirational
+01:29:31.100 capitalistic correct ecosystem not as
+01:29:34.080 much as what we think but to a certain
+01:29:36.360 extent we are capitalists there's no
+01:29:38.460 debate on that but it's not as much as
+01:29:40.139 we think if somebody has the opportunity
+01:29:42.780 to expand and
+01:29:45.360 be a bigger winner in the cycle of
+01:29:47.520 capitalism I think human tend is
+01:29:50.280 tendency will persuade him in that
+01:29:52.260 direction eventually at whatever pace to
+01:29:55.440 whatever level of magnitude new food
+01:29:57.540 like new thing is showing but like I
+01:30:00.000 don't know the reason really I I like I
+01:30:02.520 have a my own experience in restaurants
+01:30:03.780 we came into early like a silsila movie
+01:30:06.060 it was a little ahead of time
+01:30:08.760 yeah so
+01:30:10.660 [Music]
+01:30:12.540 and most of the chain in Bombay
+01:30:14.960 blue noodles
+01:30:18.110 [Music]
+01:30:20.239 ahead of time both ahead of time and how
+01:30:23.400 much money we lost we only know
+01:30:38.820 is that why the franchise model with so
+01:30:42.179 much standardization rather than all
+01:30:44.040 these industrialization of uh that's a
+01:30:46.620 qsr yeah
+01:30:47.940 not all qsrs in a way most of it yeah
+01:30:51.840 most of it let's say if I learned
+01:30:53.520 rameshwaram for me will be the qsr if
+01:30:55.679 I'm going to scale it
+01:30:57.780 but oh
+01:30:59.659 that that's how I'll see yeah but it's
+01:31:03.540 you see rameshwaram also gets an extra
+01:31:05.520 space outside for which he is not paying
+01:31:07.139 where people are standing and eating
+01:31:09.300 hmm so I think there is a novelty
+01:31:12.300 attached to that whenever
+01:31:18.620 like if I had to open a restaurant
+01:31:21.120 message
+01:31:24.080 that would probably give me more
+01:31:26.040 business than having 40 shares in there
+01:31:27.719 okay in a weird way that works
+01:31:31.080 never know
+01:31:32.480 but food food is a very interesting
+01:31:34.920 Indians are loving to discover new food
+01:31:36.780 telling you that this coffee coffee
+01:31:38.699 chain three years back or two three
+01:31:41.340 years back no investor is willing to
+01:31:43.980 invest because
+01:31:48.540 now we shall see what happened I don't
+01:31:50.820 even I don't know why it is
+01:31:52.860 but wherever these stores are opening
+01:31:55.020 doesn't matter it's a Bangalore or Delhi
+01:31:57.120 or Mumbai only it's four five City
+01:31:59.280 they're going crazy
+01:32:02.340 still finding that pattern it's not it's
+01:32:04.560 not about that it's about people
+01:32:06.120 spending time it's a social interaction
+01:32:07.980 but earlier also earlier you don't know
+01:32:10.139 but nobody was believing it it's about
+01:32:12.000 at the verge of Truth and coffee
+01:32:13.620 something is one of the byproduct of
+01:32:15.780 whatever other activities you are doing
+01:32:17.340 and maybe sometime the main activity but
+01:32:19.260 you then get into the other activities I
+01:32:20.940 agree with you 100 I'm also like a small
+01:32:23.159 investor with him in third wave in
+01:32:25.739 hockey copy and a couple of coffee
+01:32:27.120 places
+01:32:28.139 when I was reviewing coffee chains and I
+01:32:31.620 was trying to do it as objectively as I
+01:32:33.600 could the difference between the West in
+01:32:36.780 India is in the west people are going
+01:32:39.239 into a coffee shop to actually drink
+01:32:41.040 coffee yeah culture of buying a coffee
+01:32:43.679 and walking especially in New York is
+01:32:46.440 such a big thing that the financials
+01:32:48.360 work out for them
+01:32:49.679 here if you sell a coffee at 200 300
+01:32:52.139 rupees and people have to sit there for
+01:32:53.880 two hours to consume it and you have to
+01:32:56.400 pay for the real estate uh the numbers
+01:32:59.100 you located from a different light
+01:33:00.659 altogether so I don't think in that
+01:33:03.239 particular instance especially in coffee
+01:33:05.540 we can equate what happens here to what
+01:33:08.219 happens in the west to your earlier
+01:33:09.719 example because I don't think we will
+01:33:11.760 copy what they're doing
+01:33:13.980 so you're saying it's harder to make
+01:33:15.900 money here in coffee in India it's hard
+01:33:17.960 just started making money in India yeah
+01:33:20.400 but they have started making money but
+01:33:22.920 they are started making money but qsr
+01:33:25.139 and making good money
+01:33:26.580 good money early to say that but let's
+01:33:29.219 see
+01:33:31.760 how much money did you spend on your
+01:33:33.840 wedding on my wedding I spent way less
+01:33:36.420 yeah this was like long before when you
+01:33:39.179 were raised I had raised any money so
+01:33:41.340 imagine like
+01:33:43.639 when you get married I got married 2018
+01:33:46.800 beginning 2018
+01:33:50.520 but in 2012 but I was at that time 31
+01:33:54.239 year old
+01:33:57.780 Delhi
+01:33:59.460 life is from haryana
+01:34:02.940 would you like to say something about
+01:34:04.320 your personal life like just you've seen
+01:34:06.960 so much in life if you had to advise
+01:34:09.600 with it who's new into this whole family
+01:34:12.840 marriage doesn't have kids yet situation
+01:34:15.500 he also has decided never to have kids
+01:34:17.880 no no I haven't at least yet I don't
+01:34:21.780 know
+01:34:23.040 need something projecting projecting
+01:34:26.280 last course
+01:34:33.440 I I personally believe philosophically
+01:34:36.179 life is a series of events and you have
+01:34:40.080 to enjoy relish cherish every event
+01:34:42.420 which comes in some events will be very
+01:34:45.659 heart pleasing and some events will be
+01:34:47.760 not so great
+01:34:50.159 but I think the fun is
+01:34:52.880 having all kind of events so if you look
+01:34:56.219 at my life like we grew a 30 percent
+01:34:58.860 life was
+01:35:00.780 unbelievable of you it was up up only so
+01:35:04.440 the the lower the lower side was much
+01:35:06.300 much lower this is like a tough question
+01:35:08.520 I don't know if I should even ask it or
+01:35:10.199 not but
+01:35:12.000 in that
+01:35:14.219 30 growth cycle let's assume two or
+01:35:17.820 three things went wrong right like
+01:35:20.460 what do you think
+01:35:23.940 I believe that in life there are two
+01:35:25.860 buckets of things one you can control
+01:35:27.360 another you can't control for what you
+01:35:29.280 can't control there's no point like
+01:35:31.260 breaking your head over it
+01:35:33.000 uh just as advice to us who are like
+01:35:36.600 entrepreneurs or budding ones you know
+01:35:38.820 people around
+01:35:40.800 what do you think went wrong what caused
+01:35:44.820 it and if you had to do it over again
+01:35:47.699 what might you change
+01:35:50.460 so I think I'm a as a personality I'm a
+01:35:53.940 little impulsive person
+01:35:55.800 so what went wrong is basically growing
+01:35:59.580 on debt and not building a strong
+01:36:02.639 balance sheet
+01:36:04.380 so that is one thing which was apparent
+01:36:09.060 third I I then
+01:36:11.420 my daughter is just started studying
+01:36:13.860 Shakespeare so other day some 10 days
+01:36:16.260 back she came out of the class and she
+01:36:17.699 called me after I had one of my best day
+01:36:20.040 of my life
+01:36:21.120 I studied a concept of Storytelling
+01:36:23.340 called the tragic flow so every
+01:36:26.460 character with Shakespeare built had a
+01:36:28.199 flow in that and he used to highlight
+01:36:29.580 that flaw and
+01:36:30.900 that character then I started looking at
+01:36:34.040 and everybody had a flower in India was
+01:36:36.840 never highlighted as much we were
+01:36:38.880 thought that everybody is perfect
+01:36:41.159 so everybody has a fatal flow I
+01:36:43.440 converted this project flow into a fatal
+01:36:45.179 flow and I started analyzing my fatal
+01:36:47.880 flaw and I was able to discover a lot
+01:36:51.360 so and everybody has that flow and I
+01:36:55.380 really I believe every entrepreneur has
+01:36:56.940 a some flaw
+01:36:58.280 which I think which should be taught and
+01:37:01.560 and if somebody can work on it they'll
+01:37:04.080 make less number of mistakes and will be
+01:37:05.580 more successful
+01:37:07.020 so I have gone through flaws and flaws
+01:37:08.940 and flaws
+01:37:10.380 so how do we discover that fatal flaw
+01:37:12.659 for us apology says this like if you go
+01:37:15.060 through Jung Freud Adler like much after
+01:37:19.139 Shakespeare's time obviously but
+01:37:22.260 we are all flawed right we're all
+01:37:24.300 insecure we're all uh not altruistic
+01:37:28.800 like we might like to believe at some
+01:37:31.500 level or we might like to portray there
+01:37:33.239 is one through us there is one Persona
+01:37:35.940 of us which we have created in our own
+01:37:37.500 mind which we believe is not flawed that
+01:37:40.679 Persona and we spend so much time and
+01:37:43.500 effort defending that Persona in denying
+01:37:46.440 our flaw that it makes life more
+01:37:49.620 complicated even for us and for people
+01:37:52.199 around us so different people call it
+01:37:54.780 different thing I think people like Jung
+01:37:56.520 and Adler call it our shadow
+01:37:58.739 uh it is driven by many things like your
+01:38:03.540 childhood has such a big impact on it
+01:38:05.639 like what you did between ages three
+01:38:08.040 four to eight nine
+01:38:09.659 will have so much to do with what your
+01:38:12.360 Shadow is today the financial condition
+01:38:14.639 of your parents the relationship between
+01:38:17.340 your mother and father your relationship
+01:38:19.739 with your siblings and also innately how
+01:38:22.560 you're born as a person
+01:38:23.940 so every psychology uh book kind of
+01:38:27.659 tells you that recognize your flaws they
+01:38:31.020 in fact help you out by doing some
+01:38:32.639 categorization they say this could be a
+01:38:34.620 certain kind of person that could be a
+01:38:36.360 certain kind of person
+01:38:38.340 but because they should be taught to
+01:38:39.900 entrepreneurs and you can find like like
+01:38:43.139 I have a very simple philosophy of life
+01:38:44.940 that music has seven tones there are
+01:38:48.960 five primary colors and there are nine
+01:38:50.520 recorded emotions of human being life is
+01:38:52.320 not so complex so if you look at the
+01:38:54.480 flaws of entrepreneurs I think it can be
+01:38:56.219 defined very well and there are people
+01:38:58.139 like me who or many people like us who
+01:39:00.300 have made a lot of mistakes and how can
+01:39:02.280 it be recorded and thought especially
+01:39:04.560 for entrepreneurs
+01:39:08.340 uh we all have gotten lucky in the cycle
+01:39:11.520 of Life see we're all sitting here
+01:39:12.960 outside of because we've gotten very
+01:39:15.060 laughs right I mean with it is brilliant
+01:39:17.460 sujit is brilliant you're brilliant but
+01:39:19.320 at some level luck has created played a
+01:39:22.920 disproportionate part of
+01:39:24.900 how we arrive to be where we are today
+01:39:27.239 but the problem especially in startup
+01:39:29.580 crowds is because somebody goes from A
+01:39:32.580 to Z in two years in three years in five
+01:39:35.460 years in six years
+01:39:38.400 you don't start to teach yourself so
+01:39:40.920 seriously but the scale of everything
+01:39:42.900 you're saying and doing is so much
+01:39:44.760 bigger that what you were saying and
+01:39:46.920 doing five years ago today will be
+01:39:49.080 looked at through a completely different
+01:39:50.639 lens
+01:39:51.719 so even for that reason I think what he
+01:39:53.880 said is so true that we need to like you
+01:39:57.000 know introspecting is the hardest thing
+01:39:58.739 in life maybe but and that's what I'm
+01:40:00.719 gonna ask like how do you find these
+01:40:02.100 fatal flaws I'm sure like you now have
+01:40:04.020 some ways destruction you can easily
+01:40:06.000 find it
+01:40:07.580 certainly are open to it I think we
+01:40:10.380 always created organization which
+01:40:11.639 allowed descent so that was not the
+01:40:13.320 challenge and secondly we never kept
+01:40:15.060 along ourselves our Echo Chambers never
+01:40:18.060 in our life so everybody knows your
+01:40:21.540 weakness everybody who's around you will
+01:40:23.040 know your weakness you should ask them
+01:40:24.980 no they will never tell you your
+01:40:27.179 weakness ever yeah but how do we get it
+01:40:29.699 out then
+01:40:31.639 to do is normalize having flaws
+01:40:35.400 the problem is yes media and anonymity
+01:40:37.920 what it has done is people go out there
+01:40:39.840 and say about everybody like
+01:40:42.000 one should not care but in many cases
+01:40:44.460 you find yourself caring but until we
+01:40:47.340 come to terms with the fact that you are
+01:40:49.020 flawed sujit is flawed he's flawed I am
+01:40:51.719 flawed until we realize that we each are
+01:40:54.420 and then we realize that we all are I
+01:40:57.360 think people will be scared and shy of
+01:40:59.400 coming out with their first I have one
+01:41:01.679 disagreement which is I believe most
+01:41:03.300 entrepreneurs are very paranoid also so
+01:41:05.219 they believe something's going to go
+01:41:06.300 wrong at all points in time okay
+01:41:08.300 and and that's why I feel like if you
+01:41:10.860 tell them there's something wrong I can
+01:41:12.480 do this and basically fixing this would
+01:41:14.219 mean something will grow and then all of
+01:41:17.340 that happens but I generally feel people
+01:41:18.960 are this is
+01:41:27.020 people who want to acknowledge they
+01:41:28.980 could have flaws I I believe that is not
+01:41:31.440 true I believe most people are paranoid
+01:41:33.300 they just have Blind Side that no one
+01:41:34.920 exposes them to I'll give you an example
+01:41:36.659 of a flow I think just I wanted to add
+01:41:38.520 to that point when he was saying that
+01:41:40.619 there are people and as you entrepreneur
+01:41:42.719 what you do is focus too much on on work
+01:41:45.420 your circle gets shrinked and then you
+01:41:48.300 are get surrounded by those people you
+01:41:50.520 can say that might be they know but they
+01:41:52.500 never wanted to share having those
+01:41:55.040 circles where people can tell you it's
+01:41:57.480 very hard it's very you can tell you
+01:41:59.580 talk to you frankly
+01:42:01.380 or can give kind of feedback some
+01:42:03.420 suggestion and you should be open for
+01:42:05.040 that because you get give a reaction the
+01:42:07.260 channel will going to close I think
+01:42:09.300 those feedback channels are very
+01:42:11.159 important that's what they say
+01:42:12.360 investment it's investment which it
+01:42:14.699 automatically doesn't happen but every
+01:42:16.380 entrepreneur I really personally believe
+01:42:18.420 can easily learn it they are open to
+01:42:19.980 ideas and thoughts of why not do this no
+01:42:21.540 but sir it's very hard when it's it's
+01:42:23.400 hard comes to talk about hey uh somebody
+01:42:26.100 every magazine every corner family
+01:42:28.619 member for mother father everybody's
+01:42:31.320 saying you are perfect you are you an
+01:42:33.360 effect is
+01:42:40.679 and your reaction control that feedback
+01:42:43.139 will come again or not
+01:42:44.880 if you give a different kind of reaction
+01:42:46.860 I think it's our education you are don't
+01:42:48.600 talk
+01:42:49.679 but our education also look at uh Rama
+01:42:53.040 Rama is the perfect human being yeah
+01:42:54.840 that's true but he was also of Florida
+01:42:56.880 it was all about righteousness
+01:42:59.900 I think the question was how to control
+01:43:02.280 that people like we have to go to he
+01:43:04.080 understood the subject in one second he
+01:43:05.580 added up five things more there are
+01:43:06.900 there will be people like him who will
+01:43:08.760 uh who can psychology is the best
+01:43:10.920 teacher like I'll tell you personally
+01:43:12.540 for me right in the last three years
+01:43:14.699 I've stopped reading all books on
+01:43:17.100 finance economy which I used to spend
+01:43:19.260 time reading on growing up history and
+01:43:20.880 psychology I just do history and
+01:43:22.320 psychology I keep telling him like it's
+01:43:24.960 incredible how you will start looking at
+01:43:27.840 yourself from a different lens
+01:43:30.179 because we all spend mythology
+01:43:33.000 totally yeah I am I'm adding yeah we
+01:43:37.440 took mythology as a subject
+01:43:39.260 okay dude digress again uh ondc who is
+01:43:43.560 going to explain it is it
+01:43:46.320 life changing for anybody trying to
+01:43:48.659 build a product in e-commerce
+01:43:51.360 what do you think will happen to ondc
+01:43:53.159 going forward I think you especially
+01:43:55.020 more than all people because you have
+01:43:57.600 these tiny Mom and Pop
+01:44:00.900 kind of stores who come specifically
+01:44:03.360 sell on me show can you explain
+01:44:06.840 yeah so for people who don't know NDC or
+01:44:09.480 NDC basically we've got a lesson today a
+01:44:12.000 little bit yeah about this meeting when
+01:44:14.100 you were late we were watching that oh
+01:44:16.280 something it's her
+01:44:18.960 it's a government initiative trying to
+01:44:23.219 onboard all kinds of small businesses on
+01:44:25.920 a platform
+01:44:27.480 and make
+01:44:28.980 all kinds of small businesses beat Kiran
+01:44:31.500 Etc basically come online and really
+01:44:33.540 unbundle the entire value chain right I
+01:44:36.540 really believe
+01:44:37.560 the vision and the mission there is
+01:44:39.300 quite powerful because you still don't
+01:44:41.940 find any panvadi Etc selling products
+01:44:44.400 online around you right very very India
+01:44:46.199 has about 60 million small businesses
+01:44:48.360 about million million and a half only
+01:44:50.340 sell anything online
+01:44:51.900 so now you can say eventually how many
+01:44:54.239 will do or don't do I don't know you
+01:44:56.580 look at southeast Asia e-commerce they
+01:44:58.380 started four years after India about 15
+01:45:00.420 million people who sell online just in
+01:45:02.520 Indonesia
+01:45:04.760 so I think there's a problem to be
+01:45:07.260 solved I I hope that ondc is the answer
+01:45:10.380 we've integrated with them hopefully
+01:45:12.780 that will solve but still very early in
+01:45:14.940 very simple words like if you were to
+01:45:16.619 dumb it down for me
+01:45:18.239 if I am a seller who makes soaps
+01:45:23.300 after on DC how does my life change so I
+01:45:26.520 think it's more interrupt so basically
+01:45:28.679 they say it's like the UPI of e-commerce
+01:45:30.960 it's supposed to be that which is anyone
+01:45:33.900 you can upload your catalog on any app
+01:45:36.000 and it'll start to appear on all other
+01:45:38.280 apps which are integrated with who in DC
+01:45:41.460 so that's how it's supposed to be it's
+01:45:42.900 an interoperable e-commerce platform
+01:45:45.980 tomorrow when I put my soap on me show
+01:45:48.960 will it automatically show up on
+01:45:51.060 Flipkart it should if everything is on
+01:45:53.760 to AC that's the goal
+01:45:55.460 I have a very in I want to ask you a
+01:45:58.320 question so you all you all believe that
+01:46:00.540 uh
+01:46:19.100 just go
+01:46:21.119 um
+01:46:27.000 I'll leave an example because this
+01:46:29.100 happened so gradually but this happens
+01:46:32.580 so gradually people don't understand but
+01:46:34.560 if you look at pandemic where things
+01:46:35.940 happen like very quickly right so
+01:46:37.619 suddenly for a year nothing was selling
+01:46:39.960 offline and you meet any small business
+01:46:42.119 in India like people are like oh
+01:46:44.639 people used to come to me and say sell
+01:46:46.199 online and I did not do and now I can't
+01:46:48.300 just put food on the table at my
+01:46:50.580 household right so I'm saying at that
+01:46:52.679 point I'm every small business India
+01:46:54.179 realize they want to be online and to
+01:46:55.980 some extent by the way informally a lot
+01:46:57.420 of them are online because they sell on
+01:46:58.619 WhatsApp so you can say that converter
+01:47:00.239 also sends you whatever you want in a
+01:47:02.460 WhatsApp right they can are they selling
+01:47:04.260 online maybe yes
+01:47:05.580 but still
+01:47:07.139 like quite hidden in some unstructured
+01:47:09.480 platforms they haven't come online and
+01:47:11.580 they can't get access to a lot of demand
+01:47:14.100 that people who are selling online and
+01:47:15.420 getting to like he was saying that it's
+01:47:16.800 a digitization
+01:47:19.400 but someone has to enable and somehow
+01:47:21.840 they've been lots of roadblocks that
+01:47:23.699 haven't enabled it so let's assume
+01:47:27.139 in Mysore
+01:47:29.300 I only had a relationship with you
+01:47:33.020 platform today suddenly the product
+01:47:36.540 shows up in Amazon Flipkart everywhere
+01:47:40.860 how does the use case for an e-commerce
+01:47:43.920 platform change them because then Amazon
+01:47:45.960 has less control over
+01:47:48.480 what all products are listed under them
+01:47:52.619 yeah and and that's the
+01:47:55.500 that's the unique thing about it
+01:47:57.840 a lot of those design principles haven't
+01:47:59.760 been thought of yet
+01:48:01.560 because okay everyone has a different
+01:48:03.000 supply chain right like if everything is
+01:48:04.860 available everywhere and everything who
+01:48:07.020 stands for what what does a brand stands
+01:48:09.420 for like because everyone use the same
+01:48:11.100 supply chain so the product will come in
+01:48:12.600 same amount of time if everything comes
+01:48:14.639 the same amount of time then how will
+01:48:15.780 Amazon build a different identity than
+01:48:17.219 anyone else so the problem is like no
+01:48:19.920 one has thought about it even people
+01:48:21.540 have designed it still very early
+01:48:24.260 so I I don't know what will happen there
+01:48:30.619 because if everyone is the same then how
+01:48:33.600 do people stand for different things and
+01:48:34.920 why will you have multiple apps and then
+01:48:36.480 who will really do it and which is the
+01:48:38.760 big problem payments are same on every
+01:48:40.739 app it's not that my if I do payment
+01:48:43.080 uh with one app to the other they stand
+01:48:46.080 for different things payments is a
+01:48:47.820 commoditized one simple thing products
+01:48:50.040 are not like it's two different stores
+01:48:52.920 you go to cannot be exactly the same
+01:48:54.780 they stand for different things what
+01:48:56.880 they merchandise what they talk about
+01:48:58.320 what their marketing line is they're
+01:48:59.820 very different things so if you try to
+01:49:01.920 commoditize storefronts or marketplaces
+01:49:04.980 it's never been done before
+01:49:07.020 so how does it really come to life no
+01:49:09.119 one knows so I don't have a good answer
+01:49:10.440 to this question
+01:49:12.600 even government is not very clear
+01:49:14.760 they're trying they're bringing the
+01:49:16.260 people
+01:49:17.100 together but let's see everybody have
+01:49:19.860 their own hidden agenda
+01:49:22.920 so India May investing into e-commerce
+01:49:25.679 there aren't many opportunities Flipkart
+01:49:27.900 is owned by Walmart they're not listed
+01:49:29.699 here one can argue you can buy Walmart
+01:49:31.619 shares in America but that would
+01:49:34.040 diversify you too much
+01:49:36.119 the only option I would say
+01:49:38.639 arguably is Nika
+01:49:40.980 jaha you can get a piece of the
+01:49:43.020 e-commerce spy in India in the listed
+01:49:45.540 space
+01:49:46.440 uh what do you guys think of Nika
+01:49:49.320 the business model of Nica
+01:49:51.659 and what do you think will happen to
+01:49:54.300 naika going forward I know they're your
+01:49:56.460 competition but no we're not bad I
+01:49:59.219 believe it's a very different business
+01:50:00.420 like we have a platform they're a brand
+01:50:02.580 so I think it's are they a brand because
+01:50:04.619 they're not they're Distributing third
+01:50:06.360 party products yeah but still they are a
+01:50:07.920 brand their brand
+01:50:09.300 well look at Amazon as a brand it's a
+01:50:11.940 brand Flipkart is a brand Nica is a
+01:50:13.739 brand misho is also a brand they've
+01:50:15.900 worked on building the brand so yeah but
+01:50:17.760 my my still my thing was like they
+01:50:21.840 a lot of what they do offline online the
+01:50:24.000 kind of products they sell a lot of
+01:50:25.800 products are exclusive so basically but
+01:50:28.380 vast majority of what they sell let's
+01:50:31.199 say they do 4 000 crores of business a
+01:50:34.139 year let's say five percent margin kind
+01:50:36.000 of business
+01:50:37.100 operating margin or net margin five
+01:50:40.139 percent but most of what they sell is
+01:50:43.320 third party products that they are
+01:50:45.000 Distributing
+01:50:47.100 so that's why I think my understanding
+01:50:48.780 of the business could also be limited
+01:50:50.159 but from what I've seen how they've
+01:50:51.960 approached it a lot of that business has
+01:50:53.880 been built by getting Supply that you
+01:50:56.460 won't get everywhere right so they've
+01:50:58.020 been much more focused on going very
+01:50:59.940 deep into that particular category and
+01:51:01.679 making it happen if if by the way you
+01:51:04.679 can get the same Supply that you have in
+01:51:06.119 Nica you have an um you can get an
+01:51:07.500 Amazon and they'll ship like the next
+01:51:09.000 day why won't you buy from there and it
+01:51:10.679 should not happen right but it does not
+01:51:12.900 if somebody is buying are they betting
+01:51:15.000 into the story of India to Growing
+01:51:17.940 significantly and India one growing as
+01:51:20.100 well
+01:51:21.239 but I put a woman child is getting uh
+01:51:25.440 getting into Beauty even in India too
+01:51:29.639 very significant way
+01:51:31.679 so there is some budget of the family
+01:51:33.179 going into beauty Beauty as a category
+01:51:35.159 as also growing signature that's
+01:51:37.260 actually a very interesting question
+01:51:38.520 let's put India too by the way in terms
+01:51:40.320 of beauty ends up being lipstick nail
+01:51:42.060 polish what about Foundation but that's
+01:51:44.040 also a three category SK who is not
+01:51:46.020 small but it's very three four five
+01:51:48.540 little how does one evaluate something
+01:51:50.520 like Nica
+01:51:52.380 how does one Benchmark I'm asking
+01:51:54.840 because you both are in e-commerce
+01:51:56.159 you've had flip car to done you have me
+01:51:58.260 show if I'm an investor trying to figure
+01:52:01.020 out I should invest in the company like
+01:52:03.000 I think falguni is an exceptional
+01:52:04.920 entrepreneur I know her and I think if
+01:52:08.699 anybody can pull it off it's possibly or
+01:52:11.040 likely her she's had an exceptional past
+01:52:14.580 and great management and all of those
+01:52:16.619 things
+01:52:17.460 but the broader question is
+01:52:20.940 how big is the e-commerce spy in India
+01:52:24.060 and are we betting
+01:52:26.340 based on the valuations of whatever I
+01:52:28.800 mentioned are we betting that India one
+01:52:31.020 and two will grow to X percentage in the
+01:52:33.960 next five years or ten years is that the
+01:52:36.420 bet we are making yeah I've I don't know
+01:52:38.880 the answer to that question and I won't
+01:52:40.260 even attempt but what I know is I don't
+01:52:42.119 think that company is a good
+01:52:44.040 representation of India e-commerce
+01:52:45.719 because it's very narrow in a category
+01:52:48.000 and very narrow in terms of the customer
+01:52:49.739 base they serve their average order
+01:52:51.239 value if I remember from some fifteen
+01:52:52.860 hundred eighteen hundred two thousand
+01:52:54.060 something like that
+01:52:55.340 but it's not quite high it's very high
+01:52:58.139 so my point it's super high so the
+01:53:01.080 segment exposure and category exposure
+01:53:04.139 cannot be a representational because
+01:53:05.699 that's what I believe okay let's talk
+01:53:07.619 about Mission let's make it more
+01:53:09.600 interesting what is your valuation today
+01:53:13.280 our valuation this is the last one was
+01:53:15.659 about five billion okay and give us some
+01:53:18.840 metrics like some numbers and whatever
+01:53:20.460 is publicly yeah something we have about
+01:53:22.679 14 crore people who buy from US every
+01:53:24.420 year about a million small businesses
+01:53:27.300 um in the last one year we did about one
+01:53:29.280 billion orders which is about 100 crores
+01:53:31.199 that's so about 100 crore orders in the
+01:53:33.600 last 12 months um
+01:53:35.960 right 14 crore people buying huh yeah
+01:53:38.639 and and by the way we sell across so
+01:53:40.320 horizontal platform people come and sell
+01:53:42.060 anything they want so about half is a
+01:53:44.639 paddle and half is non apparel and that
+01:53:47.159 includes kids beauty Personal Care your
+01:53:50.840 electronics like the gross sales that
+01:53:54.780 happen on
+01:53:55.980 yeah so about like last 2020 calendar
+01:53:58.679 year was about four and a half quarter
+01:54:01.260 to five billion
+01:54:02.760 um
+01:54:03.780 so which is last year and what is the
+01:54:07.139 margin on the top level out of this 5
+01:54:09.420 billion you sell on average how much
+01:54:10.860 margin do you have your skin
+01:54:14.000 why do you want to open my pnl in front
+01:54:16.500 of me here right now right right I think
+01:54:19.679 tickets
+01:54:21.679 dealing with that kind of customers
+01:54:23.820 right but ticket size come on 320. and
+01:54:27.119 that's the I'm saying that's the problem
+01:54:28.199 you have to solve it like so that's the
+01:54:29.880 biggest problem correct what would that
+01:54:31.320 be for Flipkart
+01:54:32.699 foreign
+01:55:06.960 and secondly they build their own
+01:55:09.659 strength of the content to Commerce I
+01:55:12.360 think it was a very interesting way they
+01:55:14.159 build it
+01:55:15.679 there are negatives that uh
+01:55:19.159 they have attracted attention and too
+01:55:21.239 many players are coming in
+01:55:23.760 uh
+01:55:24.960 they need to
+01:55:27.239 build their own brand in the ecosystem
+01:55:30.540 which they might be doing they went into
+01:55:32.460 too many things now they went into B2B
+01:55:35.699 but I was surprised that even I never
+01:55:38.460 thought beauty and fashion as a
+01:55:40.260 adjacency will work as much but naika is
+01:55:43.440 not doing bad on fashion yeah they just
+01:55:45.900 launched that aloe yoga
+01:55:48.780 they are distributed killing it that
+01:55:51.659 brand abroad it's it's it's it's doing
+01:55:54.420 reasonably quite okay
+01:55:56.219 so in in if they are able to build
+01:55:58.440 adjacencies it becomes an interesting
+01:56:00.060 story
+01:56:00.840 I think one thing you have to give it to
+01:56:03.179 the uh
+01:56:05.119 they have built the business with the
+01:56:07.619 discipline unit economy so that they
+01:56:09.420 have gone to Market and definitely the
+01:56:12.239 market beliefs in the uh on their IPO
+01:56:15.320 like everybody or is there still holding
+01:56:18.300 a very high given the comparison to
+01:56:20.520 their revenue
+01:56:21.900 I think only problem is how to expand
+01:56:24.360 that their time
+01:56:26.159 uh is it the similar because the
+01:56:29.100 category they are in
+01:56:30.960 it's already niche
+01:56:33.659 and build as a Commerce so it's very
+01:56:36.420 hard to say that it's a full-fledged
+01:56:38.040 e-commerce I will not call it as a
+01:56:40.139 platformized e-commerce it's a vertical
+01:56:43.020 definitely they are building other
+01:56:44.639 verticals also adjacency but
+01:56:47.159 it's a difficult Journey let's see if I
+01:56:49.860 had to like figure out Eco let's say I
+01:56:51.719 am I have 100 rupees to invest and I
+01:56:54.719 want to invest in e-commerce because
+01:57:00.600 even now more and more of what's gonna
+01:57:02.639 come in the public markets what people
+01:57:04.679 say is
+01:57:07.440 now a first cry is someone who's saying
+01:57:09.480 we'll go public will be very similar
+01:57:12.119 like one sector certain way that'll be
+01:57:15.540 the key curation with ondc with many
+01:57:17.880 platforms no no I think that's why
+01:57:19.260 what's happening is these value value
+01:57:20.820 adding brands are going online platforms
+01:57:23.099 will come and I don't know both the
+01:57:25.679 other plot platform Walmart and Amazon
+01:57:27.239 they will list in India unlikely
+01:57:29.639 so hopefully we will do it at some point
+01:57:31.440 in time right but I feel like that the
+01:57:34.440 e-commerce exposure that you keep
+01:57:35.760 referring to unless you take parts of
+01:57:38.219 all of them and take care
+01:57:50.239 should I be in e-commerce or is the
+01:57:53.580 market to saturate
+01:57:55.400 for to start a platform as a career
+01:57:58.260 start a platform or to be emergency
+01:57:59.960 there's no other option but to be a part
+01:58:02.159 of it yeah yeah I think being part of
+01:58:04.080 e-commerce the only way is not to be a
+01:58:07.080 platform right like now all the d2c
+01:58:09.540 brands are part of e-commerce and
+01:58:11.880 everyone so the beautiful thing that has
+01:58:13.860 happened because e-commerce platforms is
+01:58:15.480 now personalization and localization
+01:58:17.340 that can happen
+01:58:19.320 like it was not possible ago so now
+01:58:22.080 people are like finding very Nation
+01:58:23.460 basically serving them so you only get
+01:58:26.340 discovered with a particular search term
+01:58:28.020 and people buy you again and again
+01:58:30.060 something lots of these micro d2c brands
+01:58:32.040 are possible so I'm saying
+01:58:33.900 being part of e-commerce everything that
+01:58:36.420 you do around selling digital products
+01:58:37.860 is being part of e-commerce and I
+01:58:39.780 believe it will only accelerate because
+01:58:41.099 there's no other way anymore
+01:58:42.679 right like especially us three living in
+01:58:45.960 Bangalore we're all from this
+01:58:48.119 we're all products of a startup bubble
+01:58:50.460 which started last decade and I think to
+01:58:54.239 be fair like we were talking about
+01:58:55.739 knowing your flaws I think we're
+01:58:57.480 cognizant to the fact that we are
+01:58:59.460 byproducts of a startup bubble
+01:59:02.119 what happens
+01:59:04.320 to e-commerce
+01:59:06.500 once the deep discounting in a way or
+01:59:10.440 the marketing money which was funded by
+01:59:14.699 a cheap
+01:59:15.599 cost of capital abroad goes away like
+01:59:18.840 how do things change let's say
+01:59:21.840 there is no funding available
+01:59:24.000 for growth for Indian e-commerce
+01:59:26.520 companies in the next three years and
+01:59:29.580 they have to survive with the money they
+01:59:31.199 have left
+01:59:33.300 How does each one change
+01:59:35.880 my mind is a very hypothetical question
+01:59:38.940 but
+01:59:40.440 I think look
+01:59:43.260 when you are building a business you
+01:59:45.000 know that this much money you need let's
+01:59:46.800 say plus minus who can say that
+01:59:48.840 I think only you can say that hey
+01:59:51.119 growth is the right Matrix
+01:59:53.880 if you are growing
+01:59:55.560 then investing money even though let's
+01:59:57.840 say profitability comes after Elizabeth
+01:59:59.460 I don't agree I don't know hear me out
+02:00:01.739 here now I understand
+02:00:03.840 uh I
+02:00:05.159 but if you are with those unit in your
+02:00:10.320 boundaries you are capturing the markets
+02:00:12.119 here and growing
+02:00:14.099 I think I am in that kind of a student
+02:00:17.280 where I'll support that but burning
+02:00:19.739 money
+02:00:20.760 and hurting the company
+02:00:23.820 like you burn money you get the GMB see
+02:00:26.219 but but you're you need to call me is
+02:00:28.739 not holding you should not do that but
+02:00:30.659 if you kill your company but you're also
+02:00:32.580 making an assumption that this tap is
+02:00:34.560 open where you continue to get money to
+02:00:36.480 burn money how about by the way unit
+02:00:37.920 economics I also feel like why you need
+02:00:40.860 economics why not a Buddha
+02:00:53.659 let's say
+02:00:55.440 growth is is an important Matrix also
+02:00:58.020 that's the problem
+02:01:00.480 I've been a growth story in a way and I
+02:01:03.659 don't think that holds true
+02:01:06.179 because I'll tell you why I'll explain
+02:01:08.340 you why after a point the growth comes
+02:01:11.400 at an extraordinary cost
+02:01:13.880 and that's what I'm saying that we
+02:01:15.780 should not do that if it's coming up
+02:01:20.880 you will be lost in that journey of
+02:01:22.560 growth you want it at any cost you want
+02:01:24.719 to be the leader in this category and
+02:01:26.219 the space which you belong to I think
+02:01:27.599 that is so true
+02:01:29.179 by the way I believe so my opinion is
+02:01:31.920 they're multiple things they're one
+02:01:33.360 state of the business especially in
+02:01:34.619 e-commerce you need to cross a critical
+02:01:37.440 mass yeah
+02:01:38.960 and unless you get there if you try to
+02:01:42.000 become profitable too soon you get into
+02:01:44.520 a negative spiral it's okay so it's
+02:01:46.800 because people take the same lesson
+02:01:48.480 apply across stages I don't believe it
+02:01:50.040 works I I have to get to critical mass
+02:01:52.139 but after that I believe you need to be
+02:01:53.699 profitable of course I'm not right so
+02:01:55.380 our goal is I think by the end of this
+02:01:57.239 year we'll become profitable because
+02:02:00.260 right you have five billion sales now
+02:02:02.580 you know make sure that the business
+02:02:03.719 becomes profitable but if I try to do it
+02:02:05.760 four years ago I would have made a like
+02:02:08.099 a big blunder
+02:02:10.020 I have a very interesting take on
+02:02:11.880 technology so I I always believe that
+02:02:13.380 technology does he does three or four
+02:02:14.760 things which different from the
+02:02:17.099 traditional or the old economy when it
+02:02:19.260 reduces space reduces time and creates
+02:02:22.320 social interactions
+02:02:23.820 and like in fashion business on on
+02:02:26.880 digital Commerce you can do 10 stocktons
+02:02:28.920 where in physical you can't do more than
+02:02:30.300 three three and a half you can work with
+02:02:32.340 less number of people you can introduce
+02:02:34.199 lives a lot of processes
+02:02:36.179 and then social interaction is something
+02:02:38.699 digitally you can build a lot and
+02:02:41.099 acquire customer at the much lower cost
+02:02:43.380 than what physical it was in physical
+02:02:45.300 the world economy used to advertise for
+02:02:47.099 everybody
+02:02:47.820 here you can Target you can do a lot so
+02:02:50.580 it has lot of advantages anybody will
+02:02:52.380 take advantages of all this thing will
+02:02:53.940 going to be the winner and constraint
+02:02:55.739 can create companies yeah yeah yeah of
+02:02:57.840 course I am I from and lastly I also
+02:03:01.380 believe that unless you are getting into
+02:03:03.540 unless you don't have X amount of value
+02:03:05.639 addition done you are not in a business
+02:03:07.440 only
+02:03:11.460 in e-commerce also if you'll see a scale
+02:03:14.460 business these are scale business and
+02:03:15.960 that's why I was not able to answer on
+02:03:17.940 the Nike because I were not imagining
+02:03:19.800 how a webless skill will come from
+02:03:21.480 because you know supply chain the same
+02:03:23.340 thing goes goes on because those are the
+02:03:25.560 principles where more and more scale you
+02:03:27.540 can reduce the reduce the cost
+02:03:30.480 I think building those capabilities
+02:03:32.699 where sourcing is a big thing in
+02:03:36.840 e-commerce let's say uh and by retelling
+02:03:40.619 is
+02:03:43.679 file crack sourcing
+02:03:46.020 and definitely I'm not talking about the
+02:03:48.480 going and having doing that math on
+02:03:52.080 sourcing rather than buying keeping that
+02:03:55.860 inventory and then Distributing and
+02:03:58.199 saving the money I think that's a lose
+02:04:00.659 match and it will only come on certain
+02:04:03.360 scales when though you you involved on
+02:04:05.400 the production side of it interesting
+02:04:06.960 any final words for
+02:04:09.239 anybody looking to get involved in
+02:04:11.520 e-commerce
+02:04:13.139 final thoughts
+02:04:16.699 Bangalore me college
+02:04:21.260 thoughts so when I look at d2c Brands it
+02:04:25.199 was d2c brands are something like you
+02:04:27.480 are living in a neighborhood and you
+02:04:29.159 open the shop
+02:04:30.540 I think you start from there and from
+02:04:33.119 there you grow and open too much it
+02:04:35.099 allows you to open to a much much larger
+02:04:36.719 audiences
+02:04:38.159 so that's the way forward you can now go
+02:04:40.920 and open a shop below your building
+02:04:42.900 it's great to get into digital Commerce
+02:04:44.940 and if you're lucky and if you do well
+02:04:46.739 if you're passionate I think
+02:04:49.139 it's a great business to be
+02:04:52.320 no I believe there is no other way right
+02:04:54.300 so I believe as I think we started in
+02:04:57.000 the beginning the definition between
+02:04:58.980 e-commerce Commerce offline Commerce are
+02:05:01.560 getting blurred more and more so if you
+02:05:03.719 wanna do anything in Commerce you have
+02:05:05.880 to basically figure out how to make
+02:05:08.280 e-commerce work
+02:05:09.540 this holds true for anyone who's
+02:05:11.159 starting a business today
+02:05:12.719 so I think if you want to create value I
+02:05:14.940 think you will become a part of this so
+02:05:16.800 I think instead of asking should I
+02:05:17.940 become part of this question is what do
+02:05:19.739 I need to do to really become successful
+02:05:21.900 at this
+02:05:23.040 and I will that will happen
+02:05:25.260 like social figuring out influencers
+02:05:27.840 figuring out everything else figuring
+02:05:30.000 out marketplaces
+02:05:32.159 I I think contrary it says integrated
+02:05:34.380 them
+02:05:35.340 because you get the same products same
+02:05:37.199 thing earlier when people Define that
+02:05:39.360 when offline hey you'll get something in
+02:05:41.820 Delhi or in Mumbai or in big cities
+02:05:43.739 you'll not get in tier two or in now
+02:05:46.139 e-commerce made it every product is
+02:05:47.820 available everywhere we all agreed
+02:05:49.860 that's become a very relevant part right
+02:05:51.540 figuring out
+02:05:53.040 to sell anything hmm
+02:05:56.820 so I think if you are doing Commerce
+02:05:58.260 online will happen for sure some people
+02:06:00.060 will do hybrid as well but I'm also
+02:06:02.280 seeing
+02:06:03.540 so for example 40 percent of sellers on
+02:06:05.820 me show are online only sellers they
+02:06:08.520 don't sell anywhere else so they have
+02:06:10.020 basic they became entrepreneurs for the
+02:06:11.760 first time because they figured out hey
+02:06:13.679 I can go on this platform I figure I
+02:06:15.960 know how to merchandise well how to
+02:06:18.840 price well how to figure out what trends
+02:06:21.119 work on this Marketplace and so on
+02:06:23.400 so people are creating businesses
+02:06:25.800 basically so I think that will happen
+02:06:27.840 more and more lots of online native
+02:06:30.300 sellers will come and they would have
+02:06:32.460 never known what does it mean to sell
+02:06:33.840 offline
+02:06:35.880 I I believe they say
+02:06:38.639 I can only
+02:06:40.560 uh finding the similarity when we have
+02:06:42.780 started let's say 2007-2008
+02:06:45.239 the internet at that time was not even
+02:06:47.340 the main Channel only eight million
+02:06:49.080 people have in the broadband and the
+02:06:50.699 internet access at that time 2008.
+02:06:53.880 uh but I think taking that punt the
+02:06:56.699 internet is a most powerful thing and
+02:06:58.920 people have evolved like social I
+02:07:01.020 believe the 20-year guy who understand
+02:07:02.760 much better than me and because when we
+02:07:05.940 have to learn talk to him and finally
+02:07:08.580 Commerce definitely doesn't matter which
+02:07:10.920 channel but it will going to happen and
+02:07:12.540 adopted in a most evolving way
+02:07:15.300 I believe the social influencers and all
+02:07:18.119 are the great Channel how to get use of
+02:07:20.940 that in look I'm not talking about
+02:07:22.800 supply chain I'm not talking about
+02:07:24.300 inventory those are given if you wanted
+02:07:26.520 to transport one physical Goods those
+02:07:28.440 will come into play and somewhere it's
+02:07:31.199 it's solving or solved it's evolving in
+02:07:33.840 own pace
+02:07:34.980 but getting into the consumer side of it
+02:07:37.920 where the consumers minds are be part of
+02:07:40.380 that and see how how one can be uh do
+02:07:43.980 those Commerce transaction uh how to
+02:07:46.679 influence I think that's the advice
+02:07:49.199 I and and new channels already are
+02:07:51.480 emerging
+02:07:52.679 super great thank you everyone for
+02:07:54.480 watching thank you thank you Kishore
+02:07:55.920 with it and sujit cheers everybody
+02:07:58.380 thanks for hosting us
+02:07:59.760 hi I'm nikhil uh thank you for watching
+02:08:02.940 the podcast
+02:08:04.199 let us know who your favorite guest has
+02:08:06.360 been and who you'd like to watch next
+02:08:08.040 thank you

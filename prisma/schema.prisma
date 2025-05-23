@@ -1,0 +1,15 @@
+// Prisma schema placeholder - no DB needed for MVP
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Episode {
+  id         String @id
+  title      String
+  transcript String
+}
